@@ -1,12 +1,17 @@
 # dv-repo
 a public repository for distribution of Dragon Village 1 visual assets.
 <br><br>
+<div>
 i do <i>not</i> own these assets. they are copyrighted property of highbrow, and are <i>not</i> for commercial use. i initially retrieved these assets by request, due to the widespread issue of the community being unable to access basic clear images of Dragon Village 1 characters. in addition, the encyclopedia on dragonvillage.net has been left without updates for years. this, along my worsening health and being a single point of failure for many major Dragon Village community resources, has led me to the decision of setting up a separate public repository for assets that are otherwise difficult to obtain.
 <br><br>
 NOTE: the visual portions of Dragon Village 1 animation assets are normally protected through encryption. as such, many assets in this repository were obtained through reverse engineering and decompiling source code. many were also altered to ensure compatibility with the Dragon Bones animation software. through downloading these assets, you acknowledge that the only way these assets could be sourced was through <i>violating highbrow's Terms of Service</i>, which explicitly forbids these actions on three counts:<br>
 - reverse engineering<br>
 - defeating game security (such as through decryption)<br>
-- and altering copyrighted assets<br>
+- and altering copyrighted assets
+</div>
+<br><br>
+<div>
 if you intend to use these assets for personal github projects, i heavily recommend that you clone this repository and make copies in case it is taken down.
 <br><br>
 if you are looking for the Dragon Bones animation software, it can be found for free on the Internet Archive. do <i>not</i> ask me for encryption keys or reverse engineering tools.
+</div>
