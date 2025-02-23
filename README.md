@@ -7,8 +7,8 @@ i do <i>not</i> own these assets. they are copyrighted property of highbrow, and
 NOTE: the visual portions of Dragon Village 1 animation assets are normally protected through encryption. as such, many assets in this repository were obtained through reverse engineering and decompiling source code. many were also altered to ensure compatibility with the Dragon Bones animation software. through downloading these assets, you acknowledge that the only way these assets could be sourced was through <i>violating highbrow's Terms of Service</i>, which explicitly forbids these actions on three counts:
 <br><br>
 <ul>
-<li>reverse engineering</li>
-<li>defeating game security (such as through decryption)</li>
+<li>reverse engineering, disassembling, or decompliling source code</li>
+<li>defeating or overcoming game encryption technologies or security</li>
 <li>and altering copyrighted assets</li>
 </ul>
 </div>
