@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{114,39}</string>
                 <key>textureRect</key>
-                <string>{{640,114},{114,39}}</string>
+                <string>{{305,73},{114,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +30,37 @@
                 <key>spriteSourceSize</key>
                 <string>{114,39}</string>
                 <key>textureRect</key>
-                <string>{{667,73},{114,39}}</string>
+                <string>{{421,73},{114,39}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/guild/guild_cave/submaster/WGP_rank_bt</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{114,39}</string>
+                <key>spriteSourceSize</key>
+                <string>{114,39}</string>
+                <key>textureRect</key>
+                <string>{{1,114},{114,39}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/guild/guild_cave/submaster/WGP_rank_bt_choice</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{114,39}</string>
+                <key>spriteSourceSize</key>
+                <string>{114,39}</string>
+                <key>textureRect</key>
+                <string>{{117,114},{114,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{150,39}</string>
                 <key>textureRect</key>
-                <string>{{488,128},{150,39}}</string>
+                <string>{{1,73},{150,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,9 +90,9 @@
                 <key>spriteSourceSize</key>
                 <string>{50,53}</string>
                 <key>textureRect</key>
-                <string>{{463,73},{50,53}}</string>
+                <string>{{465,114},{50,53}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_cave/submaster/cp</key>
             <dict>
@@ -75,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{41,23}</string>
                 <key>textureRect</key>
-                <string>{{640,155},{39,23}}</string>
+                <string>{{1,155},{39,23}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{114,39}</string>
                 <key>textureRect</key>
-                <string>{{756,114},{114,39}}</string>
+                <string>{{233,114},{114,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -105,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{114,39}</string>
                 <key>textureRect</key>
-                <string>{{783,73},{114,39}}</string>
+                <string>{{349,114},{114,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -120,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{41,23}</string>
                 <key>textureRect</key>
-                <string>{{463,128},{41,23}}</string>
+                <string>{{520,114},{41,23}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -135,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{150,39}</string>
                 <key>textureRect</key>
-                <string>{{515,73},{150,39}}</string>
+                <string>{{153,73},{150,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,7 +180,7 @@
                 <key>spriteSourceSize</key>
                 <string>{460,184}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{460,184}}</string>
+                <string>{{552,1},{460,184}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,7 +195,7 @@
                 <key>spriteSourceSize</key>
                 <string>{549,70}</string>
                 <key>textureRect</key>
-                <string>{{463,1},{549,70}}</string>
+                <string>{{1,1},{549,70}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -183,7 +213,7 @@
             <key>size</key>
             <string>{1013,186}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b5b2a6cd454476f62ec893eda2dfb8a4:bdb37cd0ea07025dbecc90b12861e55e:02463c3f919ab3fa353882292de5b0c2$</string>
+            <string>$TexturePacker:SmartUpdate:bb400a38302c4e725ccf10a4a7d5410e:a57e10ce307c2fe0002c50a4b8be0ca6:02463c3f919ab3fa353882292de5b0c2$</string>
             <key>textureFileName</key>
             <string>submaster.pvr.ccz</string>
         </dict>

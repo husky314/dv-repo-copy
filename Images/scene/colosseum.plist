@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{310,1178},{48,84}}</string>
+                <string>{{1268,892},{48,84}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -30,9 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1872,793},{62,86}}</string>
+                <string>{{1636,826},{62,86}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/3(s)</key>
             <dict>
@@ -45,9 +45,9 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1806,758},{64,86}}</string>
+                <string>{{1700,905},{64,86}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/4(s)</key>
             <dict>
@@ -60,9 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1427,1057},{64,86}}</string>
+                <string>{{1788,887},{64,86}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/5(s)</key>
             <dict>
@@ -75,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1960,790},{64,86}}</string>
+                <string>{{1939,877},{64,86}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{54,56}</string>
                 <key>textureRect</key>
-                <string>{{1669,1165},{52,54}}</string>
+                <string>{{1523,1099},{52,54}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -105,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{227,198}</string>
                 <key>textureRect</key>
-                <string>{{1644,558},{227,198}}</string>
+                <string>{{1794,277},{227,198}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/back_minipop1</key>
             <dict>
@@ -120,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{227,279}</string>
                 <key>textureRect</key>
-                <string>{{1644,277},{227,279}}</string>
+                <string>{{1356,603},{227,279}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,9 +150,9 @@
                 <key>spriteSourceSize</key>
                 <string>{202,32}</string>
                 <key>textureRect</key>
-                <string>{{398,1164},{202,32}}</string>
+                <string>{{1994,253},{202,32}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/bar_minipop_color3</key>
             <dict>
@@ -165,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{202,32}</string>
                 <key>textureRect</key>
-                <string>{{1578,895},{202,32}}</string>
+                <string>{{1390,959},{202,32}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -180,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{202,32}</string>
                 <key>textureRect</key>
-                <string>{{1948,517},{202,32}}</string>
+                <string>{{1390,993},{202,32}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/bg_avd</key>
             <dict>
@@ -195,9 +195,9 @@
                 <key>spriteSourceSize</key>
                 <string>{76,23}</string>
                 <key>textureRect</key>
-                <string>{{1033,1204},{76,23}}</string>
+                <string>{{1705,1146},{76,23}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/bg_cri</key>
             <dict>
@@ -210,9 +210,9 @@
                 <key>spriteSourceSize</key>
                 <string>{76,23}</string>
                 <key>textureRect</key>
-                <string>{{1111,1204},{76,23}}</string>
+                <string>{{1816,1082},{76,23}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/box_mine</key>
             <dict>
@@ -225,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{82,82}</string>
                 <key>textureRect</key>
-                <string>{{1942,878},{82,82}}</string>
+                <string>{{1939,965},{82,82}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -240,7 +240,7 @@
                 <key>spriteSourceSize</key>
                 <string>{76,22}</string>
                 <key>textureRect</key>
-                <string>{{1723,1199},{76,22}}</string>
+                <string>{{1841,1156},{76,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -255,7 +255,7 @@
                 <key>spriteSourceSize</key>
                 <string>{57,67}</string>
                 <key>textureRect</key>
-                <string>{{1948,721},{57,67}}</string>
+                <string>{{1463,1142},{57,67}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -270,7 +270,22 @@
                 <key>spriteSourceSize</key>
                 <string>{57,67}</string>
                 <key>textureRect</key>
-                <string>{{1674,1027},{57,67}}</string>
+                <string>{{1626,914},{57,67}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>scene/colosseum/bt_4x</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{57,67}</string>
+                <key>spriteSourceSize</key>
+                <string>{57,67}</string>
+                <key>textureRect</key>
+                <string>{{1522,1155},{57,67}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -300,7 +315,7 @@
                 <key>spriteSourceSize</key>
                 <string>{131,41}</string>
                 <key>textureRect</key>
-                <string>{{767,1186},{131,41}}</string>
+                <string>{{1390,1099},{131,41}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -315,7 +330,7 @@
                 <key>spriteSourceSize</key>
                 <string>{131,41}</string>
                 <key>textureRect</key>
-                <string>{{900,1186},{131,41}}</string>
+                <string>{{1899,697},{131,41}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -330,9 +345,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,41}</string>
                 <key>textureRect</key>
-                <string>{{1283,1092},{131,41}}</string>
+                <string>{{1700,772},{131,41}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/bt_color5</key>
             <dict>
@@ -345,9 +360,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,41}</string>
                 <key>textureRect</key>
-                <string>{{1428,936},{131,41}}</string>
+                <string>{{1743,772},{131,41}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/bt_greetings</key>
             <dict>
@@ -360,9 +375,9 @@
                 <key>spriteSourceSize</key>
                 <string>{239,42}</string>
                 <key>textureRect</key>
-                <string>{{1986,253},{239,42}}</string>
+                <string>{{1,1178},{239,42}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/bt_ranking_help</key>
             <dict>
@@ -375,9 +390,9 @@
                 <key>spriteSourceSize</key>
                 <string>{50,50}</string>
                 <key>textureRect</key>
-                <string>{{1517,1022},{42,46}}</string>
+                <string>{{1578,912},{42,46}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/bt_skip</key>
             <dict>
@@ -390,7 +405,7 @@
                 <key>spriteSourceSize</key>
                 <string>{57,67}</string>
                 <key>textureRect</key>
-                <string>{{1672,1096},{57,67}}</string>
+                <string>{{1581,1145},{57,67}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -420,7 +435,7 @@
                 <key>spriteSourceSize</key>
                 <string>{238,57}</string>
                 <key>textureRect</key>
-                <string>{{1927,277},{238,57}}</string>
+                <string>{{1690,532},{238,57}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -435,7 +450,7 @@
                 <key>spriteSourceSize</key>
                 <string>{145,33}</string>
                 <key>textureRect</key>
-                <string>{{1428,901},{145,33}}</string>
+                <string>{{242,1178},{145,33}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -450,7 +465,7 @@
                 <key>spriteSourceSize</key>
                 <string>{131,27}</string>
                 <key>textureRect</key>
-                <string>{{1283,1178},{131,27}}</string>
+                <string>{{1872,826},{131,27}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -465,9 +480,9 @@
                 <key>spriteSourceSize</key>
                 <string>{307,49}</string>
                 <key>textureRect</key>
-                <string>{{1,1178},{307,49}}</string>
+                <string>{{1585,603},{307,49}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/emoticon_box_up</key>
             <dict>
@@ -495,7 +510,7 @@
                 <key>spriteSourceSize</key>
                 <string>{63,63}</string>
                 <key>textureRect</key>
-                <string>{{1791,846},{63,63}}</string>
+                <string>{{1577,1080},{63,63}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -510,7 +525,7 @@
                 <key>spriteSourceSize</key>
                 <string>{63,63}</string>
                 <key>textureRect</key>
-                <string>{{1903,962},{63,63}}</string>
+                <string>{{1642,1081},{63,63}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -525,7 +540,7 @@
                 <key>spriteSourceSize</key>
                 <string>{63,63}</string>
                 <key>textureRect</key>
-                <string>{{1903,1027},{63,63}}</string>
+                <string>{{1640,1146},{63,63}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -540,7 +555,7 @@
                 <key>spriteSourceSize</key>
                 <string>{63,63}</string>
                 <key>textureRect</key>
-                <string>{{1968,962},{63,63}}</string>
+                <string>{{1751,1082},{63,63}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -555,7 +570,7 @@
                 <key>spriteSourceSize</key>
                 <string>{63,63}</string>
                 <key>textureRect</key>
-                <string>{{1968,1027},{63,63}}</string>
+                <string>{{1730,1147},{63,63}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -570,7 +585,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{1515,1070},{42,42}}</string>
+                <string>{{1994,457},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -585,7 +600,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{1903,1092},{42,42}}</string>
+                <string>{{1707,1081},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -600,7 +615,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{1947,1092},{42,42}}</string>
+                <string>{{1795,1180},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -615,7 +630,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{1902,1136},{42,42}}</string>
+                <string>{{1839,1180},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -630,7 +645,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{1946,1136},{42,42}}</string>
+                <string>{{1883,1180},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -645,7 +660,7 @@
                 <key>spriteSourceSize</key>
                 <string>{211,28}</string>
                 <key>textureRect</key>
-                <string>{{1578,833},{211,28}}</string>
+                <string>{{873,1177},{211,28}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -660,9 +675,9 @@
                 <key>spriteSourceSize</key>
                 <string>{235,292}</string>
                 <key>textureRect</key>
-                <string>{{788,949},{235,292}}</string>
+                <string>{{1356,309},{235,292}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/icon_att</key>
             <dict>
@@ -675,7 +690,7 @@
                 <key>spriteSourceSize</key>
                 <string>{20,19}</string>
                 <key>textureRect</key>
-                <string>{{767,1164},{20,19}}</string>
+                <string>{{1984,855},{20,19}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -690,7 +705,7 @@
                 <key>spriteSourceSize</key>
                 <string>{20,20}</string>
                 <key>textureRect</key>
-                <string>{{1369,1207},{20,20}}</string>
+                <string>{{1962,855},{20,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -705,9 +720,9 @@
                 <key>spriteSourceSize</key>
                 <string>{19,17}</string>
                 <key>textureRect</key>
-                <string>{{1927,517},{19,17}}</string>
+                <string>{{1707,1125},{19,17}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/icon_ranking_point</key>
             <dict>
@@ -735,9 +750,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1561,942},{83,84}}</string>
+                <string>{{788,1063},{83,84}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/macro_1</key>
             <dict>
@@ -750,9 +765,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1647,942},{83,84}}</string>
+                <string>{{1305,959},{83,84}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/macro_2</key>
             <dict>
@@ -765,9 +780,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1416,1123},{83,84}}</string>
+                <string>{{1872,740},{83,84}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/macro_3</key>
             <dict>
@@ -780,7 +795,7 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1733,942},{83,84}}</string>
+                <string>{{1957,740},{83,84}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -795,7 +810,7 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1502,1123},{83,84}}</string>
+                <string>{{1854,877},{83,84}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -810,7 +825,7 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1587,1062},{83,84}}</string>
+                <string>{{1854,963},{83,84}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -825,9 +840,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1733,1028},{83,84}}</string>
+                <string>{{1594,973},{83,84}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/macro_7</key>
             <dict>
@@ -840,9 +855,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1731,1114},{83,84}}</string>
+                <string>{{1680,973},{83,84}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/macro_8</key>
             <dict>
@@ -855,9 +870,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1817,1114},{83,84}}</string>
+                <string>{{1765,975},{83,84}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/macro_9</key>
             <dict>
@@ -870,9 +885,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1856,857},{83,84}}</string>
+                <string>{{1941,1049},{83,84}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/macro_back</key>
             <dict>
@@ -885,9 +900,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1818,942},{83,84}}</string>
+                <string>{{1851,1071},{83,84}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/macro_bg</key>
             <dict>
@@ -915,9 +930,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,84}</string>
                 <key>textureRect</key>
-                <string>{{1818,1028},{83,84}}</string>
+                <string>{{1937,1135},{83,84}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/monster_fightbar</key>
             <dict>
@@ -945,7 +960,7 @@
                 <key>spriteSourceSize</key>
                 <string>{36,36}</string>
                 <key>textureRect</key>
-                <string>{{1991,1092},{36,36}}</string>
+                <string>{{1593,532},{36,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -960,7 +975,7 @@
                 <key>spriteSourceSize</key>
                 <string>{29,29}</string>
                 <key>textureRect</key>
-                <string>{{1782,911},{29,29}}</string>
+                <string>{{2005,913},{29,29}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -975,7 +990,7 @@
                 <key>spriteSourceSize</key>
                 <string>{208,30}</string>
                 <key>textureRect</key>
-                <string>{{1578,863},{208,30}}</string>
+                <string>{{1086,1177},{208,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1035,9 +1050,9 @@
                 <key>spriteSourceSize</key>
                 <string>{473,58}</string>
                 <key>textureRect</key>
-                <string>{{1584,277},{473,58}}</string>
+                <string>{{398,1164},{473,58}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/ranking_tab_off</key>
             <dict>
@@ -1050,9 +1065,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,41}</string>
                 <key>textureRect</key>
-                <string>{{1283,1135},{131,41}}</string>
+                <string>{{1786,754},{131,41}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/ranking_tab_on</key>
             <dict>
@@ -1065,9 +1080,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,41}</string>
                 <key>textureRect</key>
-                <string>{{1428,979},{131,41}}</string>
+                <string>{{1829,728},{131,41}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/reader_mark</key>
             <dict>
@@ -1080,7 +1095,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,18}</string>
                 <key>textureRect</key>
-                <string>{{1903,942},{19,18}}</string>
+                <string>{{1335,309},{19,18}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1095,9 +1110,9 @@
                 <key>spriteSourceSize</key>
                 <string>{189,38}</string>
                 <key>textureRect</key>
-                <string>{{1982,517},{189,38}}</string>
+                <string>{{1390,1027},{189,38}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/room_number_txt_box</key>
             <dict>
@@ -1110,7 +1125,7 @@
                 <key>spriteSourceSize</key>
                 <string>{292,52}</string>
                 <key>textureRect</key>
-                <string>{{1873,277},{292,52}}</string>
+                <string>{{1636,532},{292,52}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1170,9 +1185,9 @@
                 <key>spriteSourceSize</key>
                 <string>{515,112}</string>
                 <key>textureRect</key>
-                <string>{{1242,375},{515,112}}</string>
+                <string>{{788,949},{515,112}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/roundfight_4</key>
             <dict>
@@ -1185,9 +1200,9 @@
                 <key>spriteSourceSize</key>
                 <string>{515,112}</string>
                 <key>textureRect</key>
-                <string>{{1356,309},{515,112}}</string>
+                <string>{{873,1063},{515,112}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/roundfight_5</key>
             <dict>
@@ -1200,7 +1215,7 @@
                 <key>spriteSourceSize</key>
                 <string>{515,112}</string>
                 <key>textureRect</key>
-                <string>{{1470,309},{515,112}}</string>
+                <string>{{1242,375},{515,112}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1215,9 +1230,9 @@
                 <key>spriteSourceSize</key>
                 <string>{71,80}</string>
                 <key>textureRect</key>
-                <string>{{1587,1148},{71,80}}</string>
+                <string>{{1390,1142},{71,80}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/colosseum/start</key>
             <dict>
@@ -1245,9 +1260,9 @@
                 <key>spriteSourceSize</key>
                 <string>{85,33}</string>
                 <key>textureRect</key>
-                <string>{{1587,1027},{85,33}}</string>
+                <string>{{2005,826},{85,33}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/stats_bg</key>
             <dict>
@@ -1275,7 +1290,7 @@
                 <key>spriteSourceSize</key>
                 <string>{172,11}</string>
                 <key>textureRect</key>
-                <string>{{1575,929},{172,11}}</string>
+                <string>{{873,1207},{172,11}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1290,7 +1305,7 @@
                 <key>spriteSourceSize</key>
                 <string>{199,253}</string>
                 <key>textureRect</key>
-                <string>{{1082,949},{199,253}}</string>
+                <string>{{1593,277},{199,253}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1320,7 +1335,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,20}</string>
                 <key>textureRect</key>
-                <string>{{1189,1204},{88,20}}</string>
+                <string>{{1872,855},{88,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1335,7 +1350,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,20}</string>
                 <key>textureRect</key>
-                <string>{{1279,1207},{88,20}}</string>
+                <string>{{1851,1049},{88,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1350,7 +1365,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,20}</string>
                 <key>textureRect</key>
-                <string>{{396,1198},{88,20}}</string>
+                <string>{{1581,1058},{88,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1365,7 +1380,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,20}</string>
                 <key>textureRect</key>
-                <string>{{486,1198},{88,20}}</string>
+                <string>{{1671,1059},{88,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1380,7 +1395,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,20}</string>
                 <key>textureRect</key>
-                <string>{{602,1196},{88,20}}</string>
+                <string>{{1761,1060},{88,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1395,7 +1410,7 @@
                 <key>spriteSourceSize</key>
                 <string>{143,144}</string>
                 <key>textureRect</key>
-                <string>{{1283,901},{143,144}}</string>
+                <string>{{1899,506},{143,144}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1425,7 +1440,7 @@
                 <key>spriteSourceSize</key>
                 <string>{142,43}</string>
                 <key>textureRect</key>
-                <string>{{1283,1047},{142,43}}</string>
+                <string>{{1899,652},{142,43}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1440,9 +1455,9 @@
                 <key>spriteSourceSize</key>
                 <string>{220,73}</string>
                 <key>textureRect</key>
-                <string>{{1356,826},{220,73}}</string>
+                <string>{{1749,532},{220,73}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/colosseum/txt_tagmatch</key>
             <dict>
@@ -1455,7 +1470,7 @@
                 <key>spriteSourceSize</key>
                 <string>{220,73}</string>
                 <key>textureRect</key>
-                <string>{{1873,571},{220,73}}</string>
+                <string>{{1824,506},{220,73}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1470,7 +1485,7 @@
                 <key>spriteSourceSize</key>
                 <string>{220,73}</string>
                 <key>textureRect</key>
-                <string>{{1584,758},{220,73}}</string>
+                <string>{{1356,884},{220,73}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1485,7 +1500,7 @@
                 <key>spriteSourceSize</key>
                 <string>{87,33}</string>
                 <key>textureRect</key>
-                <string>{{1428,1022},{87,33}}</string>
+                <string>{{1296,1177},{87,33}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1500,7 +1515,7 @@
                 <key>spriteSourceSize</key>
                 <string>{163,30}</string>
                 <key>textureRect</key>
-                <string>{{602,1164},{163,30}}</string>
+                <string>{{1390,1067},{163,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1516,9 +1531,9 @@
             <key>realTextureFileName</key>
             <string>colosseum.pvr.ccz</string>
             <key>size</key>
-            <string>{2036,1228}</string>
+            <string>{2043,1223}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:dcc1dc68ff40de01236aec28e27ee573:b21753f0454fb09392df4eaac26c22bd:191b719ce56ff5597845008555dd83fc$</string>
+            <string>$TexturePacker:SmartUpdate:5c9ada87d043336c1d1b765a38ddd94b:8994390257b4ec5d9cb9333792095fe4:191b719ce56ff5597845008555dd83fc$</string>
             <key>textureFileName</key>
             <string>colosseum.pvr.ccz</string>
         </dict>

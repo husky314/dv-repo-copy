@@ -17,7 +17,7 @@
                 <key>textureRect</key>
                 <string>{{1,1},{800,480}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/book/renewal/book_bg</key>
             <dict>
@@ -30,9 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1,483},{762,338}}</string>
+                <string>{{451,803},{762,338}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/book/renewal/book_bg_en</key>
             <dict>
@@ -45,7 +45,52 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1,823},{762,338}}</string>
+                <string>{{483,1},{762,338}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>scene/book/renewal/bt_select</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{92,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{92,35}</string>
+                <key>textureRect</key>
+                <string>{{578,765},{92,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/book/renewal/bt_title</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{115,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{115,42}</string>
+                <key>textureRect</key>
+                <string>{{442,1567},{115,40}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/book/renewal/bt_unselect</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{93,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{93,35}</string>
+                <key>textureRect</key>
+                <string>{{483,765},{93,35}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,9 +105,24 @@
                 <key>spriteSourceSize</key>
                 <string>{137,42}</string>
                 <key>textureRect</key>
-                <string>{{761,1163},{135,40}}</string>
+                <string>{{365,1563},{135,40}}</string>
                 <key>textureRotated</key>
                 <true/>
+            </dict>
+            <key>scene/book/renewal/filter_bg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{40,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{40,40}</string>
+                <key>textureRect</key>
+                <string>{{559,1567},{40,40}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>scene/book/renewal/main_bg</key>
             <dict>
@@ -75,39 +135,24 @@
                 <key>spriteSourceSize</key>
                 <string>{800,480}</string>
                 <key>textureRect</key>
-                <string>{{1,1163},{758,448}}</string>
+                <string>{{1,803},{758,448}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>scene/book/renewal/popup_bg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{362,334}</string>
+                <key>spriteSourceSize</key>
+                <string>{362,336}</string>
+                <key>textureRect</key>
+                <string>{{1,1563},{362,334}}</string>
                 <key>textureRotated</key>
                 <false/>
-            </dict>
-            <key>scene/book/renewal/reset</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{1,0}</string>
-                <key>spriteSize</key>
-                <string>{75,18}</string>
-                <key>spriteSourceSize</key>
-                <string>{137,42}</string>
-                <key>textureRect</key>
-                <string>{{765,799},{75,18}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>scene/book/renewal/reset_en</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,1}</string>
-                <key>spriteSize</key>
-                <string>{95,18}</string>
-                <key>spriteSourceSize</key>
-                <string>{137,42}</string>
-                <key>textureRect</key>
-                <string>{{765,702},{95,18}}</string>
-                <key>textureRotated</key>
-                <true/>
             </dict>
             <key>scene/book/renewal/search_bg</key>
             <dict>
@@ -120,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{125,37}</string>
                 <key>textureRect</key>
-                <string>{{765,483},{125,33}}</string>
+                <string>{{407,1563},{125,33}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -135,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{90,22}</string>
                 <key>textureRect</key>
-                <string>{{765,610},{90,22}}</string>
+                <string>{{672,765},{90,22}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -151,9 +196,9 @@
             <key>realTextureFileName</key>
             <string>renewal.pvr.ccz</string>
             <key>size</key>
-            <string>{802,1612}</string>
+            <string>{822,1898}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b6282a187e12d59cb7ac1d60b56d6a78:7d265ce6734de7fc9fd2950b06796592:45c6f03621e7b40c65c6e8fe0a63e9ce$</string>
+            <string>$TexturePacker:SmartUpdate:edc4c77a5d810cd82a91199648772bfc:dba4123e7a4a2cdc1be69f63b7797d19:45c6f03621e7b40c65c6e8fe0a63e9ce$</string>
             <key>textureFileName</key>
             <string>renewal.pvr.ccz</string>
         </dict>

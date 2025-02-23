@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{398,54}</string>
                 <key>textureRect</key>
-                <string>{{1142,1334},{398,54}}</string>
+                <string>{{403,1281},{398,54}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{207,58}</string>
                 <key>textureRect</key>
-                <string>{{1361,1227},{207,58}}</string>
+                <string>{{1234,683},{207,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{27,27}</string>
                 <key>textureRect</key>
-                <string>{{1988,1843},{27,27}}</string>
+                <string>{{1893,1962},{27,27}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,9 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{34,28}</string>
                 <key>textureRect</key>
-                <string>{{1984,1694},{34,28}}</string>
+                <string>{{1419,1862},{34,28}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/board_number_box</key>
             <dict>
@@ -75,9 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{31,30}</string>
                 <key>textureRect</key>
-                <string>{{1328,1239},{31,30}}</string>
+                <string>{{1597,1987},{31,30}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/board_popup_box</key>
             <dict>
@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{65,26}</string>
                 <key>textureRect</key>
-                <string>{{1391,1954},{65,26}}</string>
+                <string>{{2021,669},{65,26}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -105,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{104,33}</string>
                 <key>textureRect</key>
-                <string>{{641,1279},{104,33}}</string>
+                <string>{{1667,1409},{104,33}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/bt_txt_Complete</key>
             <dict>
@@ -120,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{59,21}</string>
                 <key>textureRect</key>
-                <string>{{1831,1847},{59,21}}</string>
+                <string>{{752,1959},{59,21}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -135,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{59,21}</string>
                 <key>textureRect</key>
-                <string>{{1954,1869},{59,21}}</string>
+                <string>{{1893,1901},{59,21}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -150,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{72,26}</string>
                 <key>textureRect</key>
-                <string>{{1697,1736},{72,24}}</string>
+                <string>{{1924,1850},{72,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,9 +165,9 @@
                 <key>spriteSourceSize</key>
                 <string>{41,23}</string>
                 <key>textureRect</key>
-                <string>{{778,2022},{41,23}}</string>
+                <string>{{838,1713},{41,23}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/bt_txt_enter</key>
             <dict>
@@ -180,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{35,34}</string>
                 <key>textureRect</key>
-                <string>{{1920,2009},{35,30}}</string>
+                <string>{{1629,1987},{35,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/bt_txt_find</key>
             <dict>
@@ -195,9 +195,9 @@
                 <key>spriteSourceSize</key>
                 <string>{72,26}</string>
                 <key>textureRect</key>
-                <string>{{1654,1937},{72,24}}</string>
+                <string>{{1922,1876},{72,24}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/bt_txt_guildmake</key>
             <dict>
@@ -210,9 +210,9 @@
                 <key>spriteSourceSize</key>
                 <string>{113,38}</string>
                 <key>textureRect</key>
-                <string>{{1970,862},{113,36}}</string>
+                <string>{{473,1966},{113,36}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/bt_txt_help</key>
             <dict>
@@ -225,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{52,20}</string>
                 <key>textureRect</key>
-                <string>{{1814,1987},{52,20}}</string>
+                <string>{{1319,1724},{52,20}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -240,9 +240,9 @@
                 <key>spriteSourceSize</key>
                 <string>{52,25}</string>
                 <key>textureRect</key>
-                <string>{{1361,1027},{52,23}}</string>
+                <string>{{1970,1902},{52,23}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/bt_txt_ok</key>
             <dict>
@@ -255,7 +255,7 @@
                 <key>spriteSourceSize</key>
                 <string>{58,22}</string>
                 <key>textureRect</key>
-                <string>{{1993,1058},{58,22}}</string>
+                <string>{{1443,683},{58,22}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -270,7 +270,7 @@
                 <key>spriteSourceSize</key>
                 <string>{91,32}</string>
                 <key>textureRect</key>
-                <string>{{1665,1666},{91,30}}</string>
+                <string>{{2017,1284},{91,30}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -285,9 +285,9 @@
                 <key>spriteSourceSize</key>
                 <string>{100,25}</string>
                 <key>textureRect</key>
-                <string>{{1624,1788},{100,23}}</string>
+                <string>{{849,1885},{100,23}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/bt_txt_write</key>
             <dict>
@@ -300,7 +300,7 @@
                 <key>spriteSourceSize</key>
                 <string>{82,23}</string>
                 <key>textureRect</key>
-                <string>{{1145,1944},{82,23}}</string>
+                <string>{{1455,1847},{82,23}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -315,9 +315,9 @@
                 <key>spriteSourceSize</key>
                 <string>{200,86}</string>
                 <key>textureRect</key>
-                <string>{{1685,1057},{200,86}}</string>
+                <string>{{1185,1405},{200,86}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/buff_arrow</key>
             <dict>
@@ -330,7 +330,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,36}</string>
                 <key>textureRect</key>
-                <string>{{244,2007},{42,36}}</string>
+                <string>{{1503,1981},{42,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -345,7 +345,7 @@
                 <key>spriteSourceSize</key>
                 <string>{210,117}</string>
                 <key>textureRect</key>
-                <string>{{1242,1027},{210,117}}</string>
+                <string>{{1747,1091},{210,117}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -360,7 +360,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1135,2031},{94,14}}</string>
+                <string>{{447,2004},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -375,7 +375,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1231,2031},{94,14}}</string>
+                <string>{{543,2004},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -390,9 +390,9 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1327,2031},{94,14}}</string>
+                <string>{{1307,1801},{94,14}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/buff_gauge_3</key>
             <dict>
@@ -405,7 +405,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1423,2031},{94,14}}</string>
+                <string>{{1341,1775},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -420,7 +420,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1884,1725},{94,14}}</string>
+                <string>{{1323,1881},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -435,7 +435,7 @@
                 <key>spriteSourceSize</key>
                 <string>{97,15}</string>
                 <key>textureRect</key>
-                <string>{{1320,1920},{97,15}}</string>
+                <string>{{852,1868},{97,15}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -450,7 +450,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1231,2031},{94,14}}</string>
+                <string>{{543,2004},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -465,7 +465,7 @@
                 <key>spriteSourceSize</key>
                 <string>{97,15}</string>
                 <key>textureRect</key>
-                <string>{{561,1314},{97,15}}</string>
+                <string>{{1145,1904},{97,15}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -480,7 +480,7 @@
                 <key>spriteSourceSize</key>
                 <string>{97,15}</string>
                 <key>textureRect</key>
-                <string>{{1320,1937},{97,15}}</string>
+                <string>{{1147,1921},{97,15}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -495,9 +495,9 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1327,2031},{94,14}}</string>
+                <string>{{1307,1801},{94,14}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/buff_gauge_purple</key>
             <dict>
@@ -510,7 +510,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1423,2031},{94,14}}</string>
+                <string>{{1341,1775},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -525,7 +525,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1771,1760},{94,14}}</string>
+                <string>{{1455,1831},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -540,9 +540,9 @@
                 <key>spriteSourceSize</key>
                 <string>{145,13}</string>
                 <key>textureRect</key>
-                <string>{{1198,1708},{145,13}}</string>
+                <string>{{2034,1377},{145,13}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/buff_gauge_red_2</key>
             <dict>
@@ -555,9 +555,9 @@
                 <key>spriteSourceSize</key>
                 <string>{145,13}</string>
                 <key>textureRect</key>
-                <string>{{1198,1723},{145,13}}</string>
+                <string>{{2034,1524},{145,13}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/buff_gauge_yellow</key>
             <dict>
@@ -570,7 +570,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,14}</string>
                 <key>textureRect</key>
-                <string>{{1135,2031},{94,14}}</string>
+                <string>{{447,2004},{94,14}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -585,7 +585,7 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1320,1954},{64,69}}</string>
+                <string>{{863,1629},{64,69}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -600,9 +600,9 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1697,1665},{64,69}}</string>
+                <string>{{863,1695},{64,69}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/buff_icon3</key>
             <dict>
@@ -615,9 +615,9 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1867,1741},{64,69}}</string>
+                <string>{{1128,1949},{64,69}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/buff_icon4</key>
             <dict>
@@ -630,7 +630,7 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1938,1741},{64,69}}</string>
+                <string>{{1194,1938},{64,69}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -645,7 +645,7 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1701,1819},{64,69}}</string>
+                <string>{{1323,1791},{64,69}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -660,7 +660,7 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1767,1776},{64,69}}</string>
+                <string>{{1389,1791},{64,69}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -675,7 +675,7 @@
                 <key>spriteSourceSize</key>
                 <string>{93,26}</string>
                 <key>textureRect</key>
-                <string>{{1966,1371},{93,24}}</string>
+                <string>{{1711,1492},{93,24}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -690,7 +690,7 @@
                 <key>spriteSourceSize</key>
                 <string>{108,26}</string>
                 <key>textureRect</key>
-                <string>{{1037,1987},{108,24}}</string>
+                <string>{{753,1687},{108,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -705,9 +705,9 @@
                 <key>spriteSourceSize</key>
                 <string>{87,23}</string>
                 <key>textureRect</key>
-                <string>{{1992,1357},{87,23}}</string>
+                <string>{{1341,1750},{87,23}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/buff_txt4</key>
             <dict>
@@ -720,7 +720,7 @@
                 <key>spriteSourceSize</key>
                 <string>{109,26}</string>
                 <key>textureRect</key>
-                <string>{{1796,1499},{109,24}}</string>
+                <string>{{945,1959},{109,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -735,7 +735,7 @@
                 <key>spriteSourceSize</key>
                 <string>{73,25}</string>
                 <key>textureRect</key>
-                <string>{{402,1684},{73,23}}</string>
+                <string>{{1847,1876},{73,23}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -750,9 +750,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,51}</string>
                 <key>textureRect</key>
-                <string>{{1913,1396},{106,51}}</string>
+                <string>{{1387,1405},{106,51}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/button_guild_green</key>
             <dict>
@@ -765,7 +765,7 @@
                 <key>spriteSourceSize</key>
                 <string>{104,33}</string>
                 <key>textureRect</key>
-                <string>{{1678,1630},{104,33}}</string>
+                <string>{{1387,1458},{104,33}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -780,9 +780,9 @@
                 <key>spriteSourceSize</key>
                 <string>{104,31}</string>
                 <key>textureRect</key>
-                <string>{{1029,2013},{104,31}}</string>
+                <string>{{879,1910},{104,31}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/button_guild_on</key>
             <dict>
@@ -795,7 +795,7 @@
                 <key>spriteSourceSize</key>
                 <string>{104,31}</string>
                 <key>textureRect</key>
-                <string>{{1958,1164},{104,31}}</string>
+                <string>{{912,1910},{104,31}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -810,7 +810,7 @@
                 <key>spriteSourceSize</key>
                 <string>{104,33}</string>
                 <key>textureRect</key>
-                <string>{{1958,1058},{104,33}}</string>
+                <string>{{1306,1618},{104,33}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -825,7 +825,7 @@
                 <key>spriteSourceSize</key>
                 <string>{140,158}</string>
                 <key>textureRect</key>
-                <string>{{438,1822},{140,158}}</string>
+                <string>{{1899,922},{140,158}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -840,9 +840,9 @@
                 <key>spriteSourceSize</key>
                 <string>{22,20}</string>
                 <key>textureRect</key>
-                <string>{{1993,1118},{22,20}}</string>
+                <string>{{1867,1587},{22,20}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/class1_2</key>
             <dict>
@@ -855,7 +855,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,20}</string>
                 <key>textureRect</key>
-                <string>{{1993,1140},{22,20}}</string>
+                <string>{{2023,1697},{22,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -870,7 +870,7 @@
                 <key>spriteSourceSize</key>
                 <string>{60,60}</string>
                 <key>textureRect</key>
-                <string>{{1147,1969},{60,60}}</string>
+                <string>{{1655,1881},{60,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -885,7 +885,7 @@
                 <key>spriteSourceSize</key>
                 <string>{65,65}</string>
                 <key>textureRect</key>
-                <string>{{662,1980},{65,65}}</string>
+                <string>{{1524,1764},{65,65}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -900,7 +900,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,30}</string>
                 <key>textureRect</key>
-                <string>{{1952,2004},{30,30}}</string>
+                <string>{{1861,1958},{30,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -915,7 +915,7 @@
                 <key>spriteSourceSize</key>
                 <string>{60,60}</string>
                 <key>textureRect</key>
-                <string>{{1209,1969},{60,60}}</string>
+                <string>{{1717,1881},{60,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -930,7 +930,7 @@
                 <key>spriteSourceSize</key>
                 <string>{67,65}</string>
                 <key>textureRect</key>
-                <string>{{593,1980},{67,65}}</string>
+                <string>{{1455,1764},{67,65}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -945,7 +945,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,30}</string>
                 <key>textureRect</key>
-                <string>{{1976,1949},{30,30}}</string>
+                <string>{{1922,1956},{30,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -960,9 +960,9 @@
                 <key>spriteSourceSize</key>
                 <string>{45,124}</string>
                 <key>textureRect</key>
-                <string>{{1970,736},{45,124}}</string>
+                <string>{{1446,1717},{45,124}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_Invite_br</key>
             <dict>
@@ -975,7 +975,7 @@
                 <key>spriteSourceSize</key>
                 <string>{401,72}</string>
                 <key>textureRect</key>
-                <string>{{329,1251},{401,72}}</string>
+                <string>{{1972,1},{401,72}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -990,7 +990,7 @@
                 <key>spriteSourceSize</key>
                 <string>{401,72}</string>
                 <key>textureRect</key>
-                <string>{{403,1281},{401,72}}</string>
+                <string>{{329,1251},{401,72}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1005,7 +1005,7 @@
                 <key>spriteSourceSize</key>
                 <string>{139,96}</string>
                 <key>textureRect</key>
-                <string>{{1234,929},{139,96}}</string>
+                <string>{{944,1504},{139,96}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1020,9 +1020,9 @@
                 <key>spriteSourceSize</key>
                 <string>{14,15}</string>
                 <key>textureRect</key>
-                <string>{{1680,1928},{14,15}}</string>
+                <string>{{748,983},{14,15}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_attack_box</key>
             <dict>
@@ -1035,7 +1035,7 @@
                 <key>spriteSourceSize</key>
                 <string>{153,27}</string>
                 <key>textureRect</key>
-                <string>{{438,1982},{153,27}}</string>
+                <string>{{1711,1803},{153,27}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1050,7 +1050,7 @@
                 <key>spriteSourceSize</key>
                 <string>{300,63}</string>
                 <key>textureRect</key>
-                <string>{{1730,743},{300,63}}</string>
+                <string>{{527,1279},{300,63}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1095,9 +1095,9 @@
                 <key>spriteSourceSize</key>
                 <string>{33,25}</string>
                 <key>textureRect</key>
-                <string>{{1877,1920},{33,25}}</string>
+                <string>{{1455,1872},{33,25}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_board_write2</key>
             <dict>
@@ -1110,9 +1110,9 @@
                 <key>spriteSourceSize</key>
                 <string>{99,30}</string>
                 <key>textureRect</key>
-                <string>{{1695,1498},{99,30}}</string>
+                <string>{{2017,1082},{99,30}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_board_write3</key>
             <dict>
@@ -1125,7 +1125,7 @@
                 <key>spriteSourceSize</key>
                 <string>{99,30}</string>
                 <key>textureRect</key>
-                <string>{{1958,1270},{99,30}}</string>
+                <string>{{2017,1183},{99,30}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1140,9 +1140,9 @@
                 <key>spriteSourceSize</key>
                 <string>{69,66}</string>
                 <key>textureRect</key>
-                <string>{{1519,1938},{69,66}}</string>
+                <string>{{1060,1949},{69,66}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_br_s1</key>
             <dict>
@@ -1155,7 +1155,7 @@
                 <key>spriteSourceSize</key>
                 <string>{52,52}</string>
                 <key>textureRect</key>
-                <string>{{1697,1890},{52,52}}</string>
+                <string>{{1916,1902},{52,52}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1170,7 +1170,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,52}</string>
                 <key>textureRect</key>
-                <string>{{1907,1504},{19,52}}</string>
+                <string>{{1995,1928},{19,52}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1185,7 +1185,7 @@
                 <key>spriteSourceSize</key>
                 <string>{48,47}</string>
                 <key>textureRect</key>
-                <string>{{1782,1937},{48,47}}</string>
+                <string>{{1185,1027},{48,47}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1200,7 +1200,7 @@
                 <key>spriteSourceSize</key>
                 <string>{48,47}</string>
                 <key>textureRect</key>
-                <string>{{1854,1871},{48,47}}</string>
+                <string>{{1498,1879},{48,47}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1215,7 +1215,7 @@
                 <key>spriteSourceSize</key>
                 <string>{49,79}</string>
                 <key>textureRect</key>
-                <string>{{1966,977},{49,79}}</string>
+                <string>{{1998,1719},{49,79}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1230,9 +1230,9 @@
                 <key>spriteSourceSize</key>
                 <string>{50,51}</string>
                 <key>textureRect</key>
-                <string>{{1680,1944},{50,51}}</string>
+                <string>{{1996,1876},{50,51}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_bt_05</key>
             <dict>
@@ -1245,9 +1245,9 @@
                 <key>spriteSourceSize</key>
                 <string>{67,47}</string>
                 <key>textureRect</key>
-                <string>{{729,1978},{67,47}}</string>
+                <string>{{1709,1832},{67,47}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_bt_06</key>
             <dict>
@@ -1260,7 +1260,7 @@
                 <key>spriteSourceSize</key>
                 <string>{67,47}</string>
                 <key>textureRect</key>
-                <string>{{1345,1708},{67,47}}</string>
+                <string>{{1778,1832},{67,47}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1275,7 +1275,7 @@
                 <key>spriteSourceSize</key>
                 <string>{67,47}</string>
                 <key>textureRect</key>
-                <string>{{1271,1949},{67,47}}</string>
+                <string>{{1260,1944},{67,47}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1290,7 +1290,7 @@
                 <key>spriteSourceSize</key>
                 <string>{32,48}</string>
                 <key>textureRect</key>
-                <string>{{1833,1776},{32,48}}</string>
+                <string>{{1051,1733},{32,48}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1305,9 +1305,9 @@
                 <key>spriteSourceSize</key>
                 <string>{48,51}</string>
                 <key>textureRect</key>
-                <string>{{1708,1997},{48,51}}</string>
+                <string>{{1998,1800},{48,51}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_bt_check</key>
             <dict>
@@ -1320,7 +1320,7 @@
                 <key>spriteSourceSize</key>
                 <string>{48,51}</string>
                 <key>textureRect</key>
-                <string>{{1732,1944},{48,51}}</string>
+                <string>{{1441,1928},{48,51}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1335,9 +1335,9 @@
                 <key>spriteSourceSize</key>
                 <string>{48,51}</string>
                 <key>textureRect</key>
-                <string>{{1623,1890},{40,45}}</string>
+                <string>{{1260,1902},{40,45}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_bt_find</key>
             <dict>
@@ -1350,9 +1350,9 @@
                 <key>spriteSourceSize</key>
                 <string>{48,51}</string>
                 <key>textureRect</key>
-                <string>{{980,2003},{42,47}}</string>
+                <string>{{704,1279},{42,47}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_bt_invite</key>
             <dict>
@@ -1365,9 +1365,9 @@
                 <key>spriteSourceSize</key>
                 <string>{48,51}</string>
                 <key>textureRect</key>
-                <string>{{1761,1997},{48,51}}</string>
+                <string>{{1491,1928},{48,51}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_bt_master</key>
             <dict>
@@ -1380,7 +1380,7 @@
                 <key>spriteSourceSize</key>
                 <string>{44,42}</string>
                 <key>textureRect</key>
-                <string>{{778,1978},{44,42}}</string>
+                <string>{{1597,1943},{44,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1395,7 +1395,7 @@
                 <key>spriteSourceSize</key>
                 <string>{44,42}</string>
                 <key>textureRect</key>
-                <string>{{1831,1920},{44,42}}</string>
+                <string>{{1643,1943},{44,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1410,9 +1410,9 @@
                 <key>spriteSourceSize</key>
                 <string>{30,34}</string>
                 <key>textureRect</key>
-                <string>{{1644,2011},{30,34}}</string>
+                <string>{{1745,1987},{30,34}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_bt_senior</key>
             <dict>
@@ -1425,9 +1425,9 @@
                 <key>spriteSourceSize</key>
                 <string>{44,42}</string>
                 <key>textureRect</key>
-                <string>{{1836,1964},{44,42}}</string>
+                <string>{{1689,1943},{44,42}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_bt_senior1</key>
             <dict>
@@ -1440,7 +1440,7 @@
                 <key>spriteSourceSize</key>
                 <string>{44,42}</string>
                 <key>textureRect</key>
-                <string>{{1904,1921},{44,42}}</string>
+                <string>{{1735,1943},{44,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1455,7 +1455,7 @@
                 <key>spriteSourceSize</key>
                 <string>{44,42}</string>
                 <key>textureRect</key>
-                <string>{{1880,1965},{44,42}}</string>
+                <string>{{1781,1938},{44,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1470,7 +1470,7 @@
                 <key>spriteSourceSize</key>
                 <string>{266,64}</string>
                 <key>textureRect</key>
-                <string>{{1795,743},{266,64}}</string>
+                <string>{{1681,1091},{266,64}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1485,7 +1485,7 @@
                 <key>spriteSourceSize</key>
                 <string>{266,64}</string>
                 <key>textureRect</key>
-                <string>{{1861,743},{266,64}}</string>
+                <string>{{638,1279},{266,64}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1500,7 +1500,7 @@
                 <key>spriteSourceSize</key>
                 <string>{64,69}</string>
                 <key>textureRect</key>
-                <string>{{1767,1776},{64,69}}</string>
+                <string>{{1389,1791},{64,69}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1515,7 +1515,7 @@
                 <key>spriteSourceSize</key>
                 <string>{162,33}</string>
                 <key>textureRect</key>
-                <string>{{477,1279},{162,33}}</string>
+                <string>{{1493,1466},{162,33}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1530,7 +1530,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,35}</string>
                 <key>textureRect</key>
-                <string>{{1836,2010},{42,35}}</string>
+                <string>{{1995,1949},{42,35}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1545,9 +1545,9 @@
                 <key>spriteSourceSize</key>
                 <string>{41,23}</string>
                 <key>textureRect</key>
-                <string>{{1992,1446},{41,23}}</string>
+                <string>{{1702,1987},{41,23}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_icon_people</key>
             <dict>
@@ -1560,9 +1560,9 @@
                 <key>spriteSourceSize</key>
                 <string>{27,29}</string>
                 <key>textureRect</key>
-                <string>{{1988,1812},{27,29}}</string>
+                <string>{{1861,1990},{27,29}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_icon_rank</key>
             <dict>
@@ -1575,9 +1575,9 @@
                 <key>spriteSourceSize</key>
                 <string>{34,30}</string>
                 <key>textureRect</key>
-                <string>{{1676,2011},{34,30}}</string>
+                <string>{{1666,1987},{34,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_info_back</key>
             <dict>
@@ -1590,7 +1590,7 @@
                 <key>spriteSourceSize</key>
                 <string>{41,39}</string>
                 <key>textureRect</key>
-                <string>{{1519,2006},{41,39}}</string>
+                <string>{{1548,1872},{41,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1620,7 +1620,7 @@
                 <key>spriteSourceSize</key>
                 <string>{24,24}</string>
                 <key>textureRect</key>
-                <string>{{1950,1930},{24,24}}</string>
+                <string>{{2023,1671},{24,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1635,7 +1635,7 @@
                 <key>spriteSourceSize</key>
                 <string>{190,21}</string>
                 <key>textureRect</key>
-                <string>{{1773,1045},{190,21}}</string>
+                <string>{{450,1811},{190,21}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1650,7 +1650,7 @@
                 <key>spriteSourceSize</key>
                 <string>{312,313}</string>
                 <key>textureRect</key>
-                <string>{{1415,743},{312,313}}</string>
+                <string>{{1185,1091},{312,313}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1665,9 +1665,9 @@
                 <key>spriteSourceSize</key>
                 <string>{39,52}</string>
                 <key>textureRect</key>
-                <string>{{1976,549},{39,52}}</string>
+                <string>{{588,1963},{39,52}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_lv_bg</key>
             <dict>
@@ -1680,7 +1680,7 @@
                 <key>spriteSourceSize</key>
                 <string>{200,29}</string>
                 <key>textureRect</key>
-                <string>{{1,2007},{200,29}}</string>
+                <string>{{1500,1378},{200,29}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1695,7 +1695,7 @@
                 <key>spriteSourceSize</key>
                 <string>{123,104}</string>
                 <key>textureRect</key>
-                <string>{{1570,1409},{123,104}}</string>
+                <string>{{1909,1394},{123,104}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1725,9 +1725,9 @@
                 <key>spriteSourceSize</key>
                 <string>{104,137}</string>
                 <key>textureRect</key>
-                <string>{{1545,1515},{104,137}}</string>
+                <string>{{1341,1510},{104,137}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_mainbox</key>
             <dict>
@@ -1770,9 +1770,9 @@
                 <key>spriteSourceSize</key>
                 <string>{39,52}</string>
                 <key>textureRect</key>
-                <string>{{1415,702},{39,52}}</string>
+                <string>{{1668,1827},{39,52}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_mission_guild_raid_icon</key>
             <dict>
@@ -1785,7 +1785,7 @@
                 <key>spriteSourceSize</key>
                 <string>{148,177}</string>
                 <key>textureRect</key>
-                <string>{{288,1826},{148,177}}</string>
+                <string>{{1899,743},{148,177}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1800,7 +1800,7 @@
                 <key>spriteSourceSize</key>
                 <string>{134,41}</string>
                 <key>textureRect</key>
-                <string>{{1976,413},{134,39}}</string>
+                <string>{{581,1827},{134,39}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1815,7 +1815,7 @@
                 <key>spriteSourceSize</key>
                 <string>{113,33}</string>
                 <key>textureRect</key>
-                <string>{{1414,1745},{113,33}}</string>
+                <string>{{664,1924},{113,33}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1830,7 +1830,7 @@
                 <key>spriteSourceSize</key>
                 <string>{113,33}</string>
                 <key>textureRect</key>
-                <string>{{1529,1753},{113,33}}</string>
+                <string>{{945,1924},{113,33}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1845,7 +1845,7 @@
                 <key>spriteSourceSize</key>
                 <string>{240,41}</string>
                 <key>textureRect</key>
-                <string>{{889,1682},{240,39}}</string>
+                <string>{{1222,642},{240,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1860,9 +1860,9 @@
                 <key>spriteSourceSize</key>
                 <string>{72,68}</string>
                 <key>textureRect</key>
-                <string>{{1590,1938},{66,62}}</string>
+                <string>{{1309,1917},{66,62}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_popup_box1</key>
             <dict>
@@ -1890,7 +1890,7 @@
                 <key>spriteSourceSize</key>
                 <string>{370,346}</string>
                 <key>textureRect</key>
-                <string>{{477,1334},{370,346}}</string>
+                <string>{{1234,743},{370,346}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1950,7 +1950,7 @@
                 <key>spriteSourceSize</key>
                 <string>{291,346}</string>
                 <key>textureRect</key>
-                <string>{{849,1334},{291,346}}</string>
+                <string>{{1606,743},{291,346}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1965,7 +1965,7 @@
                 <key>spriteSourceSize</key>
                 <string>{179,285}</string>
                 <key>textureRect</key>
-                <string>{{1234,642},{179,285}}</string>
+                <string>{{1500,1091},{179,285}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1995,7 +1995,7 @@
                 <key>spriteSourceSize</key>
                 <string>{410,30}</string>
                 <key>textureRect</key>
-                <string>{{1972,1},{410,30}}</string>
+                <string>{{459,1281},{410,30}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2010,9 +2010,9 @@
                 <key>spriteSourceSize</key>
                 <string>{410,30}</string>
                 <key>textureRect</key>
-                <string>{{477,1682},{410,30}}</string>
+                <string>{{491,1279},{410,30}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_raid_time_box</key>
             <dict>
@@ -2025,9 +2025,9 @@
                 <key>spriteSourceSize</key>
                 <string>{238,55}</string>
                 <key>textureRect</key>
-                <string>{{1185,1027},{238,55}}</string>
+                <string>{{704,1504},{238,55}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_ranking</key>
             <dict>
@@ -2055,9 +2055,9 @@
                 <key>spriteSourceSize</key>
                 <string>{103,24}</string>
                 <key>textureRect</key>
-                <string>{{1991,1164},{103,24}}</string>
+                <string>{{945,1985},{103,24}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_ranking_box2</key>
             <dict>
@@ -2070,9 +2070,9 @@
                 <key>spriteSourceSize</key>
                 <string>{38,39}</string>
                 <key>textureRect</key>
-                <string>{{203,2007},{38,39}}</string>
+                <string>{{1551,1831},{38,39}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_ranking_line</key>
             <dict>
@@ -2085,9 +2085,9 @@
                 <key>spriteSourceSize</key>
                 <string>{71,4}</string>
                 <key>textureRect</key>
-                <string>{{1475,349},{71,4}}</string>
+                <string>{{1028,1490},{71,4}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_ranking_tab1</key>
             <dict>
@@ -2100,9 +2100,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,43}</string>
                 <key>textureRect</key>
-                <string>{{1545,1621},{131,43}}</string>
+                <string>{{1702,1359},{131,43}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_ranking_tab2</key>
             <dict>
@@ -2115,9 +2115,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,43}</string>
                 <key>textureRect</key>
-                <string>{{1230,1823},{125,35}}</string>
+                <string>{{944,1602},{125,35}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_ranking_txt</key>
             <dict>
@@ -2130,7 +2130,7 @@
                 <key>spriteSourceSize</key>
                 <string>{311,44}</string>
                 <key>textureRect</key>
-                <string>{{1913,425},{311,44}}</string>
+                <string>{{592,1279},{311,44}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2145,7 +2145,7 @@
                 <key>spriteSourceSize</key>
                 <string>{58,58}</string>
                 <key>textureRect</key>
-                <string>{{1415,642},{58,58}}</string>
+                <string>{{642,1960},{58,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2160,7 +2160,7 @@
                 <key>spriteSourceSize</key>
                 <string>{134,156}</string>
                 <key>textureRect</key>
-                <string>{{580,1822},{134,156}}</string>
+                <string>{{1913,425},{134,156}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2175,9 +2175,9 @@
                 <key>spriteSourceSize</key>
                 <string>{29,39}</string>
                 <key>textureRect</key>
-                <string>{{1976,603},{29,39}}</string>
+                <string>{{1572,1717},{29,39}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guild_subject_box</key>
             <dict>
@@ -2190,9 +2190,9 @@
                 <key>spriteSourceSize</key>
                 <string>{160,47}</string>
                 <key>textureRect</key>
-                <string>{{1796,1347},{160,47}}</string>
+                <string>{{1136,1334},{160,47}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_top_info_profile_edit</key>
             <dict>
@@ -2205,7 +2205,7 @@
                 <key>spriteSourceSize</key>
                 <string>{16,16}</string>
                 <key>textureRect</key>
-                <string>{{1773,1237},{16,16}}</string>
+                <string>{{1847,1832},{16,16}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2220,7 +2220,7 @@
                 <key>spriteSourceSize</key>
                 <string>{82,18}</string>
                 <key>textureRect</key>
-                <string>{{477,1314},{82,18}}</string>
+                <string>{{1307,1897},{82,18}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2250,9 +2250,9 @@
                 <key>spriteSourceSize</key>
                 <string>{92,28}</string>
                 <key>textureRect</key>
-                <string>{{1771,1730},{92,28}}</string>
+                <string>{{1055,1639},{92,28}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/guild_war_off</key>
             <dict>
@@ -2265,7 +2265,7 @@
                 <key>spriteSourceSize</key>
                 <string>{119,83}</string>
                 <key>textureRect</key>
-                <string>{{1127,1738},{119,83}}</string>
+                <string>{{934,1639},{119,83}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2280,9 +2280,9 @@
                 <key>spriteSourceSize</key>
                 <string>{119,83}</string>
                 <key>textureRect</key>
-                <string>{{1145,1823},{119,83}}</string>
+                <string>{{1185,1618},{119,83}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guildinfo_gauge</key>
             <dict>
@@ -2295,9 +2295,9 @@
                 <key>spriteSourceSize</key>
                 <string>{211,15}</string>
                 <key>textureRect</key>
-                <string>{{1959,425},{211,15}}</string>
+                <string>{{1185,1493},{211,15}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/guildmenu_bg</key>
             <dict>
@@ -2325,7 +2325,7 @@
                 <key>spriteSourceSize</key>
                 <string>{364,2}</string>
                 <key>textureRect</key>
-                <string>{{2004,1},{364,2}}</string>
+                <string>{{523,1279},{364,2}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2340,9 +2340,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{402,1714},{106,154}}</string>
+                <string>{{1913,583},{106,154}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/menu_01_en</key>
             <dict>
@@ -2355,9 +2355,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{558,1714},{106,154}}</string>
+                <string>{{1028,1334},{106,154}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/menu_02</key>
             <dict>
@@ -2370,9 +2370,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{714,1714},{106,154}}</string>
+                <string>{{1909,1082},{106,154}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/menu_02_en</key>
             <dict>
@@ -2385,7 +2385,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{716,1822},{106,154}}</string>
+                <string>{{1909,1238},{106,154}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2400,7 +2400,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{870,1723},{106,154}}</string>
+                <string>{{1747,1479},{106,154}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2415,9 +2415,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{824,1831},{106,154}}</string>
+                <string>{{473,1810},{106,154}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/menu_04</key>
             <dict>
@@ -2430,7 +2430,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{824,1939},{106,154}}</string>
+                <string>{{1185,1510},{106,154}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2445,9 +2445,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1037,1831},{106,154}}</string>
+                <string>{{1447,1501},{106,154}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/menu_05</key>
             <dict>
@@ -2460,9 +2460,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1198,1396},{106,154}}</string>
+                <string>{{1447,1609},{106,154}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/menu_05_en</key>
             <dict>
@@ -2475,7 +2475,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1198,1552},{106,154}}</string>
+                <string>{{1603,1515},{106,154}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2490,7 +2490,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1313,1287},{106,154}}</string>
+                <string>{{1711,1587},{106,154}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2505,9 +2505,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1306,1396},{106,154}}</string>
+                <string>{{1867,1611},{106,154}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/menu_07</key>
             <dict>
@@ -2520,7 +2520,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1306,1552},{106,154}}</string>
+                <string>{{1603,1671},{106,154}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2535,7 +2535,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,154}</string>
                 <key>textureRect</key>
-                <string>{{1414,1396},{106,154}}</string>
+                <string>{{1711,1695},{106,154}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2565,9 +2565,9 @@
                 <key>spriteSourceSize</key>
                 <string>{66,79}</string>
                 <key>textureRect</key>
-                <string>{{1248,1738},{66,79}}</string>
+                <string>{{863,1561},{66,79}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/mini_popup3</key>
             <dict>
@@ -2580,9 +2580,9 @@
                 <key>spriteSourceSize</key>
                 <string>{113,79}</string>
                 <key>textureRect</key>
-                <string>{{1570,1227},{113,79}}</string>
+                <string>{{558,1693},{113,79}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/mission_bg</key>
             <dict>
@@ -2595,7 +2595,7 @@
                 <key>spriteSourceSize</key>
                 <string>{160,168}</string>
                 <key>textureRect</key>
-                <string>{{1361,1057},{160,168}}</string>
+                <string>{{704,1334},{160,168}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2610,7 +2610,7 @@
                 <key>spriteSourceSize</key>
                 <string>{160,168}</string>
                 <key>textureRect</key>
-                <string>{{1523,1057},{160,168}}</string>
+                <string>{{866,1334},{160,168}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2625,9 +2625,9 @@
                 <key>spriteSourceSize</key>
                 <string>{108,124}</string>
                 <key>textureRect</key>
-                <string>{{1414,1635},{108,124}}</string>
+                <string>{{753,1561},{108,124}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/mission_clock</key>
             <dict>
@@ -2640,7 +2640,7 @@
                 <key>spriteSourceSize</key>
                 <string>{37,37}</string>
                 <key>textureRect</key>
-                <string>{{1926,1965},{37,37}}</string>
+                <string>{{1432,1981},{37,37}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2670,7 +2670,7 @@
                 <key>spriteSourceSize</key>
                 <string>{160,168}</string>
                 <key>textureRect</key>
-                <string>{{1796,1011},{160,166}}</string>
+                <string>{{288,1826},{160,166}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2685,9 +2685,9 @@
                 <key>spriteSourceSize</key>
                 <string>{37,40}</string>
                 <key>textureRect</key>
-                <string>{{1927,958},{37,40}}</string>
+                <string>{{1309,1981},{37,40}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/mission_ri_br1</key>
             <dict>
@@ -2700,7 +2700,7 @@
                 <key>spriteSourceSize</key>
                 <string>{62,62}</string>
                 <key>textureRect</key>
-                <string>{{1767,1847},{62,62}}</string>
+                <string>{{1377,1917},{62,62}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2715,7 +2715,7 @@
                 <key>spriteSourceSize</key>
                 <string>{62,62}</string>
                 <key>textureRect</key>
-                <string>{{1867,1807},{62,62}}</string>
+                <string>{{1591,1879},{62,62}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2730,7 +2730,7 @@
                 <key>spriteSourceSize</key>
                 <string>{38,36}</string>
                 <key>textureRect</key>
-                <string>{{1977,1911},{38,36}}</string>
+                <string>{{1781,1982},{38,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2745,7 +2745,7 @@
                 <key>spriteSourceSize</key>
                 <string>{38,36}</string>
                 <key>textureRect</key>
-                <string>{{1880,2009},{38,36}}</string>
+                <string>{{1821,1982},{38,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2760,7 +2760,7 @@
                 <key>spriteSourceSize</key>
                 <string>{160,168}</string>
                 <key>textureRect</key>
-                <string>{{1796,1179},{160,166}}</string>
+                <string>{{1747,1311},{160,166}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2775,7 +2775,7 @@
                 <key>spriteSourceSize</key>
                 <string>{37,30}</string>
                 <key>textureRect</key>
-                <string>{{1665,1889},{37,30}}</string>
+                <string>{{1471,1981},{37,30}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2790,9 +2790,9 @@
                 <key>spriteSourceSize</key>
                 <string>{170,55}</string>
                 <key>textureRect</key>
-                <string>{{980,1831},{170,55}}</string>
+                <string>{{1495,1409},{170,55}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/rank_a</key>
             <dict>
@@ -2805,7 +2805,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1524,1788},{98,98}}</string>
+                <string>{{1085,1496},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2820,7 +2820,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1684,1530},{98,98}}</string>
+                <string>{{1085,1596},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2835,7 +2835,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1784,1530},{98,98}}</string>
+                <string>{{1085,1696},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2850,7 +2850,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1784,1630},{98,98}}</string>
+                <string>{{951,1724},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2865,7 +2865,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1884,1525},{98,98}}</string>
+                <string>{{951,1824},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2880,7 +2880,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1884,1625},{98,98}}</string>
+                <string>{{1051,1796},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2895,7 +2895,7 @@
                 <key>spriteSourceSize</key>
                 <string>{98,98}</string>
                 <key>textureRect</key>
-                <string>{{1419,1931},{98,98}}</string>
+                <string>{{1151,1804},{98,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2910,9 +2910,9 @@
                 <key>spriteSourceSize</key>
                 <string>{59,48}</string>
                 <key>textureRect</key>
-                <string>{{1649,1762},{59,48}}</string>
+                <string>{{702,1959},{59,48}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/reward2</key>
             <dict>
@@ -2925,7 +2925,7 @@
                 <key>spriteSourceSize</key>
                 <string>{218,41}</string>
                 <key>textureRect</key>
-                <string>{{1927,738},{218,41}}</string>
+                <string>{{1866,1091},{218,41}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2955,7 +2955,7 @@
                 <key>spriteSourceSize</key>
                 <string>{37,38}</string>
                 <key>textureRect</key>
-                <string>{{1977,1872},{37,38}}</string>
+                <string>{{1392,1981},{37,38}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2970,9 +2970,9 @@
                 <key>spriteSourceSize</key>
                 <string>{131,40}</string>
                 <key>textureRect</key>
-                <string>{{288,2005},{131,40}}</string>
+                <string>{{622,1827},{131,40}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/subject_box_txt1</key>
             <dict>
@@ -2985,7 +2985,7 @@
                 <key>spriteSourceSize</key>
                 <string>{75,24}</string>
                 <key>textureRect</key>
-                <string>{{1984,1617},{75,24}}</string>
+                <string>{{1293,1724},{75,24}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -3000,9 +3000,9 @@
                 <key>spriteSourceSize</key>
                 <string>{75,24}</string>
                 <key>textureRect</key>
-                <string>{{1649,1812},{75,24}}</string>
+                <string>{{1591,1827},{75,24}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/subject_box_txt3</key>
             <dict>
@@ -3015,9 +3015,9 @@
                 <key>spriteSourceSize</key>
                 <string>{92,24}</string>
                 <key>textureRect</key>
-                <string>{{1984,1523},{92,24}}</string>
+                <string>{{1051,1896},{92,24}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/subject_box_txt4</key>
             <dict>
@@ -3030,9 +3030,9 @@
                 <key>spriteSourceSize</key>
                 <string>{84,28}</string>
                 <key>textureRect</key>
-                <string>{{1242,1239},{84,26}}</string>
+                <string>{{2021,583},{84,26}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/subject_box_txt5</key>
             <dict>
@@ -3045,9 +3045,9 @@
                 <key>spriteSourceSize</key>
                 <string>{75,24}</string>
                 <key>textureRect</key>
-                <string>{{1675,1812},{75,24}}</string>
+                <string>{{1591,1853},{75,24}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/subject_box_txt6</key>
             <dict>
@@ -3060,9 +3060,9 @@
                 <key>spriteSourceSize</key>
                 <string>{85,27}</string>
                 <key>textureRect</key>
-                <string>{{1990,1270},{85,25}}</string>
+                <string>{{1060,1922},{85,25}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/subject_box_txt7</key>
             <dict>
@@ -3075,9 +3075,9 @@
                 <key>spriteSourceSize</key>
                 <string>{55,24}</string>
                 <key>textureRect</key>
-                <string>{{1966,1466},{55,24}}</string>
+                <string>{{1441,1902},{55,24}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/subject_box_txt8</key>
             <dict>
@@ -3090,7 +3090,7 @@
                 <key>spriteSourceSize</key>
                 <string>{75,24}</string>
                 <key>textureRect</key>
-                <string>{{1751,1911},{75,24}}</string>
+                <string>{{1847,1850},{75,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3105,7 +3105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,30}</string>
                 <key>textureRect</key>
-                <string>{{1984,1981},{30,30}}</string>
+                <string>{{1922,1988},{30,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3120,7 +3120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{128,51}</string>
                 <key>textureRect</key>
-                <string>{{1267,1819},{128,51}}</string>
+                <string>{{402,1681},{128,51}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -3135,9 +3135,9 @@
                 <key>spriteSourceSize</key>
                 <string>{100,48}</string>
                 <key>textureRect</key>
-                <string>{{1419,1881},{100,48}}</string>
+                <string>{{779,1918},{100,48}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/text_guild_menu_no_raid_en</key>
             <dict>
@@ -3150,9 +3150,9 @@
                 <key>spriteSourceSize</key>
                 <string>{100,48}</string>
                 <key>textureRect</key>
-                <string>{{1521,1888},{100,48}}</string>
+                <string>{{829,1918},{100,48}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/time_guild_raid</key>
             <dict>
@@ -3165,9 +3165,9 @@
                 <key>spriteSourceSize</key>
                 <string>{96,37}</string>
                 <key>textureRect</key>
-                <string>{{1375,929},{96,37}}</string>
+                <string>{{751,1879},{96,37}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/trophy01</key>
             <dict>
@@ -3180,7 +3180,7 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1469,1287},{99,107}}</string>
+                <string>{{639,1690},{99,107}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3195,7 +3195,7 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1320,1813},{105,97}}</string>
+                <string>{{852,1761},{105,97}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -3210,9 +3210,9 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1685,1259},{129,109}}</string>
+                <string>{{1903,1500},{129,109}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/trophy04</key>
             <dict>
@@ -3225,7 +3225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1419,1780},{103,99}}</string>
+                <string>{{1341,1649},{103,99}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3240,9 +3240,9 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1540,1666},{85,123}}</string>
+                <string>{{664,1799},{85,123}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/trophy06</key>
             <dict>
@@ -3255,7 +3255,7 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1414,1504},{129,129}}</string>
+                <string>{{1867,1719},{129,129}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3270,7 +3270,7 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1198,1267},{113,127}}</string>
+                <string>{{638,1561},{113,127}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3285,9 +3285,9 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1796,1396},{101,115}}</string>
+                <string>{{455,1693},{101,115}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/trophy09</key>
             <dict>
@@ -3300,7 +3300,7 @@
                 <key>spriteSourceSize</key>
                 <string>{129,129}</string>
                 <key>textureRect</key>
-                <string>{{1570,1308},{99,109}}</string>
+                <string>{{527,1592},{99,109}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -3315,7 +3315,37 @@
                 <key>spriteSourceSize</key>
                 <string>{48,48}</string>
                 <key>textureRect</key>
-                <string>{{1904,1871},{48,48}}</string>
+                <string>{{1547,1954},{48,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/guild/txt_cardshop7</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-11,0}</string>
+                <key>spriteSize</key>
+                <string>{70,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{94,19}</string>
+                <key>textureRect</key>
+                <string>{{1972,404},{70,19}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/guild/txt_cardshop7_en</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{92,17}</string>
+                <key>spriteSourceSize</key>
+                <string>{94,19}</string>
+                <key>textureRect</key>
+                <string>{{1323,1862},{92,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3330,7 +3360,7 @@
                 <key>spriteSourceSize</key>
                 <string>{157,24}</string>
                 <key>textureRect</key>
-                <string>{{421,2011},{157,24}}</string>
+                <string>{{288,1994},{157,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3345,9 +3375,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,99}</string>
                 <key>textureRect</key>
-                <string>{{1026,1723},{106,99}}</string>
+                <string>{{1185,1703},{106,99}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/warehouse_box2</key>
             <dict>
@@ -3360,7 +3390,7 @@
                 <key>spriteSourceSize</key>
                 <string>{106,99}</string>
                 <key>textureRect</key>
-                <string>{{1695,1390},{106,99}}</string>
+                <string>{{751,1771},{106,99}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -3375,7 +3405,7 @@
                 <key>spriteSourceSize</key>
                 <string>{55,55}</string>
                 <key>textureRect</key>
-                <string>{{1710,1762},{55,55}}</string>
+                <string>{{1779,1881},{55,55}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3390,9 +3420,9 @@
                 <key>spriteSourceSize</key>
                 <string>{100,58}</string>
                 <key>textureRect</key>
-                <string>{{1316,1757},{96,54}}</string>
+                <string>{{1251,1804},{96,54}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/guild/warehouse_bt_out</key>
             <dict>
@@ -3405,9 +3435,9 @@
                 <key>spriteSourceSize</key>
                 <string>{100,58}</string>
                 <key>textureRect</key>
-                <string>{{1959,638},{96,56}}</string>
+                <string>{{740,1713},{96,56}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/guild/warehouse_bt_up</key>
             <dict>
@@ -3420,7 +3450,7 @@
                 <key>spriteSourceSize</key>
                 <string>{55,55}</string>
                 <key>textureRect</key>
-                <string>{{1931,1812},{55,55}}</string>
+                <string>{{1836,1901},{55,55}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -3435,7 +3465,7 @@
                 <key>spriteSourceSize</key>
                 <string>{49,49}</string>
                 <key>textureRect</key>
-                <string>{{1562,2006},{39,41}}</string>
+                <string>{{1548,1913},{39,41}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -3450,9 +3480,9 @@
                 <key>spriteSourceSize</key>
                 <string>{49,49}</string>
                 <key>textureRect</key>
-                <string>{{1605,2006},{39,37}}</string>
+                <string>{{1351,1981},{39,37}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -3466,9 +3496,9 @@
             <key>realTextureFileName</key>
             <string>guild.pvr.ccz</string>
             <key>size</key>
-            <string>{2016,2046}</string>
+            <string>{2048,2019}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7fc01ee0519d118f315be0b25470817c:a3c421191b7ffe2fab0105a5d609c69d:a0d87ec5caaa2c312db927d6aead1ef2$</string>
+            <string>$TexturePacker:SmartUpdate:906316d44628203fe0f492ca6302c4ec:a0c606d4f4ad0d54b5a471f928709eff:a0d87ec5caaa2c312db927d6aead1ef2$</string>
             <key>textureFileName</key>
             <string>guild.pvr.ccz</string>
         </dict>

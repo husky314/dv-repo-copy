@@ -9,7 +9,7 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>spriteSize</key>
                 <string>{485,296}</string>
                 <key>spriteSourceSize</key>
@@ -48,7 +48,7 @@
             <key>size</key>
             <string>{487,395}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:045587bc1831a4fd1d98188469586e86:c0ca3f904b05da50f4a40054fc3d96e9:7ddef6e270557dc706c7042cb9dfc27a$</string>
+            <string>$TexturePacker:SmartUpdate:8070a6812fbc3be3f3da57a111d6b4bf:d0ef26c90ffa09d0f00aa7b5575e95b1:7ddef6e270557dc706c7042cb9dfc27a$</string>
             <key>textureFileName</key>
             <string>attend.pvr.ccz</string>
         </dict>

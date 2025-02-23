@@ -120,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{170,56}</string>
                 <key>textureRect</key>
-                <string>{{1415,1142},{170,56}}</string>
+                <string>{{1408,1142},{170,56}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -315,7 +315,7 @@
                 <key>spriteSourceSize</key>
                 <string>{24,20}</string>
                 <key>textureRect</key>
-                <string>{{1367,1142},{24,20}}</string>
+                <string>{{1374,1176},{24,20}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -345,7 +345,7 @@
                 <key>spriteSourceSize</key>
                 <string>{24,20}</string>
                 <key>textureRect</key>
-                <string>{{1374,1168},{24,20}}</string>
+                <string>{{1386,1142},{24,20}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -630,9 +630,9 @@
                 <key>spriteSourceSize</key>
                 <string>{21,17}</string>
                 <key>textureRect</key>
-                <string>{{1374,1194},{21,17}}</string>
+                <string>{{1272,595},{21,17}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/eggshop/txt_card_pop6_off</key>
             <dict>
@@ -645,7 +645,7 @@
                 <key>spriteSourceSize</key>
                 <string>{21,17}</string>
                 <key>textureRect</key>
-                <string>{{1389,1142},{21,17}}</string>
+                <string>{{1272,618},{21,17}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -810,7 +810,22 @@
                 <key>spriteSourceSize</key>
                 <string>{20,17}</string>
                 <key>textureRect</key>
-                <string>{{1396,1165},{20,17}}</string>
+                <string>{{1272,641},{20,17}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>scene/eggshop/txt_x10</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{32,17}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,17}</string>
+                <key>textureRect</key>
+                <string>{{1367,1142},{32,17}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -828,7 +843,7 @@
             <key>size</key>
             <string>{1785,1213}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d058b3a502dd4a1b057ad3f32860f496:973c024ba473f83141e85a184e07857f:4473d06ec37240e1d0282627067068a5$</string>
+            <string>$TexturePacker:SmartUpdate:1f902f9d577d5e516d59e44fd1efbc0d:1a1e1f06bce0b332b331dbce47d4a2a5:4473d06ec37240e1d0282627067068a5$</string>
             <key>textureFileName</key>
             <string>eggshop.pvr.ccz</string>
         </dict>

@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{159,291},{76,60}}</string>
+                <string>{{167,77},{76,60}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_2020chu</key>
             <dict>
@@ -30,39 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{93,215},{76,64}}</string>
+                <string>{{229,75},{76,64}}</string>
                 <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>scene/worldmap/event_btn/bt_2021LightEvent</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{78,74}</string>
-                <key>spriteSourceSize</key>
-                <string>{80,74}</string>
-                <key>textureRect</key>
-                <string>{{1,279},{78,74}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>scene/worldmap/event_btn/bt_2023LightEvent</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{78,74}</string>
-                <key>spriteSourceSize</key>
-                <string>{80,74}</string>
-                <key>textureRect</key>
-                <string>{{93,1},{78,74}}</string>
-                <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_9th</key>
             <dict>
@@ -75,7 +45,22 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{93,147},{78,66}}</string>
+                <string>{{329,1},{78,66}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>scene/worldmap/event_btn/bt_LightEvent</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{76,74}</string>
+                <key>spriteSourceSize</key>
+                <string>{80,74}</string>
+                <key>textureRect</key>
+                <string>{{93,1},{76,74}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,9 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{173,81},{76,72}}</string>
+                <string>{{171,1},{76,72}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>scene/worldmap/event_btn/bt_eggshop</key>
             <dict>
@@ -105,9 +90,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{81,347},{76,62}}</string>
+                <string>{{295,71},{76,62}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_iceevent_main</key>
             <dict>
@@ -120,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{81,281},{76,64}}</string>
+                <string>{{359,139},{76,64}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,9 +120,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{79,471},{72,52}}</string>
+                <string>{{165,157},{72,52}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_maindvm</key>
             <dict>
@@ -150,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{1,497},{76,66}}</string>
+                <string>{{409,1},{76,66}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,9 +150,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{1,355},{76,70}}</string>
+                <string>{{93,157},{76,70}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_newbieMission</key>
             <dict>
@@ -180,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{72,58}</string>
                 <key>textureRect</key>
-                <string>{{79,411},{72,58}}</string>
+                <string>{{219,211},{72,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -195,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{159,353},{76,56}}</string>
+                <string>{{437,69},{76,56}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_pumevent_main</key>
             <dict>
@@ -210,9 +195,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{173,159},{72,62}}</string>
+                <string>{{295,149},{72,62}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_ssspvp</key>
             <dict>
@@ -225,7 +210,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{1,427},{76,68}}</string>
+                <string>{{359,69},{76,68}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -240,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{93,77},{78,68}}</string>
+                <string>{{249,1},{78,68}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -255,7 +240,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{153,469},{64,56}}</string>
+                <string>{{229,153},{64,56}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -270,9 +255,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{153,411},{66,56}}</string>
+                <string>{{437,147},{66,56}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_vip_svip</key>
             <dict>
@@ -285,9 +270,9 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{79,525},{64,56}}</string>
+                <string>{{435,215},{64,56}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>scene/worldmap/event_btn/bt_vip_vip</key>
             <dict>
@@ -300,7 +285,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{145,527},{64,56}}</string>
+                <string>{{293,223},{64,56}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -315,7 +300,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{173,1},{78,72}}</string>
+                <string>{{93,77},{78,72}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -345,7 +330,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,74}</string>
                 <key>textureRect</key>
-                <string>{{171,223},{74,66}}</string>
+                <string>{{359,205},{74,66}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -360,7 +345,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,17}</string>
                 <key>textureRect</key>
-                <string>{{1,565},{30,17}}</string>
+                <string>{{93,235},{30,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -375,7 +360,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,17}</string>
                 <key>textureRect</key>
-                <string>{{33,565},{30,17}}</string>
+                <string>{{93,254},{30,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -391,9 +376,9 @@
             <key>realTextureFileName</key>
             <string>event_btn.pvr.ccz</string>
             <key>size</key>
-            <string>{246,584}</string>
+            <string>{494,280}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d5ae254e5b53c219d44ae9927121f38d:472d2e30de63e7244c57a02e4924bbb9:e9127b0473e377de447766647a1ccb5d$</string>
+            <string>$TexturePacker:SmartUpdate:234f9c93e98887b1902437ec0dde41c1:cce4d34d29d3210dc7a0ebcd43376607:e9127b0473e377de447766647a1ccb5d$</string>
             <key>textureFileName</key>
             <string>event_btn.pvr.ccz</string>
         </dict>
