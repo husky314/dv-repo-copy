@@ -331,7 +331,11 @@ criticalInc,크리티컬 확률 증가 +%d%%,Increase critical attack rate by,�
 cured,당신의 드래곤이 행동불능 상태에서 벗어났습니다.,Your dragon has been healed.,你的神龍已經被治癒了。,あなたのドラゴンは行動不能の状態から免れました。,Twój smok został wyleczony..,你的神龍已經被治癒了。,Naga Anda telah sembuh.
 cureDragonWar,치유하기,Cure,治療,Cure,Ulecz,治療,Cure
 cureMsg,치유하기,Cure,治療,Cure,Ulecz,治療,Cure
-instantCureMsg,%s 골드를 사용하여 드래곤을 즉시 치유하시겠습니까?,Would you like to spend %d gold to instantly heal your dragon?,,,,,
+CureAll,전체 치유,ALL CURE,治療,Cure,Ulecz,治療,Cure
+instantCureAll,전체 즉시치유,ALL INSTANT,治療,Cure,Ulecz,治療,Cure
+instantCureMsg,%s 골드를 사용하여 드래곤을 즉시 치유하시겠습니까?,Would you like to spend %s gold to instantly heal your dragon?,,,,,
+instantCureAllMsg,%s 골드를 사용하여 모든 드래곤을 즉시 치유하시겠습니까?,Would you like to spend %s gold to instantly heal all your dragons?,,,,,
+CureAllMsg,골드를 사용하여 모든 드래곤을 치유하시겠습니까?,Would you use gold to heal all your dragons?,,,,,
 cureNow,지금 즉시 행동 불능에서 벗어 나시겠습니까?,Cure now?,是否馬上治療神龍？,今すぐ行動不能を解除しますか？,Uleczyć teraz?,是否馬上治療神龍？,Heal sekarang?
 cureNowDiamondCost,※다이아 %d개가 소모 됩니다.,※Use %d diamonds.,※須使用%d個鑽石。,※Use %d diamonds.,※Użyj %d diamentów.,※須使用%d個鑽石。,※Gunakan %d diamond.
 cureNowMsg,지금 즉시 행동 불능에서 벗어 나시겠습니까?\n%s<red>\n※다이아 </red>%d<red>개가 소모 됩니다.</red>,Would you like to cure now?\n%s<red>\n※Use </red>%d<red> diamonds.</red>,是否馬上治療？\n%s<red>\n※ 須花費</red>%d<red>個鑽石。</red>,Would you like to cure now?\n%s<red>\n※Use </red>%d<red> diamonds.</red>,Wyleczyć natychmiast?\n<red>※Koszt w diamentach %d</red>,是否馬上治療？\n%s<red>\n※ 須花費</red>%d<red>個鑽石。</red>,Maukah kamu menyembuhkan nagamu sekarang?\n\n※%d<red>diamond akan digunakan.</red>
@@ -450,7 +454,7 @@ dragonNotStunned,당신의 드래곤이 행동불능 상태가 아닙니다.<red
 dragonPutWarning,※ 드래곤이 승천 할 경우 다시 돌아 올 수 없습니다.\n※ 확장 슬롯의 경우 함께 사라집니다.,※ Dragons cannot come back after ascension.\n※ Expanded slots will disappear as well.,※ 注意：神龍升天後便無法回復！\n※ 「提升上限」的神龍欄位也將移除！,※ ドラゴンが昇天する場合、ふたたび戻ることはできません。\n※ 拡張スロットの場合、ともに消えることになります。,※ Po wzniesieniu smok nie może wrócić.\n※ Poszerzony slot również zniknie.,※ 注意：神龍升天後便無法回復！\n※ 「提升上限」的神龍欄位也將移除！,※ Naga tidak bisa kembali setelah ascend.\n※Slot ekspansi akan mengilang juga.
 dragonPutWarning2,※ 드래곤을 봉인 할 경우 다시 돌아 올 수 없습니다.\n※ 확장 슬롯의 경우 함께 사라집니다.,※ Dragon seal is irreversible. \n※ Expansion slots will also disappear.,,,,,
 dragonSelected,사 용 중,Using,使 用 中,Using,Wybrany,使 用 中,Menggunakan
-dragonvillageNotUpdatedMsg,<red>드래곤 빌리지가 최신 버전이 아닙니다.</red>\n업데이트 하시겠습니까?,<red>There is new version of Dragon Village!!</red>\nWould you like to update?,<red>您的神龍部落不是最新版本。</red>\n是否要進行更新？,,<red>Jest nowa wersja Dragon Village!!</red>\nChcesz zaktualizować obecną wersję?,<red>您的神龍部落不是最新版本。</red>\n是否要進行更新？,<red>Ada versi baru Dragon Village!!</red>\nApakah kamu ingin update?
+dragonvillageNotUpdatedMsg,<red>드래곤빌리지가 최신 버전이 아닙니다.</red>\n업데이트 하시겠습니까?,<red>There is new version of Dragon Village!!</red>\nWould you like to update?,<red>您的神龍部落不是最新版本。</red>\n是否要進行更新？,,<red>Jest nowa wersja Dragon Village!!</red>\nChcesz zaktualizować obecną wersję?,<red>您的神龍部落不是最新版本。</red>\n是否要進行更新？,<red>Ada versi baru Dragon Village!!</red>\nApakah kamu ingin update?
 drinkResult,자양강장제 다음 단계,Nutrition drink next level,上級強化飲料,滋養強壮剤の次の段階,Następny poziom napoju odżywczego,上級強化飲料,Minuman bernutrisi next level
 dungeon/dungeon_bgs,지하 성채,Dungeon Castle,,Underground Dungeon,Podziemny Loch,,Under Dungeon
 dungeon/dungeon_bgsIntro,당신은 지하 던전으로 탐험을 떠났습니다.\n어둡고 뜨거운 기운이 감도는 곳입니다.,You ventured into the Dungeon Castle.\nThe place is dark and full of mystery.,,You ventured into the Dungeon Castle.\nThe place is dark and full of mystery.,Wylądowałeś w Podziemnych Lochach.\nTo miejsce jest przesiąknięte mrokiem.,,You ventured into the Under Dungeon.\nThe place is dark and full of mystery.
@@ -476,7 +480,7 @@ e_gold,GOLD+,Gold+,GOLD+,Gold+,Złoto+,GOLD+,Gold+
 e_luck,행운+,Luck+,幸運+,Luck+,Szczęście+,幸運+,Luck+
 e_hybrid,복합+,Hybrid+,,,,,
 earth,땅,Earth,大地,Earth,Ziemia,大地,Earth
-eggCombine,조합하기,Combine,合成,Combine,Połącz,合成,Combine
+eggCombine,조합하기,COMBINE,合成,Combine,Połącz,合成,Combine
 eggCombine2,일괄 조합하기,Combine All,,,,,
 eggName_2,조각,Piece,碎粉,Piece,Fragment,碎粉,Piece
 eggName6,어둠의 드래곤 알,Dark Dragon Egg,闍影龍蛋,Dark Dragon Egg,Jajo Smoka Żywiołu Mroku,闍影龍蛋,Dark Dragon Egg
@@ -501,6 +505,7 @@ enchant_special2,특수 : %s%.1f ~ %.1f%%,Special : %s%.1f ~ %.1f%%,特殊 : %s%
 enchant_success,인챈트 성공!!,Enchant successful!!,強化成功!!,Enchant successful!!,Zaklęcie rzucone!!,強化成功!!,Enchant sukses!!
 enchant_succession,인챈트 승계 하기,Enchant succession,,,,,
 enchant_succession_confirm,인챈트 승계시 기존 장신구의 인챈트 내용과 재료 아이템은 소멸합니다.,The enchant and materials of the accessory are disappeared\nwhen succession proceed.,,,,,
+enchant_warning_confirm,높은 단계의 인챈트 승계를 진행합니다. 인챈트를 진행하시겠습니까?,Proceed to high-level enchant succession. \nWould you like to proceed with enchant?,,,,,
 enchant_succession_empty,재료 아이템 혹은 대상 아이템이 선택되지 않았습니다.,Please select materials or item.,,,,,
 enchant_succession_result,인챈트 승계 결과!!,Succession Result!!,,,,,
 enchant_total,%s %d,%s %d,%s %d,%s %d,%s %d,%s %d,%s %d
@@ -626,7 +631,7 @@ getWarGold,전쟁 화폐 %d개를 얻었습니다.,Received %d war currency.,獲
 getWarGold2,전쟁 화폐 %d(+%d)개를 얻었습니다.,Received %d(+%d) war currency.,獲得%d(+%d)個戰爭貨幣。,戦争貨幣%d(+%d)個を獲得しました。,Otrzymano %d(+%d) waluty wojennej.,獲得%d(+%d)個戰爭貨幣。,Menerima %d(+%d) war currency.
 getWarMoney,전쟁 화폐를 %d 획득 하였습니다.,You received %d war money.,獲得%d戰爭貨幣。,You received %d war money.,Otrzymałeś %d funduszy wojennych.,獲得%d戰爭貨幣。,Kamu menerima %d uang war.
 getWarSource,근원을 %d개 획득 하였습니다.,You took %d sources.,獲得%d個資源。,You took %d sources.,Otrzymałeś %d źródła.,獲得%d個資源。,Kamu mengambil %d sources.
-giftAccept,받기,Receive,領取,Get,Odbierz,領取,Ambil
+giftAccept,받기,RECEIVE,領取,Get,Odbierz,領取,Ambil
 giveDamage,%d의 데미지를 주었다.,Inflicted %d damage.,對目標造成%d點的傷害。,のダメージを与えた。,Zadałeś %d Obrażeń.,對目標造成%d點的傷害。,\nMemberi %d damage.
 giveDragonCure,당신의 드래곤은 행동불능 상태입니다.\n행동불능은 <red>치료제</red>로 즉시 회복할 수 있습니다.<red>\n치료제</red>를 사용하시겠습니까?,Your dragon is injured.\nInjury can be recovered using <red>Medicine</red>.\nWould you like to use <red>Medicine</red>?,您的神龍受傷了。\n使用<red>急救藥劑</red>可以進行恢復。<red>\n您是否要使用急救藥劑？</red>,Your dragon is injured.\nInjury can be recovered using <red>Medicine</red>.\nWould you like to use <red>Medicine</red>?,Twój smok jest ranny.\nRany mogą być wyleczone dzięki<red>\nLekarstwo</red>. Chciałbyś użyć <red>Lekarstwo</red>?,您的神龍受傷了。\n使用<red>急救藥劑</red>可以進行恢復。<red>\n您是否要使用急救藥劑？</red>,%s terluka.\nLuka dapat disembuhkan dengan <red>%s</red>\nMaukah beri dia makan <red>medicine</red>?
 giveDragonEnergyDrink,당신의 피로도가 없습니다.\n피로도는 <red>에너지 드링크</red>로 즉시 회복할 수 있습니다.<red>\n에너지 드링크</red>를 사용하시겠습니까?,No more fatigue.\nFatigue can be reset with <red>Energy Drink</red>.\nWould you like to use <red>Energy Drink</red>?,您的疲勞度用完了。\n疲勞度可以透過<red>活力多多</red>補充。<red>\n您是否要使用活力多多？</red>,No more fatigue.\nFatigue can be reset with <red>Energy Drink</red>.\nWould you like to use <red>Energy Drink</red>?,Twój wskaźnik zmęczenia jest niski.\nZmęczenie może być odnowione\n za pomocą <red>Napój Energetyczny</red>. Chcesz\n użyć <red>Napój Energetyczny</red>?,您的疲勞度用完了。\n疲勞度可以透過<red>活力多多</red>補充。<red>\n您是否要使用活力多多？</red>,Kadar Fatigue rendah sekali.\nFatigue dapat disembuhkan dengan <red>Energy Drink.</red>\nApakah kamu ingin gunakan<red> Energy Drink</red>?
@@ -635,7 +640,7 @@ giveUpFight,전투를 포기하고 나가시겠습니까?,Would you like to exit
 glacierDragon,글래시어의 알,Glacier Egg,冰河之龍的龍蛋,Glacier Egg,Zamrożone jajo,冰河之龍的龍蛋,글레시어의 알
 goldCardReward,%d골드,%dgold,%d金幣,%dゴルド,%dzłoto,%d金幣,%dgold
 goldUnit,골드,gold,金幣,gold,złoto,金幣,gold
-greet_empty,인사말을 선택해주세요.,Please choose entering message.,選擇開場白,Please choose entering message.,Wybierz wiadomość powitalną,選擇開場白,Mohon memilih pesan.
+greet_empty,인사말을 선택해주세요.,Please select a greeting.,選擇開場白,Please select a greeting.,Wybierz wiadomość powitalną,選擇開場白,Mohon memilih pesan.
 greeting_text,간단한 인사말,Greetings,簡易開場白,Greetings,Pozdrawiam,簡易開場白,Sapaan
 greetingMsg,%s'님의 말: %s / '%s'님의 말: %s,%s' : %s / '%s' : %s,%s'說: %s\n'%s'說: %s,%s' : %s \n'%s' : %s,%s` : %s \n`%s` : %s,%s'說: %s\n'%s'說: %s,%s' : %s \n'%s' : %s
 greetings1,Hi~ Hello~,Hi~,Hi~ Hello~,Hi~,Cześć~,Hi~ Hello~,Halo~
@@ -848,7 +853,7 @@ insertIdAndPw,아이디와 비밀번호를 입력해주세요.,Please enter ID a
 introComment5,서버 연결 중입니다.,Connecting to server.,伺服器連接中…,サーバと接続しています。,Łączenie z serwerem,伺服器連接中…,Menghubungkan ke server.
 introComment7,데이터 저장 중입니다.,Saving data.,資料儲存中…,セーブ中です。,Zapisywanie danych.,資料儲存中…,Menyimpan data
 introComment8,\n화면이 잠시 정지될 수 있습니다.,\nCould freeze for few minutes.,\n遊戲可能暫時停頓。,\n環境に応じて、最初にはセーブ時間が数分かかります。,\nGra może się na chwilę zawiesić.,\n遊戲可能暫時停頓。,\nmungkin freeze untuk beberapa menit.
-introWelcome,안녕하세요.<blue>%s</blue>님<red>\n드래곤 빌리지</red>에 오신것을 환영합니다.<red>\n드래곤 빌리지</red>는 혜성충돌로 멸종한\n드래곤의 자취가 마지막으로\n남아 있는 곳입니다.\n드래곤을 만나러 모험을 떠나 봅시다.,Hello. <blue>%s</blue>\nWelcome to <red>Dragon Village</red>.<red>\nDragon Village</red> is where the remains of\nextinct dragons from meteor strike.\nLet's go and meet the dragons.,您好，<blue>%s</blue>！\n歡迎來到<red>神龍部落</red>。<red>\n神龍部落</red>是那些從隕石撞擊倖存的神龍群，\n目前在世上唯一的棲息地。\n與神龍同樂的大冒險，就從現在展開！,Hello.<blue>%s</blue>\nWelcome to <red>Dragon Village</red>.<red>\nDragon Village</red> is where the remains of\nextinct dragons from meteor strike.\nLet's go and meet the dragons.,"Witaj. <red>%s</red>\nWitamy w <lightbrown>Smoczej Wiosce</lightbrown><lightbrown>\nSmocza Wioska</lightbrown> to miejsce, gdzie dawniej\nuderzył meteor i gdzie znajdują się ślady\nwymarłych smoków. Udajmy się na przygodę\nby spotkać te smoki.",您好，<blue>%s</blue>！\n歡迎來到<red>神龍部落</red>。<red>\n神龍部落</red>是那些從隕石撞擊倖存的神龍群，\n目前在世上唯一的棲息地。\n與神龍同樂的大冒險，就從現在展開！,Halo.<lightbrown>%s</lightbrown>\nSelamat datang ke <lightbrown>Dragon Village</lightbrown><lightbrown>\nDragon Village </lightbrown>adalah dimana jejak naga\nyang telah punah tersisa karena tumbukan\nmeteor. Mari kita bertualang untuk\nmenemui naga naga itu.
+introWelcome,안녕하세요.<blue>%s</blue>님<red>\n드래곤빌리지</red>에 오신것을 환영합니다.<red>\n드래곤빌리지</red>는 혜성충돌로 멸종한\n드래곤의 자취가 마지막으로\n남아 있는 곳입니다.\n드래곤을 만나러 모험을 떠나 봅시다.,Hello. <blue>%s</blue>\nWelcome to <red>Dragon Village</red>.<red>\nDragon Village</red> is where the remains of\nextinct dragons from meteor strike.\nLet's go and meet the dragons.,您好，<blue>%s</blue>！\n歡迎來到<red>神龍部落</red>。<red>\n神龍部落</red>是那些從隕石撞擊倖存的神龍群，\n目前在世上唯一的棲息地。\n與神龍同樂的大冒險，就從現在展開！,Hello.<blue>%s</blue>\nWelcome to <red>Dragon Village</red>.<red>\nDragon Village</red> is where the remains of\nextinct dragons from meteor strike.\nLet's go and meet the dragons.,"Witaj. <red>%s</red>\nWitamy w <lightbrown>Smoczej Wiosce</lightbrown><lightbrown>\nSmocza Wioska</lightbrown> to miejsce, gdzie dawniej\nuderzył meteor i gdzie znajdują się ślady\nwymarłych smoków. Udajmy się na przygodę\nby spotkać te smoki.",您好，<blue>%s</blue>！\n歡迎來到<red>神龍部落</red>。<red>\n神龍部落</red>是那些從隕石撞擊倖存的神龍群，\n目前在世上唯一的棲息地。\n與神龍同樂的大冒險，就從現在展開！,Halo.<lightbrown>%s</lightbrown>\nSelamat datang ke <lightbrown>Dragon Village</lightbrown><lightbrown>\nDragon Village </lightbrown>adalah dimana jejak naga\nyang telah punah tersisa karena tumbukan\nmeteor. Mari kita bertualang untuk\nmenemui naga naga itu.
 introWelcomeEgg,당신은 혜성충돌로 인해\n멸종된줄로만 알았던<lightbrown>\n%s</lightbrown>의 알을\n발견하였습니다.,"You found <lightbrown>%s</lightbrown>'s egg,\nwhich was thought to be extinct\nfrom meteor strike.",傳說中因隕石碰撞而滅絕的<lightbrown>\n%s</lightbrown>龍蛋\n竟然被你無意間發現了！,"You found <lightbrown>%s</lightbrown>'s egg,\nwhich was thought to be extinct\nfrom meteor strike.","Znalazłeś jajo <red>%s</red>,\no którego gatunku mawia\nsię, że wyginął po\nuderzeniu meteorytu.",傳說中因隕石碰撞而滅絕的<lightbrown>\n%s</lightbrown>龍蛋\n竟然被你無意間發現了！,"Kamu telah menemukan <lightbrown>\n%s</lightbrown>'s egg,\nyang dianggap punah\nakibat tumbukan meteor."
 introWelcomeEgg2,"저기 바닷가 근처에 <lightbrown>동굴</lightbrown>이 보이네요.<lightbrown>\n드래곤 부화기 2개</lightbrown>를 드릴테니,\n저곳에서 드래곤의 알을\n부화시켜 보세요.","There is a <lightbrown>Cave</lightbrown>.With <lightbrown>\n2 Incubators</lightbrown> try,\nhatching a dragon.",海灘那邊好像有個<lightbrown>洞穴</lightbrown>。<lightbrown>\n我現在送你2個神龍孵化器</lightbrown>，不如去那裡孵化龍蛋\n怎麼樣？,"There is a <lightbrown>Cave</lightbrown>.With <lightbrown>\n2 Incubators</lightbrown> try,\nhatching a dragon.",W pobliżu morza znajduje się <lightbrown>jaskinia</lightbrown>.\nWłaśnie otrzymałeś <lightbrown>2 Smoczy Inkubator</lightbrown>\nPomóż wykluć się smokowi.,海灘那邊好像有個<lightbrown>洞穴</lightbrown>。<lightbrown>\n我現在送你2個神龍孵化器</lightbrown>，不如去那裡孵化龍蛋\n怎麼樣？,Ada <lightbrown>cave</lightbrown> di dekat laut.\nkamu baru saja menerima <lightbrown>2 Dragon Incubator</lightbrown>\nCobalah menetaskan\ndragon egg.
 isHungryMsg,<red>%s</red>이 배가 고파서\n탐험을 떠날 수 없습니다.\n배고픔은 <lightbrown>음식</lightbrown>으로 회복할 수 있습니다.<lightbrown>\n음식</lightbrown>은 <red>탐험</red>이나 <red>상점</red>에서 구할 수 있습니다.,<red>%s</red> is hungry.\nPlease give <lightbrown>food</lightbrown>.<lightbrown>\nFood</lightbrown>can be found in<red> Adventure</red> or <red>Shop</red>.,<red>%s</red>感到飢餓無法繼續冒險。\n給予<lightbrown> 食物 </lightbrown>可以解除飢餓。<lightbrown>\n食物 </lightbrown>可在<red> 冒險 </red>中取得，或者在<red> 商店 </red>裡購買。,<red>%s</red> is hungry.\nPlease give <lightbrown>food</lightbrown>.<lightbrown>\nFood</lightbrown>can be found in<red> Adventure</red> or <red>Shop</red>.,<red>%s</red> umiera z głodu!\nNie nadaje się do eksploracji.\nGłód można zaspokoić <lightbrown>jedzeniem.</lightbrown><lightbrown>\nJedzenie</lightbrown> możesz znaleźć w czasie <lightbrown>Przygody</lightbrown> lub w <lightbrown>Sklepie.</lightbrown>,<red>%s</red>感到飢餓無法繼續冒險。\n給予<lightbrown> 食物 </lightbrown>可以解除飢餓。<lightbrown>\n食物 </lightbrown>可在<red> 冒險 </red>中取得，或者在<red> 商店 </red>裡購買。,<red>%s</red> sedang lapar.\nsehingga tidak bisa <lightbrown>menjelajah.</lightbrown>\nKelaparan dapat diatasi dengan <lightbrown>menjelajah.</lightbrown>\nkamu bisa mendapatkan makanan dari <red>bertualang</red> atau <red>toko.</red>
@@ -1130,7 +1135,7 @@ questCompleteReward,<red>%s</red> 퀘스트를 완료하였습니다.\n보상으
 quickMsg1,아이템을 사용하시겠습니까?,Do you want to use the item?,您要使用物品嗎?,アイテムを使用しますか？,Czy chcesz użyć tego przedmiotu?,您要使用物品嗎?,Apa kamu mau menggunakan item ini?
 raidBtn1,도전,Challenge,挑戰,挑戦,Wyzwanie,挑戰,Tantangan
 raidBtn2,포기,Give up,放棄,放棄,Poddaj się,放棄,Menyerah
-raidBtn3,보상받기,Get reward,獲得獎勵,補償取得,Nagroda,獲得獎勵,Reward
+raidBtn3,보상받기,REWARD,獲得獎勵,補償取得,Nagroda,獲得獎勵,Reward
 raidBtn4,끝내기,Finish,結束,終了,Koniec,結束,Finish
 raidInfo1,속성,Type,屬性,属性,Typ,屬性,Tipe
 raidInfo2,발견자 : %s,Founder : %s,發現者 : %s,発見者 : %s,Założyciel: %s,發現者 : %s,Founder : %s
@@ -1151,8 +1156,8 @@ raidMsg2,도전하시겠습니까?,Would you like to challenge?,是否要進行�
 raidMsg3,레이드를 포기 하시겠습니까?,Do you want to give up raid?,您要放棄團隊戰鬥嗎?,レイドを諦めますか？,Czy chcesz wycofać się z najazdu?,您要放棄團隊戰鬥嗎?,Kamu mau berhenti raid?
 raidMsg4,%s의 알을 획득하였습니다.,You received %s's Egg.,獲得%s的龍蛋。,%sの卵を獲得しました。,Otrzymałeś %s`s jajo.,獲得%s的龍蛋。,Kamu mendapat %s's egg.
 raidMsg5,%d골드를 획득하였습니다.,You received %d Gold.,獲得%d金幣。,%dゴルドを獲得しました。,Otrzymałeś %d złota.,獲得%d金幣。,Kamu mendapat %d gold.
-raidMsg6,아이템 %s를 획득하였습니다.,You received %s item.,獲得%s物品。,アイテム%sを獲得しました。,Otrzymałeś %s przedmiotów,獲得%s物品。,Kamu mendapat %s item.
-raidMsg7,아이템 %s를 %d개 획득하였습니다.,You received 3 %s items.,獲得3個%s物品。,アイテム%sを３つ獲得しました。,Otrzymałeś trzy %s przedmioty.,獲得3個%s物品。,Kamu mendapat 3 %s items.
+raidMsg6,아이템 %s을(를) 획득하였습니다.,You received %s item.,獲得%s物品。,アイテム%sを獲得しました。,Otrzymałeś %s przedmiotów,獲得%s物品。,Kamu mendapat %s item.
+raidMsg7,아이템 %s을(를) %d개 획득하였습니다.,You received 3 %s items.,獲得3個%s物品。,アイテム%sを３つ獲得しました。,Otrzymałeś trzy %s przedmioty.,獲得3個%s物品。,Kamu mendapat 3 %s items.
 rainbow-field,무지개 동산,Rainbow,彩雲煙,虹ワールド,Tęcza,彩雲煙,Rainbow
 rainbow-fieldIntro,당신은 무지개 동산으로 탐험을 떠났습니다.\n신비한 기운이 감도는 곳입니다.,You ventured into the Rainbow.\nThe place looks very interesting.,彩雲煙的冒險已開始。\n這是一個充滿神秘氣息的地方。,あなたは虹ワールドへ探検に出ました。\n神秘的な気運が感じられるところです。,Doatrłeś do miejsca zwanego Tęczą.\nW powietrzu rozmazują się piękne kolory.,彩雲煙的冒險已開始。\n這是一個充滿神秘氣息的地方。,Kamu menjelajah ke dalam Rainbow.\nTempat ini terlihat sangat menarik.
 randomEggBuy10,빛의 드래곤알을 구매하기에는 정기가 모자랍니다.,You don't have enough light elements to buy a Light Type Dragon Egg.,元素不足，無法購買光的龍蛋。,光のドラゴン卵を購買するには精気が足りません。,Brak Ci wystarczającej liczby pierwiastków Światła aby kupić jajo smoka żywiołu Światła.,元素不足，無法購買光的龍蛋。,Light Element kamu tidak cukup untuk membeli Light Type Dragon Egg.
@@ -1165,7 +1170,7 @@ rank_Rating_comment4,1000명 최소조건:금별,1000 persons,1000名 最低條�
 ,,,,,,,
 ,,,,,,,
 ranking,랭킹보기,RANKING,排名列表,順位,RANKING,排名列表,RANKING
-rankingLabel,랭킹,Ranking,排名,Ranking,Ranking,排名,Ranking
+rankingLabel,랭킹,RANKING,排名,Ranking,Ranking,排名,Ranking
 rankingPointEarned,랭킹 포인트를 %d점 획득 하였습니다.,You've earned %d Ranking points.,獲得%d 積分,ランキング・ポイントを％d点獲得しました。,Zdobyłeś %d punktów rankingowych.,獲得%d 積分,kamu mendapat %d ranking points.
 rankOneTenUseOnly,진영 랭킹 1위부터 10위까지만 사용 가능 합니다.,Only ranker 1 to 10 can use.,只允許陣營排名 1位至10位使用。,Only ranker 1 to 10 can use.,Może zostać uzyte tylko z Rangą #1~10,只允許陣營排名 1位至10位使用。,Hanya dapat digunakan oleh peringkat 1 sampai 10.
 rankOneUseOnly,진영 랭킹 1위일 때만 사용 가능 합니다.,Only ranker 1 can use.,只允許陣營排名 1位使用。,Only ranker 1 can use.,Może zostać użyte tylko z Rangą #1,只允許陣營排名 1位使用。,Hanya dapat digunakan oleh peringkat 1.
@@ -1481,7 +1486,7 @@ scenario155,음.... 그러게. 이제 도박도 끝인가...,Oh…. That's right
 scenario156,할아버지 : 걱정말게 이 마을에 점쟁이가 한 명 뿐일리 없지 않은가.,Don't you worry.\nThere has to be more than one\nfortune teller in this village.,爺爺: 別擔心，這村子裡不會只有她一個占卦師。,おじいさん : 心配しないでね。この村に占い師が一人だけであるわけがないんじゃないか。,Staruszek: Bez obaw.\nW tej wiosce musi być więcej niż\ntylko jedna wyrocznia.,爺爺: 別擔心，這村子裡不會只有她一個占卦師。,Old Man: Jangan khawatir.\npasti masih ada Fortune Teller\nlain di village ini.
 scenario157,우왓! 더 이쁘고 젊은 점쟁이 언니다!\n도박도 계속 할 수 있자나!!,Look! It's a younger and\nprettier fortune teller.\nAnd we can still gamble!,哇塞! 來了位更漂亮的占卦姐姐!\n我們有辦法繼續賭博了!!,ヌリ : うわっ！もっとかわいくて若い占い師お姉さんだ！\nギャンブルも続けるんだね！！,Nuri: Spójrz! To jakaś młodsza i\nładniejsza wyroczna!\nDalej możemy grać!,哇塞! 來了位更漂亮的占卦姐姐!\n我們有辦法繼續賭博了!!,Nuri: Lihat! Fortune Tellernya lebih muda dan\nlebih cantik\ndan kita masih bisa gamble!
 scenario158,"누리;;; 그럴때가 아니야.\n얼른 빛의 속성 카드 1,2,3단계 카드를 조합해서\n다크닉스를 무찔러야지.",Nuri…. Now is not the time.\nWe need to combine the Light Elements Cards\nand defeat Darknix.,娜莉…現在不是那個時候了。\n要趕緊合成聖王龍卡牌，\n擊敗達靈斯呢！,ズムン : ヌリ;;; そんなところじゃないよ。\n早く古代神龍カードを調合して\nダークニックスを倒さなきゃ。,J: Nuri… Nie czas na to.\nMusimy połączyć karty Smoka Boga\ni pokonać Mrocznego Niksa.,娜莉…現在不是那個時候了。\n要趕緊合成聖王龍卡牌，\n擊敗達靈斯呢！,J: Nuri.. Sekarang bukan waktunya.\nkita harus mengkombinasikan God Dragon cards\ndan mengalahkan Darknix.
-scenario159,평화로운 드래곤 빌리지의 지하에는 언제부터 존재했는지\n알 수 없을 정도로 오래된 던전이 있단다.,"Underneath the calm and peaceful dragon village,\nthere is a mysterious old dungeon that's been\nthere before the beginning of time.",一個風平浪靜的神龍部落地底下\n有一個不知何時存在的地下城。,平和なドラゴン・ビレッジの地下にはいつから存在してきたのか\nわからないくらい古いダンジョンがあるんだよ。,"Pod spokojną smoczą wioską,\nmieści się tajemnicy loch, który\nznajduje się tam od początku czasu.",一個風平浪靜的神龍部落地底下\n有一個不知何時存在的地下城。,"Dibawah dragon village yang tenang dan damai,\nada dungeon tua dan misterius yang telah\nada sejak awal waktu"
+scenario159,평화로운 드래곤빌리지의 지하에는 언제부터 존재했는지\n알 수 없을 정도로 오래된 던전이 있단다.,"Underneath the calm and peaceful dragon village,\nthere is a mysterious old dungeon that's been\nthere before the beginning of time.",一個風平浪靜的神龍部落地底下\n有一個不知何時存在的地下城。,平和なドラゴン・ビレッジの地下にはいつから存在してきたのか\nわからないくらい古いダンジョンがあるんだよ。,"Pod spokojną smoczą wioską,\nmieści się tajemnicy loch, który\nznajduje się tam od początku czasu.",一個風平浪靜的神龍部落地底下\n有一個不知何時存在的地下城。,"Dibawah dragon village yang tenang dan damai,\nada dungeon tua dan misterius yang telah\nada sejak awal waktu"
 scenario16,G스컬님의 야망을 위해서 너희는 이곳에서 죽어줘야겠다!!,You will all die here.\nWe will fulfill G Skull's ambitions,為了古拉德的野心，你們都得死在這裡了!!,Gスカル様の野望のためにお前らはここで死んでほしい！！,Wszyscy poniesiecie tu smierć.\nWypełnimy wolę Czachy G.,為了古拉德的野心，你們都得死在這裡了!!,Kalian semua akan mati disini.\nKami akan memenuhi ambisi G Skull
 scenario160,"던전에는 바깥 세상의 생물들은 비교도 되지 않을 정도로\n다양하고 강력한, 수 많은 알려지지 않은 존재들이 살고 있지.","In the dungeon, there are strong\nand powerful creatures that don't\neven compare to the ones on earth.",地下城裡存在著與外部世界無法比擬的無數強力妖怪。,ダンジョンには外の世界に生き物とは比べられないほど\n様々で強力な、数多い知られてない存在が生きている。,"W tym lochu mieszkają potężne\npotwory, do których tych z lądu\nnie można nawet porównać.",地下城裡存在著與外部世界無法比擬的無數強力妖怪。,"Di dalam dungeon, ada makhluk yang sangat kuat\ndan powerful dibanding\nmakhluk yang ada di bumi."
 scenario161,G스컬은 이 중 지하성채의 보스로\n많은 부하들을 거느리고 있는 강력한 존재라네.,G Skull is a powerful figure in the\nunderworld and has many followers.,古拉德是末日皇城的首領\n手下有很多怪物，是一個強力的存在。,Gスカルは、この中の地下砦のボスで、\n多い部下を連れている強い存在なんだ。,Czacha G to potężna postać świata\nlochów. Ma wielu sługów.,古拉德是末日皇城的首領\n手下有很多怪物，是一個強力的存在。,G skull adalah sosok yang powerful di underworld\ndan memiliki banyak pengikut.
@@ -1492,7 +1497,7 @@ scenario169,즈믄이는 전투에 적합하지 않으니...\n네가 같이가�
 scenario17,바보 같은.... 이 녀석들이 이렇게 강할 줄이야..,You fools! Wait… how are they so strong?,太不像話了.... 他們怎麼會那麼強..,バカな...こいつらがこんなに強いとは..,Głupcy! Stójcie… Jakim cudem oni są tacy silni?,太不像話了.... 他們怎麼會那麼強..,Dasar bodoh!Tunggu… kenapa mereka begitu kuat?
 scenario170,좋다고?? 그래!! 잘됐다!\n앞으로 잘 부탁해 %s야.,Yes? Great! We are at your\nservice! %s!,你答應了嗎?? 太好了!!\n以後就拜託你了， %s。,いいの??よし！！よかった！\nこれからよろしくね、%s。,Tak? Wspaniale. Jestesmy do\nTwoich usług! %s!,你答應了嗎?? 太好了!!\n以後就拜託你了， %s。,Ya? Bagus! Kami siap melayanimu!\n%s!
 scenario171,우리는 환상의 콤비를 이룰거야!,The opponent was too strong! We have to be more careful\nduring battle. I'll cure you this time.,對手太強! 下一回對戰，一定要多加註意了。\n這一次，我給你治療。,ヌリ : 強すぎる相手だった！\n先頭を決めるときもっと注意しないとね。\n今回は私が治療してあげるよ。,Nuri: Przeciwnik był zbyt silny!\nW czasie walki musimy być bardziej ostrożni.\nTym razem Cię wyleczę.,對手太強! 下一回對戰，一定要多加註意了。\n這一次，我給你治療。,Nuri: Lawan kita terlalu kuat! Kita harus lebih hati - hati\nketika bertarung. Akan kusembuhkan kamu kali ini.
-scenario172,악의 화신 다크닉스를 우리가 물리쳤어!!\n드디어 드래곤 빌리지가 다시 평화를 되찾았어!,We've defeated the devil incarnate Darknix!\nFinally there is peace in dragon village again!,我們擊敗了邪惡化身達靈斯!!\n神龍部落終於重新迎來和平!,ズムン : 悪の化身 ダークニックスを私たちが追い払った！！\nやっとドラゴン・ビレッジに平和が戻ってきたよ！,"J: Pokonaliśmy diabelskie wcielenie Mrocznego Niksa!\nWreszcie, w smoczej wiosce znowu zapanował pokój!",我們擊敗了邪惡化身達靈斯!!\n神龍部落終於重新迎來和平!,J: Kita telah mengalahkan devil incarnate Darknix!\nAkhirnya dragon village kembali damai!
+scenario172,악의 화신 다크닉스를 우리가 물리쳤어!!\n드디어 드래곤빌리지가 다시 평화를 되찾았어!,We've defeated the devil incarnate Darknix!\nFinally there is peace in dragon village again!,我們擊敗了邪惡化身達靈斯!!\n神龍部落終於重新迎來和平!,ズムン : 悪の化身 ダークニックスを私たちが追い払った！！\nやっとドラゴン・ビレッジに平和が戻ってきたよ！,"J: Pokonaliśmy diabelskie wcielenie Mrocznego Niksa!\nWreszcie, w smoczej wiosce znowu zapanował pokój!",我們擊敗了邪惡化身達靈斯!!\n神龍部落終於重新迎來和平!,J: Kita telah mengalahkan devil incarnate Darknix!\nAkhirnya dragon village kembali damai!
 scenario173,으핫핫! 역시 이 용맹한 누리님\n앞에 악이 발딛을 곳은 없지!,"Nuri: Hahaha, Of course there is no place\nfor evil in front of strong and brave Nuri!",哈哈哈哈! 有我這位大英雄娜莉大人\n邪惡就沒有容身之地了喔!,ヌリ : ウッハハ！やっぱこの勇猛なヌリ様の\n前に悪の足が踏むところなんかないんだな！,"Nuri: Hahaha. Oczywiście, nie ma możliwości by\njakiekolwiek zło dało radę wytrzymać naprzeciw walecznej Nuri!",哈哈哈哈! 有我這位大英雄娜莉大人\n邪惡就沒有容身之地了喔!,Nuri: Hahaha. Tentu saja tidak ada tempat untuk penjahat\ndi hadapan Nuri yang kuat dan berani!
 scenario174,아까까지 구석에 숨어있던게\n누구더라??,Who was hiding in the corner up\nuntil a few minutes ago again?,剛剛躲在角落裡的\n是誰??,ズムン : 先まで片隅で隠れていたのは\n誰だったっけ??,"J: A kto niby, jeszcze parę minut temu,\nukrywał się w tym narożniku?",剛剛躲在角落裡的\n是誰??,J: Siapa yang sembunyi di pojokan\ntadi?
 scenario175,외모에 성격까지...\n역시 나는 최고의 드래곤 트래이너야!,I have the looks and the personality…\nI'm the world's best dragon trainer!,美貌與智慧並重...\n我不愧是最優秀的神龍教練!,ヌリ : 見た目から性格まで...\nやっぱり私は最高のドラゴントレーナーなんだ！,Nuri: Mam urodę i charakter...\nJestem najlepszym trenerem smoków na świecie!,美貌與智慧並重...\n我不愧是最優秀的神龍教練!,Nuri: Aku cantik dan baik hati…\nAku adalah pelatih naga terhebat di dunia!
@@ -1542,11 +1547,11 @@ scenario213,뭐! %s는 강하니까~\n쉽게 물리칠수 있을것 같아,But %
 scenario214,몬스터는 랜덤으로 능력치가\n정해져 탐험도중 맞닥들이게 되,The monsters skills are decided at\nrandom and you run into them from time\nto time during your exploration,你在冒險中會遇到不同的怪物，怪物的能力值將會隨機決定。,ズムン : モンスターはランダムで能力値が\n決まって、探検の途中に出会っちゃう,"J: Umiejętności potworów za każdym razem,\ngdy się na nie natykasz są losowe.\nMożesz natknąć się na te same potwory kilka razy.",你在冒險中會遇到不同的怪物，怪物的能力值將會隨機決定。,J: Kemampuan monster di putuskan secara random dan kamu bertemu mereka sewaktu - waktu\nselama kamu menjelajah
 scenario215,다만 능력치가 훨씬 높게 정해져\n나타난다면 전투는 신중히 고려해야되,"However, if you see that the monster's\nskills are much higher than yours, you\nneed to carefully consider whether to\nbattle or not",假如你遇到的怪物的能力值達到天元突破級數…\n那你就要自求多福嚕～,ズムン : ただ、能力値がより高くなって\n出てきたら、戦闘は慎重に考えてみるべき,"J: Jednakże, jeśli umiejętności potwora\nznacznie przekraczają Twoje,\npowinieneś poważnie zastanowić się czy podejmować walkę czy wybrać ucieczkę.",假如你遇到的怪物的能力值達到天元突破級數…\n那你就要自求多福嚕～,"J: tetapi, jika kamu melihat kemampuan monster itu\nlebih tinggi dari kamu, kamur\nkamu harus memperhitungkan dengan hati - hati"
 scenario216,아! 한번 장착하면 캐쉬아이탬을\n사용해야 탈착이 가능하니 신중하게 생각해!,Also! Once you've installed the item\nit can only be removed by purchasing\na cash item so think carefully.,啊! 一但裝上寶石，只可以使用付費物品去移除掉。\n所以，你要小心考慮喔!,ズムン : あ！一回装着したら、キャッシュ・アイテムを使わないと\n外せないから、慎重に考えて！,"Poza tym, gdy użyjesz przedmiotu,\n będziesz mógł go usunąć tylko poprzez zapłatę.\nDobrze się zastanów.",啊! 一但裝上寶石，只可以使用付費物品去移除掉。\n所以，你要小心考慮喔!,Juga! Jika item sudah diinstal\ngem hanya bisa dilepas dengan membeli\ncash item jadi pikirkan baik - baik.
-scenario217,드래곤 빌리지는 좌측 하단에\n피로도라는 시스템이 존재해,On the right of Dragon Village there's\na system called fatigue.,神龍部落操作界面的左下角\n有一條疲勞計。,ドラゴン・ビレッジには左の下段に見える\n疲労度というシステムがあるよ,Po prawej stronie Dragon Village znajdziesz\nwskaźnik zmęczenia (10 punktów ruchu).,神龍部落操作界面的左下角\n有一條疲勞計。,Disisi kanan Dragon Village ada\nsistem yang bernama fatigue.
+scenario217,드래곤빌리지는 좌측 하단에\n피로도라는 시스템이 존재해,On the right of Dragon Village there's\na system called fatigue.,神龍部落操作界面的左下角\n有一條疲勞計。,ドラゴン・ビレッジには左の下段に見える\n疲労度というシステムがあるよ,Po prawej stronie Dragon Village znajdziesz\nwskaźnik zmęczenia (10 punktów ruchu).,神龍部落操作界面的左下角\n有一條疲勞計。,Disisi kanan Dragon Village ada\nsistem yang bernama fatigue.
 scenario218,탐험을 할때마다 피로도가 소모되고\n다 사용하면 회복할때 까지 기다려야되,"Every time you explore, one fatigue point\nis used. If you use them all up you have\nto wait until it gets replenished.",每一次冒險都會消耗疲勞度。\n疲勞計耗盡後，須要等它自然恢復。,探検をする度に疲労度が消耗されて、\n全部使ってしまうと回復されるまで待たなきゃいけない,"Za każdym razem, gdy wędrujesz, zużywany jest\njeden punkt ruchu. Będziesz musiał poczekać, aż punkty się odnowią,\njeśli ich wskaźnik spadnie do zera.",每一次冒險都會消耗疲勞度。\n疲勞計耗盡後，須要等它自然恢復。,"Setiap kali kamu menjelah, satu poin fatigue\nakan digunakan. Jika kamu menggunakan semua kamu harus menunggu\nsampai diisi kembali."
 scenario219,정~기다리기~싫다면 캐쉬아이탬을\n사용하면 바로 탐험을 이어갈수 있어!,If you reaaaaally don't want to wait\nyou can get a cash item\nand then explore immediately.,如果你真的不想等待，那麼就喝一瓶活力多多吧！\n喝下它就可以立即恢復疲勞度!,まぁ~本当に待ちたくない~って言うなら、キャッシュ・アイテムを\n使うとすぐ探検を続けられるからね！,"Jeśli naprawdę nie masz ochoty czekać,\n możesz spieniężyć przedmiot\n by wyruszyć natychmiast.",如果你真的不想等待，那麼就喝一瓶活力多多吧！\n喝下它就可以立即恢復疲勞度!,Jika kamu benar benaaaar tidak mau menunggu\nkamu bisa membeli cash item\ndan menjelajah langsung.
 scenario22,가고일 : 으하하핫! 얼음여왕은 내가 데려간다!,Gargoyle : Hahaha!! I will be taking Frost Queen.,石像鬼 : 哈哈哈！蠢貨!!我要帶走冰雪女王了~!哈哈哈！,ガーゴイル: ウッハハハ、バカのやつら！氷女王は俺が連れて行くぞ！,"Gargulec: Hahahaha, wy głupcy. Lodowa Królowa jest tu razem ze mną!",石像鬼 : 哈哈哈！蠢貨!!我要帶走冰雪女王了~!哈哈哈！,Gargoyle: Bwahahahaha dasar bodoh. Ice Queen ikut aku!
-scenario220,드래곤 빌리지는 드래곤을\n부화시키는 알이 존재해,"Also, in Dragon Village there\nis an egg that incubates dragons.",神龍部落裡的龍蛋可孵化不同的神龍。,ズムン : ドラゴン・ビレッジにはドラゴンを\n孵化させることができる卵があるの,"J: Powinieneś też wiedzieć, że w Dragon Village znajdziesz jaja,\n w których smoki przechodzą proces inkubacji.",神龍部落裡的龍蛋可孵化不同的神龍。,"J: Juga, di Dragon Village ada\n telur yang mengerami naga ."
+scenario220,드래곤빌리지는 드래곤을\n부화시키는 알이 존재해,"Also, in Dragon Village there\nis an egg that incubates dragons.",神龍部落裡的龍蛋可孵化不同的神龍。,ズムン : ドラゴン・ビレッジにはドラゴンを\n孵化させることができる卵があるの,"J: Powinieneś też wiedzieć, że w Dragon Village znajdziesz jaja,\n w których smoki przechodzą proces inkubacji.",神龍部落裡的龍蛋可孵化不同的神龍。,"J: Juga, di Dragon Village ada\n telur yang mengerami naga ."
 scenario221,물론 알을 부화시키려면 캐쉬아이탬인\n부화기와 승천시킬때 필요한\n드래곤의 승천도 준비해둬야지,Of course if you want to hatch an egg\nyou have to use a cash item incubator.\nThere's also an ascension item for when\nyou want your dragon to ascend.,要孵化龍蛋當然還需要使用到孵化器。\n孵化器可以從商店裡購買。\n然後為了馴養更多神龍，你需要準備「飛龍在天」。,ズムン : もちろん卵を孵化させるためには、キャッシュ・アイテムの\n孵化器と昇天させるとき必要な\nドラゴンの昇天も準備しないとね。,"J: Oczywiście, jeśli chcesz by jajo się wykluło,\n będziesz musiał użyć płatnego przedmiotu - inkubatora.\nDo tego jest jeszcze przedmiot, który odpowiada\nza wzniesienie (uwolnienie) smoka.",要孵化龍蛋當然還需要使用到孵化器。\n孵化器可以從商店裡購買。\n然後為了馴養更多神龍，你需要準備「飛龍在天」。,J: tentu saja jika kamu mau menetaskan naga\n kamu harus menggunakan cash item incubator.\nada juga ascension item\nuntuk kamu ascend nagamu.
 scenario222,많은 드래곤이 있는 만큼\n자주 얻어야할 아이탬일거야,"The more dragons you have,\nthe more you're going to need this item.",當你想馴養的神龍愈多，\n對此物品的需求就愈大。,ズムン : 数多いドラゴンが存在してるほど\nよく得なきゃいけないアイテムだと思うよ,"J: Im więcej masz smoków,\n tym częściej potrzebny będzie Ci ten przedmiot.",當你想馴養的神龍愈多，\n對此物品的需求就愈大。,"J: Semakin banyak naga yang ingin kamu punya,\nsemakin kamu butuh item ini."
 scenario223,동굴에 들어가면 우측 하단에\n책같은 아이콘이 보이지? 도감도라고 해,"If you go to the cave, you'll see\na book icon on the right hand side.\nIt's called an encyclopedia.",進了洞穴，在右下角有個書卷形的圖標吧? \n那就是圖鑑。,洞窟に入ったら右の下段に\n本みたいなアイコンが見えるよね？図鑑図というの,"Jeśli udasz się do jaskini, ujrzysz\nikonkę książki po prawej stronie.\nTo encyklopedia.",進了洞穴，在右下角有個書卷形的圖標吧? \n那就是圖鑑。,"Jika kamu masuk ke cave, kamu akan melihat\n book icon di sisi kana.\n yang disebut encyclopedia."
@@ -1558,7 +1563,7 @@ scenario228,탐험을 하려고 보면\n처음 보는 상자가 가끔 보일거
 scenario229,보물상자라는 건데 가끔씩 나타나\n금화나 캐쉬아이탬을 얻을수 있어,Treasure boxes show up occasionally\nand you'll be able to receive gold\nor cash items.,那就是寶物箱。\n打開它，你將有機會獲得金幣或付費物品。,宝物箱というものなんだけど、時々出てきて\nそこからゴールドやキャッシュ・アイテムが得られる,"Skrzynie ze skarbami pokazują się raz na czas.\nBędziesz mógł pobrać z nich złoto, lub\nprzedmioty, których nie da się za nie kupić.",那就是寶物箱。\n打開它，你將有機會獲得金幣或付費物品。,Tresure boxes muncul sekali - sekali\ndan kamu bisa mendapat gold\natau cash items.
 scenario23,이런 당했어!!,Oh no! We've been tricked!,上當了!!,こんな、やられちゃった！！,"Och, nie! Oszukano nas!",上當了!!,Oh tidak! Kita sudah ditipu!
 scenario230,물론 언제나 나오는건 아니니까~\n무작정 기다리지는 말라고...,Of course they don't show up all the time\nso don't just wait blindly\nfor them to show up,我就已經說了是「有機會」吶～\n不要為寶物箱浪費太多時間...,もちろん、いつも出てるもんじゃないから~\nいつまでも待ってるんじゃないよ...,"Oczywiście nie pojawiają się one 24 godziny na dobę.\n Nie czekaj więc w nadziei,\naż się pojawią.",我就已經說了是「有機會」吶～\n不要為寶物箱浪費太多時間...,Tentu saja mereka tidak akan muncul terus menerus\njadi jangan menunggu kemunculan\nmereka
-scenario231,드래곤 빌리지 홈페이지에서는\n다양한 커뮤니티가 존재해,There's a wonderful community on the\ndragon village facebook homepage.,神龍部落於網上有不同的社群，,ドラゴン・ビレッジのホームページには\n様々なコミュニティーがある,Na stronie Dragon Village na facebook`u\nznajdziesz cudowną społeczność.,神龍部落於網上有不同的社群，,Di dragon village facebook homepage\nterdapat komunitas yang luar biasa.
+scenario231,드래곤빌리지 홈페이지에서는\n다양한 커뮤니티가 존재해,There's a wonderful community on the\ndragon village facebook homepage.,神龍部落於網上有不同的社群，,ドラゴン・ビレッジのホームページには\n様々なコミュニティーがある,Na stronie Dragon Village na facebook`u\nznajdziesz cudowną społeczność.,神龍部落於網上有不同的社群，,Di dragon village facebook homepage\nterdapat komunitas yang luar biasa.
 scenario232,모든 드빌 유저들이 그곳에서\n서로 이야기하고 의견을 나누는 장소지,It's a place where all the dragon village\nusers come to share stories and ideas.,所有神龍部落的玩家\n都在那裡互相交流。,すべてのドラビレのユーザーたちがそこで\n話し合ったり、意見を交換したりするところなの,"To miejsce, gdzie wszyscy użytkownicy\nDragon Village spotykają się by podzielić się swoimi opowieściami i pomysłami.",所有神龍部落的玩家\n都在那裡互相交流。,Tempat dimana semua dragon village user\nmembagi ide dan cerita.
 scenario233,또 출첵을 통해 꽁짜~로 보석을\n얻을수 있다고! 출첵은~잊어 먹지마~!,You can make more friends through\nfacebook. Get free elements!\nSo don't forget!,在那裡你可以找到你的戰友，互相交流神龍部落的心得，\n並可以互相分享經驗~,また、出席をしたらただ~でダイヤが\nもらえるんだから！出席は~忘れないでね~！,Na facebooku możesz znaleźć więcej znajomych!\nNie zapomnij też o darmowych pierwiastkach!,在那裡你可以找到你的戰友，互相交流神龍部落的心得，\n並可以互相分享經驗~,Kamu bisa menemukan lebih banyak teman\nmelalui facebook. Dapatkan free element!\njadi jangan lupa!
 scenario234,다크닉스의 부활로 인해 어둠이 드리웠던\n유타칸에 빛이 떠오르고 있다,"Light is rising at Utahkhan, once drivien \n to darkness by the resurrected Darknix.",因達靈斯終於醒過來，籠罩幽塔卡恩半島的陰影正漸漸消失，\n從黑暗中透出一道光芒。,ダークニックスの復活で闇が立ち込めていた\nユタカン半島に光が姿を現している,"Pośród ciemności, które zapanowały\n na Półwyspie Utahkhan po odrodzeniu się Mrocznego Niksa\n, zaczęło przebijać się światło.",因達靈斯終於醒過來，籠罩幽塔卡恩半島的陰影正漸漸消失，\n從黑暗中透出一道光芒。,ada cahaya timbul di kegelapan\nyang dimulai dengan kebangkitan Dark Nix\ndi Utahkhan Peninsula
@@ -1716,13 +1721,17 @@ socialLoginMsg3,%d시간전,%dh ago,,,,,
 socialAcceptMsg1,선물 받을 아이템이 없습니다.,No gifts to receive.,沒收到朋友的禮物。,受けるギフトがありません。,Nie otrzymałeś żadnych podarunków.,沒收到朋友的禮物。,Tidak ada gift untuk diterima.
 socialAcceptMsg2,모두 수락 하였습니다.,Accepted all gifts.,已收取全部禮物。,全てを受け入れました。,Zaakceptowano wszystkie podarunki.,已收取全部禮物。,menerima semua gifts.
 socialAcceptMsg3,%d개의 정기를 받았습니다.,Received %d elements.,收到%d個元素。,%d個の精気を受けました。,Otrzymano #d pierwiastków.,收到%d個元素。,%d elemen diterima.
-socialAllAccept,모두수락,Accept all,收取全部,Accept all,Zaakceptuj wszystko.,收取全部,Terima semua
-socialAllSend,전부 보내기,Send to all,發送給所有人,Send to all,Wyślij wszystkim.,發送給所有人,Kirim ke semua
+socialAllAccept,모두수락,ACCEPT\nALL,收取全部,ACCEPT ALL,Zaakceptuj wszystko.,收取全部,Terima semua
+socialAllSend,전부 보내기,SEND \nTO ALL,發送給所有人,Send to all,Wyślij wszystkim.,發送給所有人,Kirim ke semua
 socialGiftSendMsg1,선물할 정기를 선택하세요.,Please select an element for gift.,請您選擇要送出的元素。,プレゼントする 精気を選んで下さい。,Proszę wybrać pierwiastek na podarunek.,請您選擇要送出的元素。,Silahkan pilih element untuk gift.
 socialWarBtn1,대전,VS,對戰,対戦,kontra,對戰,VS
 socialWarMsg1,드래곤을 선택하세요.,Please select a Dragon.,請選擇神龍。,ドラゴンを選んで下さい。,Proszę wybrać smoka.,請選擇神龍。,Silahkan pilih naga.
 socialWarMsg2,레벨 20이상 참여할 수 있습니다.,Dragon's level has to be at least 20.,只允許20級以上的神龍參加。,レベル20以上参加出来ます。,Smok musi być co najmniej na 20 poziomie.,只允許20級以上的神龍參加。,Level naga setidaknya harus level 20.
 socialWarMsg3,상대 드래곤이 레벨 20이상이 아닙니다.,Opponent's dragon level is below 20,對方神龍的等級低於 20級。,相手のドラゴンのレベルが20以上はありません。,Smok Twojego przeciwnika jest poniżej 20 poziomu.,對方神龍的等級低於 20級。,Level lawan naga dibawah 20
+SocialSort001,이름순▲,NAME▲,NAME▲,NAME▲,NAME▲,NAME▲,NAME▲
+SocialSort002,이름순▼,NAME▼,NAME▼,NAME▼,NAME▼,NAME▼,NAME▼
+SocialSort003,상태순▲,STATUS▲,STATUS▲,STATUS▲,STATUS▲,STATUS▲,STATUS▲
+SocialSort004,상태순▼,STATUS▼,STATUS▼,STATUS▼,STATUS▼,STATUS▼,STATUS▼
 somethingDarknixGet,%s를 %d개를 획득하였습니다.,Found %s. Amount: %d,獲得 %s %d個。,Found %s. Amount: %d,Znaleziono: %s. Ilość: %d,獲得 %s %d個。,%s ditemukan. Jumlah: %d
 somethingFound,무언가 반짝이는 것이 있다.,"Oh, there's something shiny.",咦？那邊好像有東西在閃爍著。,何か光ってる。,"Och, coś błyszczącego.",咦？那邊好像有東西在閃爍著。,"Oh, ada sesuatu yang berkilau."
 somethingGetDungeon2,을(를) 획득하였습니다.,,獲得了。,,Otrzymano,獲得了。,%s을(를) 획득하였습니다.
@@ -1741,6 +1750,7 @@ stun,행동불능,INJURED,受傷,行動不能,RANNY,受傷,CEDERA
 stunUseComment1,당신의 드래곤은 행동불능 상태입니다.,You dragon is currently injured.,您的神龍受傷了。,あなたのドラゴンは行動不能の状態です。,Twój smok jest aktualnie ranny.,您的神龍受傷了。,Nagamu sedang terluka.
 sucProb1,성공 확률: %d%%,Rate: %d%%,成功率: %d%,Rate: %d%%,Rate: %d%%,成功率: %d%,Rate: %d%%
 sucProb2,성공 확률:,Success:,成功率:,Success:,Success:,成功率:,Success:
+sucProb3,성공 확률:,Rate:,成功率:,Rate:,Rate:,成功率:,Rate:
 superior,%s 속성에 약합니다.,Weak against %s type dragon.,不擅於對付%s屬性。,%sの属性のドラゴンに弱いです。,Słaby przeciwko smokom typu %s.,不擅於對付%s屬性。,Lemah terhadap naga Tipe %s
 superiorBuffDrink,강화 물약을 먹은 용에게 약합니다.,Weak against Dragons what drank Buff Drink.,不擅於對付經過強化的神龍。,Weak against dragons drank buff drink.,"Malo skuteczne przeciwko smokom, które wypiły napoje wzmacniające.",不擅於對付經過強化的神龍。,Lemah terhadap naga yang minum buff drink!
 systemError,오류가 발생했습니다.\n문제가 계속될 경우 고객센터로 문의 부탁드립니다.,Error occured.\nPlease contact Customer Service if keep occured.,發生不明錯誤。\n如果情況持續，請與客服中心聯繫。,Error occured.\nPlease contact customer service.,Błąd.\nProsze skontakuj się z obsługą.,發生不明錯誤。\n如果情況持續，請與客服中心聯繫。,Error terjadi.\nMohon untuk menghubungi customer service.
@@ -1859,7 +1869,7 @@ healMsg,체력 회복!!\n%d만큼 체력을 회복 했다.,Healed!!\n%d HP has b
 inapp_error_mesg,홈페이지의 고객센터로 문의해 주시기 바랍니다.    ,Please contact customer service via homepage,請與客服支援中心聯繫。\nsupport.dv@smart2on.com,Please contact customer service.\nsupport@highbrow-inc.com,Proszę skontaktuj się z ekipą.\nsupport@microlizard.com,請與客服支援中心聯繫。\nsupport.dv@smart2on.com,Perkhidmatan Pelanggan:\nSila berasa bebas untuk menghubungi kami.\nsupport@highbrow-inc.com
 loginMent1,하이브로 아이디,highbrow account,Highbrow帳號,highbrow ID,Highbrow ID,Highbrow帳號,통합아이디
 loginMent2,하이브로 통합아이디로 로그인합니다.,Login with highbrow account.,使用Highbrow帳號登入,Login with highbrow account.,Login with Highbrow ID,使用Highbrow帳號登入,하이브로 통합아이디로 로그인합니다.
-loginMent3,이전 드빌아이디,Old DV account,現有帳號,Old DV ID,Existing ID,現有帳號,기존ID
+loginMent3,이전 드빌아이디,OLD ACCOUNT,現有帳號,Old DV ID,Existing ID,現有帳號,기존ID
 loginMent4,회원가입시 하이브로 모든 게임에서 이용 가능합니다.\n실제 사용하는 이메일 주소가 아닐 경우 일부 서비스 이용이 제한될 수 있습니다.,The account can be used in all highbrow games.,加入會員後，可登入所有Highbrow遊戲,The account can be used in all highbrow games.,Sign up to access all highbrow games,加入會員後，可登入所有Highbrow遊戲,회원가입시 하이브로 모든 게임에서 이용 가능합니다.
 loginMent5,로그인 성공하였습니다.\n통합계정 생성 보상으로 다이아 10개를 받았습니다.\n재시작시 보상을 받을 수 있습니다.,Login successful.\nRewarded 10 diamonds for logging in.\nRestart to receive the reward.,登入成功。,Login successful.\nRewarded 10 diamonds for logging in.\nRestart to receive the reward.,Zalogowano,登入成功。,로그인 성공하였습니다.
 loginMent6,하이브로 게임 통합아이디 정책 시행으로\n기존 드빌 계정을 연동할 새로운 아이디를\n생성 해주시기 바랍니다.,Please create a new highbrow account\nto have access to all highbrow games.\nYour previous playdata will be automatically\ntransfered to the new account.,需要Highbrow帳號。,Please create a new highbrow account\nto have access to all highbrow games.\nYour previous playdata will be automatically\ntransfered to the new account.,Wymagany highbrow ID,需要Highbrow帳號。,통합계정이 필요합니다.
@@ -2035,9 +2045,9 @@ multiFight_reward,승리 보상으로 %d골드와 %d 캡드전 R.P를 받았습�
 purchaseBlockMsg,,,※ 注意\n臺灣&香港 服務結束 無法注冊,,,※ 注意\n臺灣&香港  服務結束 無法注冊,
 signupBlockMsg,,,※ 注意\n臺灣&香港 服務結束 無法購買,,,※ 注意\n臺灣&香港  服務結束 無法購買,
 signupError7,아이디는 6~20자리입니다.,ID has to be 6~20 characters long.,帳號長度必須為 6 至 20 字元。,ID has to be 6~20 characters long.,ID musi mieć 6~20 znaków.,帳號長度必須為 6 至 20 字元。,ID has to be 6~20 characters long.
-saveLabel,SAVE,SAVE,儲存,SAVE,Zapisz,儲存,SAVE
-deleteLabel,DELETE\nACCOUNT,DELETE\nACCOUNT,删除账户,DELETE\nACCOUNT,Usuń konto,删除账户,DELETE\nACCOUNT
-logoutLabel,LOGOUT,LOGOUT,退出,LOGOUT,Wyloguj,退出,LOGOUT
+saveLabel,저장,SAVE,儲存,SAVE,Zapisz,儲存,SAVE
+deleteLabel,계정삭제,DELETE\nACCOUNT,删除账户,DELETE\nACCOUNT,Usuń konto,删除账户,DELETE\nACCOUNT
+logoutLabel,로그아웃,LOGOUT,退出,LOGOUT,Wyloguj,退出,LOGOUT
 toBeUpdated,更新準備中。,更新準備中。,更新準備中。,,更新準備中。,更新準備中。,
 colosseum_all_pub,港台排名,港台排名,港台排名,,港台排名,港台排名,
 colosseum_week_pub,港台每週,港台每週,港台每週,,港台每週,港台每週,
@@ -2064,10 +2074,12 @@ askPurchase14,"다이아 2250개(골드500,000, 황금 다이아500)를 구입�
 askPurchase15,"보석 1050x2개(골드150,000, 황금 다이아110)\n구매는 55,000원이 결제됩니다.\n결제하시겠습니까?","$49.99 will be charged\nfor 1050x2 Gems (150,000 Gold, 110 Golden Diamond).\nContinue with purchase?",,,,,
 askPurchase16,"보석 2250x2개(골드500,000, 황금 다이아250)\n구매는 110,000원이 결제됩니다.\n결제하시겠습니까?","$99.99 will be charged\nfor 2250x2 Gems (500,000 Gold, 250 Golden Diamond).\nContinue with purchase?",,,,,
 gemPurchased2,보석 %dx2개를 구입했습니다.,You bought %dx2 Gems.,購買%dx2個鑽石。,Purchased '%dx2 diamonds' pack.,Kupiono %dx2 .,購買%dx2個鑽石。,Purchased '%dx2 diamonds' pack.
-personalAgreement,"개인정보 수집 및 이용 동의\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","Privacy Policy\n\nhighbrow-inc. and/or its affiliates respects the privacy of everyone that uses our websites, games, and various related services.\nThis privacy policy is designed to inform you about the type of information that we gather about you.\nYou can read Privacy Policy located at [https://www.dragonvillage.net]","드래곤 빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤 빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤 빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤 빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤 빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다."
-userAgreement,드래곤 빌리지 이용약관\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,Terms of Service\n\nThis site and related services are provided by highbrow-inc.\nBy accessing and/or using this site or Services.\nYou can read Terms of Service located at [https://www.dragonvillage.net],개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙  제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.
+personalAgreement,"개인정보 수집 및 이용 동의\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","Privacy Policy\n\nhighbrow-inc. and/or its affiliates respects the privacy of everyone that uses our websites, games, and various related services.\nThis privacy policy is designed to inform you about the type of information that we gather about you.\nYou can read Privacy Policy located at [https://www.dragonvillage.net]","드래곤빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다.","드래곤빌리지 이용약관\n개인정보취급방침\n주식회사 하이브로(이하 ‘회사’라 합니다.)는 개인정보 보호법에 따라 고객님의 개인정보를 보호하고, 이와 관련한 내용을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리(취급) 지침을 공개합니다."
+userAgreement,드래곤빌리지 이용약관\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,Terms of Service\n\nThis site and related services are provided by highbrow-inc.\nBy accessing and/or using this site or Services.\nYou can read Terms of Service located at [https://www.dragonvillage.net],개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙  제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.,개인정보 수집 및 이용 동의\n이용약관\n제 1 장 총칙 제 1 조 [목적] 본 약관은 하이브로(이하 ‘회사’)에서 제공하는 모든 게임 서비스(이하 ‘서비스’)를 이용하고자 하는 게임 이용자(이하 ‘이용자’)와 회사간에 서비스의 이용에 관한 기본적인 사항 및 기타 제반 사항을 규정하는 것을 목적으로 합니다.
 inDetail,자세히 보기,Detail,자세히 보기,자세히 보기,자세히 보기,자세히 보기,자세히 보기
-agreeAgreement,이용약관에 동의 합니다.,Agree,이용약관에 동의 합니다.,이용약관에 동의 합니다.,이용약관에 동의 합니다.,이용약관에 동의 합니다.,이용약관에 동의 합니다.
+TERMS_AGREE,이용약관에 동의합니다.,I agree to the Terms of Service,我同意服务条款,,,,
+PRIVACY_AGREE,개인정보 처리방침에 동의합니다.,I agree to the Privacy Policy,我同意隐私政策,,,,
+TERMS_AGREE_COMPLETE,이용약관과 개인정보처리방침 동의가 완료되었습니다.,Terms of Service and Privacy Policy agreement completed.,服务条款和隐私政策协议已完成,,,,
 multiFight_NoCash,캡슐대전에 참가하기 위한\n다이아가 모자랍니다.,You don't have enough Diamonds\nto enter the Capsule Battle.,캡슐대전에 참가하기 위한\n다이아가 모자랍니다.,캡슐대전에 참가하기 위한\n다이아가 모자랍니다.,Nie masz wystarczającej ilości diamentów\naby wejść na Arene.,參加膠囊對戰入場券\n鑽石不足喔.,캡슐대전에 참가하기 위한\n다이아가 모자랍니다.
 war_mission_title_1,근원 획득,Origin Acquired,근원 획득,근원 획득,Zdobyty Rodowód,獲得資源,근원 획득
 war_mission_comment_1,근원 %d개 획득,%d Origin Acquired,근원 %d개 획득,근원 %d개 획득,%d Zdobyty Rodowód,獲得%d個資源,근원 %d개 획득
@@ -2176,8 +2188,10 @@ guild_grade,%d위,Rank %d,%d위,%d위,Pozycja %d,%d上,%d위
 guild_save,아이템을 성공적으로 보관했습니다.,Item is successfully stored.,아이템을 성공적으로 보관했습니다.,아이템을 성공적으로 보관했습니다.,Przedmiot został zachowany.,道具保管成功.,아이템을 성공적으로 보관했습니다.
 guild_get,%s을(를) 성공적으로 가져왔습니다.,%s is successfully collected.,%s을(를) 성공적으로 가져왔습니다.,%s을(를) 성공적으로 가져왔습니다.,%s został odebrany.,成功拿回%s.,%s을(를) 성공적으로 가져왔습니다.
 guild_mission_collect,수집 미션 : 아이템을 모아오자!,Collection Mission: Let's get the items!,수집 미션 : 아이템을 모아오자!,수집 미션 : 아이템을 모아오자!,Kolekcjonowanie: Zbierzmy trochę przedmiotów!!,搜集任務 : 把道具搜集回來!,수집 미션 : 아이템을 모아오자!
-guild_mission_dungeon,던전 미션 : %s을(를) %d회 물리치자!,Dungeon Mission: Defeat %s %d times!,던전 미션 : %s을(를) %d회 물리치자!,던전 미션 : %s을(를) %d회 물리치자!,Misja Lochy: Defeat %s %d times!,地下城任務: 戰勝%d回%s!,던전 미션 : %s을(를) %d회 물리치자!
-guild_mission_adventure,탐험 미션 : %s을(를) %d회 탐험하자!,Exploration Mission: Explore %s %d times!,탐험 미션 : %s을(를) %d회 탐험하자!,탐험 미션 : %s을(를) %d회 탐험하자!,Eksloracja: Zwiedź %s %d razy!,探險任務 :探險%d回%s!,탐험 미션 : %s을(를) %d회 탐험하자!
+guild_mission_dungeon,던전 미션,Dungeon Mission,,,,,
+guild_mission_dungeon_desc,%s을(를) %d회 물리치자!,Defeat %s %d times!,,,,,
+guild_mission_adventure,탐험 미션,Exploration Mission,,,,,
+guild_mission_adventure_desc,%s을(를) %d회 탐험하자!,Explore %s %d times!,,,,,
 guild_mission_complete,완료,Complete,완료,완료,Ukończono,完成,완료
 guild_join_joinBefore,[%s]길드에\n가입 하시겠습니까?,Do you want to join\n[%s] Guild?,가입 하시겠습니까?,가입 하시겠습니까?,Chcesz dołączyć do\n[%s] Gildii?,要加入[%s]行會\n嗎？,가입 하시겠습니까?
 guild_join_joinAfter,[%s]길드에\n가입 신청하였습니다.,Request to join \n[%s] Guild has been sent.,%s길드에 가입 신청하였습니다.,%s길드에 가입 신청하였습니다.,Prośbą o dołączenie do \n[%s] Gildii została wysłana.,.已申請了[%s]行會\n的加入,%s길드에 가입 신청하였습니다.
@@ -2277,7 +2291,7 @@ guild_storage_log,사용 기록,Usage Record,사용 기록,사용 기록,Zapis z
 guild_storage_date,날 짜,Date,날 짜,날 짜,Data,日期,날 짜
 guild_storage_max_count,최대 %d개씩 보관 가능합니다.,Archive available maximum %d,최대 %d개씩 보관 가능합니다.,최대 %d개씩 보관 가능합니다.,,최대 %d개씩 보관 가능합니다.,최대 %d개씩 보관 가능합니다.
 guild_storage_max_count2,최대 %d개씩 찾을 수 있습니다.,Take out available maximum %d,최대 %d개씩 찾을 수 있습니다.,최대 %d개씩 찾을 수 있습니다.,,최대 %d개씩 찾을 수 있습니다.,최대 %d개씩 찾을 수 있습니다.
-guild_board_notie,공지,Notice,공지,공지,Ogłoszenie,公告,공지
+guild_board_notie,공 지,Notice,공 지,공 지,Ogłoszenie,公 告,공 지
 guild_board_notie2,[공지],[Notice],[공지],[공지],[Ogłoszenie],[公告],[공지]
 guild_board_notie3,공지가 없습니다.,There is no Notice.,공지가 없습니다.,공지가 없습니다.,Nie ma żadnego ogłoszenia.,沒有公告.,공지가 없습니다.
 guild_board_title_empty,제목을 입력하세요.,Enter Title.,제목을 입력하세요.,제목을 입력하세요.,Wpisz Tytuł.,請輸入標題.,제목을 입력하세요.
@@ -2352,9 +2366,9 @@ sky_palace_btn_pull,정령뽑기,Spirit draw,,,,選擇精靈,
 sky_palace_btn_enhan,정령강화,Enhance Spirit,,,,強化精靈,
 sky_palace_btn_evol,정령진화,Evolve Spirit,,,,精靈進化,
 sky_palace_btn_book,정령도감,Spirit book,,,,精靈圖鑒,
-sky_palace_pull_normal,일반뽑기,Normal draw,,,,普通選擇,
-sky_palace_pull_high,고급뽑기,Advanced draw,,,,高級選擇,
-sky_palace_pull_prem,최고급뽑기,Premium draw,,,,,
+sky_palace_pull_normal,일반뽑기,NORMAL DRAW,,,,普通選擇,
+sky_palace_pull_high,고급뽑기,ADVANCED DRAW,,,,高級選擇,
+sky_palace_pull_prem,최고급뽑기,PREMIUM DRAW,,,,,
 sky_palace_pullcost_normal,디바인스톤 %d,Divine Stone %d,,,,神石 %d,
 sky_palace_pullcost_high,다이아 %d,Dia %d,,,,鑽石 %d,
 sky_palace_pullcost_prem,황금다이아 %d,GoldDia %d,,,,,
@@ -2386,12 +2400,12 @@ mine_tab2,길드,Guild,,,,公會,
 mine_vote_btn1,입찰,Bidding,,,,競標,
 mine_vote_btn2,입찰하기,Bid,,,,開始競標,
 mine_contri_btn1,투입,Insert,,,,投入,
-mine_contri_btn2,공사하기,Contruction confirm,,,,開始工程,
-mine_contri_title,%d층 통로공사 정보,%dfloor corridor construction information,,,,%d層的公路工程信息,
-mine_cur_contri,현재 기여도,Current contributiveness,,,,當前貢獻數,
-mine_contribution,공사 기여도 : %d점,Construction contributiveness,,,,施工貢獻度 : %ddian,
+mine_contri_btn2,공사하기,Confirm,,,,開始工程,
+mine_contri_title,%d층 통로공사 정보,%d floor information,,,,%d層的公路工程信息,
+mine_cur_contri,현재 기여도,Contributiveness,,,,當前貢獻數,
+mine_contribution,공사 기여도 : %d점,contributiveness : %d,,,,施工貢獻度 : %ddian,
 mine_rank,순위,Rank,,,,順序,
-mine_mineral_title,%d층 채광 정보,%dfloor mining information,,,,%d層的採礦xinxi,
+mine_mineral_title,%d층 채광 정보,%dfloor information,,,,%d層的採礦xinxi,
 mine_vote_popup_title,해당 층의 채굴권을 획득하기 위해\n입찰하시겠습니까?,Do you want bid for getting mineral rights?,,,,為獲得該層的採礦權要參加\n競標ma?,
 mine_vote_target_msg,%d위까지 필요한 예상 수량 : %d개,Expected amount to %d place : %d,,,,%d位為止預計需要的數量是 : %d個,
 mine_contri_popup_title,통로 공사에 투입할 자재수량을\n결정해주세요.,Please decide amount of material\nfor passage contruction,,,,請確認需要投入工程中的材料數量\n.,
@@ -2399,7 +2413,7 @@ mine_raid_popup_title,레이드에 참여 하시겠습니까?,Do you want to par
 mine_raid_title,전투 기여도,Battle contributiveness,,,,戰鬥貢獻度,
 totaldamage,총 데미지,Total damage,,,,戰鬥造成總傷害,
 mine_raid_btn,전투하기,Let's battle,,,,開始戰鬥,
-mine_vote_time,다음 개표까지 시간,Remained time for next battle,,,,下個競標結果公佈時間,
+mine_vote_time,다음 개표까지 시간,Next,,,,下個競標結果公佈時間,
 mine_today_mineral,익일 채굴량,Daily output,,,,翌日采矿量,
 mine_remain_mineral1,잔여 매장량,Reserve,,,,剩餘儲藏量,
 mine_remain_mineral2,남은 매장량:,Reserve,,,,剩餘儲藏量,
@@ -2410,10 +2424,10 @@ mine_mineral_amount1,고갈,Exhaustion,,,,缺乏,
 join_not_guild,길드에 가입되어 있지 않습니다.,Not registered to a guild.,,,,尚未加入任何公會.,
 spirit_material_text,강화\n재료,Enhancement material,,,,強化\n材料,
 guild_menu_shop,상점은 길드레벨 5부터 이용 가능합니다.,Shop can be used after guild level.,상점은 길드레벨 5부터 이용 가능합니다.,상점은 길드레벨 5부터 이용 가능합니다.,Można skorzystać z sklepu po zdobyciu lvl Gildii.,[公會達到5級開放公會商店.,상점은 길드레벨 5부터 이용 가능합니다.
-mine_totalvote,입찰권 투입:,Bidding right insert:,,,,輸入競標劵：,
+mine_totalvote,입찰권 투입:,Bidding,,,,輸入競標劵：,
 mine_amount,%d개,%d,,,,%d個,
 mine_contri_point,기여도,Contributiveness,,,,貢獻du,
-mine_vote_point,입찰권 투입,Bidding right insert,,,,輸入競標劵：,
+mine_vote_point,입찰권 투입,Bidding,,,,輸入競標劵：,
 mine_contri_progress,공사 진행율,Contruction progress,,,,工程完成率,
 pocket_amount,%d / %d,%d / %d,,,,,
 pocket_price,포인트 구입,Buy Points,,,,,
@@ -4566,7 +4580,7 @@ buyGhostWater,유령수 5개를 다이아3개로 구매하시겠습니까?,Will 
 noDiaForWater,유령수 구매에 필요한 다이아가 부족합니다.\n캐쉬 충전을 하시겠습니까?,Not enough Diamonds to purchase Ghost Water.\nCharge with cash?,購買幽靈的鑽石數量不足.\n要用現金充值麼?,유령수를 사기엔 필요한 다이아가 부족합니다.\n캐쉬 충전을 하시겠습니까?,,購買精靈所需的鑽石數目不足.\n要增值嗎?,
 signupError8,아이디 또는 비밀번호는\n숫자 또는 영문자만 사용이 가능합니다.,For ID and password\n only numbers and English characters may be used.,,,,帳戶和密碼\n只可以使用數字和英文字母.,
 guild_all_reject1,모든 신청을 거절하시겠습니까?,Refuse all requests?,모든 신청을 거절하시겠습니까?,모든 신청을 거절하시겠습니까?,모든 신청을 거절하시겠습니까?,要拒絕所有邀請麼?,모든 신청을 거절하시겠습니까?
-guild_all_reject2,모두거절,Refuse all,모두거절,모두거절,모두거절,全部拒絕,모두거절
+guild_all_reject2,모두거절,REFUSE\nALL,모두거절,모두거절,모두거절,全部拒絕,모두거절
 dragon_upgrade_empty,"각성 가능한 드래곤이 없습니다.\n각성조건 : Lv40, 1차 캡슐 드래곤","No dragon can be awakened.\nCondition for awakening: Lv40, 1st class capsule dragon","각성 가능한 드래곤이 없습니다.\n각성조건 : Lv40, 1차 캡슐 드래곤","각성 가능한 드래곤이 없습니다.\n각성조건 : Lv40, 1차 캡슐 드래곤","각성 가능한 드래곤이 없습니다.\n각성조건 : Lv40, 1차 캡슐 드래곤","沒有達到覺醒條件的神龍.\n覺醒條件 : Lv40, 已經1次膠囊化的神龍","각성 가능한 드래곤이 없습니다.\n각성조건 : Lv40, 1차 캡슐 드래곤"
 capsule_war_bufItem,버프 아이템,Buff item,캡드전 버프템,캡드전 버프템,캡드전 버프템,封頂戰增益道具,캡드전 버프템
 card_combine_tip,"동일 속성카드 1,2,3단계 3장을 조합하여\n 해당 속성의 드래곤 캡슐을 획득할 수 있습니다.","Get a capsule by merging 1, 2, and 3 cards of the same elements",集齊相同神龍的三張卡片\n可以得到該神龍膠囊.,,,相同神龍的3張卡片組合後\n可以得到該神龍的進化膠囊.,
@@ -4756,9 +4770,9 @@ allReceiveMail,모두받기,receive all,,,,,
 expired,보관기간 만료,Storage period expired,,,,,
 emptyTableView,데이터가 없습니다.,No data.,,,,,
 remainTime,남은 보관기간,storage time\nRemaining,,,,,
-mailD,%d일,%dd,,,,,
-mailH,%d시간,%dhr,,,,,
-mailM,%d분,%m,,,,,
+mailD,%d일,%dDays,,,,,
+mailH,%d시간,%dHrs,,,,,
+mailM,%d분,%Mins,,,,,
 mailDeleteMsg,선택한 편지를 삭제하시겠습니까?(%d개 선택)\n*첨부된 아이템도 삭제가 됩니다.,Do you want to delete the selected Mail?(%d Selected)\n* Attached item will also be deleted.,,,,,
 reMail,답장,Reply,,,,,
 mailBlock, '%s'의 편지를 차단 하시겠습니까?,Block '%s' 's messages?,,,,,
@@ -4787,8 +4801,8 @@ chatUnBlock,채팅차단 해제,Chat Unblock,,,,,
 lightSelectWarningMsg,이전 전쟁에 (빛)진영을 선택했습니다.\n다른진영을 선택해주세요!!!,Chose in the previous war (light) faction.\nPlease select a different camp !!!,,,,,
 drakSelectWarningMsg,이전 전쟁에 (어둠)진영을 선택했습니다.\n다른진영을 선택해주세요!!!,Chose in the previous war (Dark) faction.\nPlease select a different camp !!!,,,,,
 warSideSelectResult,%s이 선택되었습니다.,%s has been selected.,,,,,
-element1to2,"속성카드 1단계 x5를 2단계 x1로 변환하시겠습니까?\n(골드 10,000개 소모)","Convert Grade-1x5 Element cards  into Grade-2x1 Element  card?\n(Cost : 10,000 gold)",,,,,
-element2to3,"속성카드 2단계 x5를 3단계 x1로 변환하시겠습니까?\n(골드 10,000개 소모)","Convert Grade-2x5 Element cards  into Grade-3x1 Element  card?\n(Cost : 10,000 gold)",,,,,
+element1to2,"속성카드 1단계 x5를 2단계 x1로 변환합니다.\n(카드 1장 변환 당 10,000 골드 소모)","Convert Grade-1x5 Element cards into Grade-2x1 Element card?\n(Cost : 10,000 gold per card)",,,,,
+element2to3,"속성카드 2단계 x5를 3단계 x1로 변환합니다.\n(카드 1장 변환 당 10,000 골드 소모)","Convert Grade-2x5 Element cards into Grade-3x1 Element card?\n(Cost : 10,000 gold per card)",,,,,
 incubatorSelect,부화기를 선택해주세요!!,select the incubators!!,,,,,
 itemCollectionTradeTitle,아이템 교환소,Item exchange,,,,,
 conquestLabel,정복자,conqueror,,,,,
@@ -5061,7 +5075,7 @@ diceRoll,굴리기,Rolling,,,,,
 diceReRoll,다시 굴리기,Rolling again,,,,,
 diceEnchant,강화하기,Enchant,,,,,
 turnContinue,%d턴 동안 지속,It lasts %d turns,,,,,
-luckyUpComment,주사위를 강화 할 수록 행운 확률이 상승합니다.,The luck of the dice to enhance the probability rises.,,,,,
+luckyUpComment,주사위를 강화 할 수록 행운 확률이 상승합니다.,The luck of the dice to enhance \nthe probability rises.,,,,,
 diceEnchantMaterial,강화 재료,Enchant Materials,,,,,
 fixBuffComment1,모든 드래곤의 HP가 팀 리더의 HP만큼 더해진다.,HP's all added as the Dragon's HP is the team leader.,,,,,
 fixBuffComment2,모든 드래곤의 ATT가 팀 리더의 ATT만큼 더해진다.,ATT's all added as the Dragon's ATT is the team leader.,,,,,
@@ -5157,11 +5171,11 @@ reveEclipseArea2,[꿈의 세계 : 탐험],[Realm of Dream : Explore],,,,,
 reveEclipseArea3,[하늘왕국 : 왕궁방어전],[Sky Kingdom : Palance Defense],,,,,
 reveEclipseArea4,[점술집 : 아이템 강화],[Fortuneteller : Reinforce Item],,,,,
 reveEclipseMsg1,%s 에서 획득 가능합니다.,You may obtain at %s,,,,,
-battleFieldBattleListTab,대전목록,Match List,,,,,
-rewardListTab,보상목록,Rewards,,,,,
-defensiveListTab,방어기록,Defense,,,,,
-mission,미션,Mission,,,,,
-dragon_type_0,일반 드래곤,Normal Dragon,,,,,
+battleFieldBattleListTab,대전목록,MATCH,,,,,
+rewardListTab,보상목록,REWARDS,,,,,
+defensiveListTab,방어기록,DEFENSE,,,,,
+mission,미션,MISSION,,,,,
+dragon_type_0,성체 드래곤,Adult Dragon,,,,,
 dragon_type_1,캡슐 드래곤,Capsule Dragon,,,,,
 dragon_type_2,각성 드래곤,Awakened Dragon,,,,,
 dragon_type_3,초월 드래곤,Transcended Dragon,,,,,
@@ -5499,9 +5513,6 @@ ChampDragon_0,챔피언 대전에 등록된 드래곤입니다.,This dragon is r
 ChampDragon_1,등록한 드래곤이 해제되었습니다.,Registered dragon has been released.,,,,,
 ChampDragon_2,%d팀 드래곤 세팅이 필요합니다.,You need to\nset dragons for team%d.,,,,,
 ChampDragon_3,드래곤빌리지 최신 업데이트가 있습니다.\n업데이트 이후에 팀 세팅이 가능합니다.,There is a new update for Dragon Village.\nTeam setting is available after the update.,,,,,
-dvmPromotionTitle,드래곤빌리지M 설치 이벤트,DragonVillage M Release Event,,,,,
-dvmPromotionText,드래곤빌리지M 다운 받으면 드빌1 다이아 %d개 지급!,%d diamonds given for installing DV M!,,,,,
-dvmPromotionBtnDownload,다운받기,Download,,,,,
 ThxgivingPocket_0,성공 확률 %d%%,Success %d%%,,,,,
 ThxgivingPocket_1,복주머니,Sack,,,,,
 ThxgivingPocket_2,주머니 오픈에 성공하셨습니다.,You success to open the sack.,,,,,
@@ -5816,7 +5827,7 @@ ARCHA15,[%s] 님이 추방당하셨습니다.,[%s] is banned.,,,,,
 ARCHA16,강퇴당했습니다.,You are banned.,,,,,
 ARCHA17,[%s]님이 [%s]님을 쫓아내려 합니다.,[%s] wants to kick [%s] out.,,,,,
 ARCHA18,[%s]님이 [%s]님과 다시 함께하고 싶어합니다.,[%s] wants to play with [%s] again.,,,,,
-ARCHA19,빛의 인장 10개를 구매하시겠습니까?,Do you want to buy 10 light crests?,,,,,
+ARCHA19,빛의 인장 %d개를 구매하시겠습니까?,Do you want to buy %d light crests?,,,,,
 ARCHA20,(%s) 전투가 시작되었다!,(%s) Action!,,,,,
 ARCHA21,(%s)의 (%s)(이)가 쓰러졌다!,(%s) defeat (%s)!!,,,,,
 ARCHA22,친구 신청을 하시겠습니까?,Do you want to send friend request?,,,,,
@@ -5849,7 +5860,7 @@ ARCHA48,x%d 에 구매하시겠습니까?,x%d purchase,,,,,
 ARCHA49,상점 슬롯을 오픈하시겠습니까?,Do you want to open an item slot?,,,,,
 ARCHA50,%s x%s 아이템을 구매하시겠습니까?,Do you want to buy %s x%s item?,,,,,
 ARCHA51,고맙구만! 힘내서 싸워보라고!,Thank you! Now go for it!,,,,,
-ARCHA52,오늘은 물건이 잘 나왔구만! 한번 골라보라고!,You're lucky today! Take your pick!,,,,,
+ARCHA52,오늘은 물건이 잘 나왔구만! 한번 골라보라고!\n초기화 시 첫번째 아이템을 제외하곤 모두 랜덤하게 나온다고!,You're lucky today! Take your pick!,,,,,
 ARCHA53,슬롯을 오픈했군! 뭐가 나올지 기대해봐!,You open your slot! Can you guess what you got?,,,,,
 ARCHA54,%s가 부족합니다.,Not enough %s.,,,,,
 ARCHA55,우편으로 아이템이 도착했습니다.,Mail has arrived.,,,,,
@@ -5869,6 +5880,7 @@ ARCHA68,접속이 끊어졌습니다.\n다시 접속하시겠습니까?,Disconne
 ARCHA69,오류: 게임 재접속에 실패했습니다.,Error: Failed to rejoin game.,,,,,
 ARCHA70,[%s]님의 연결이 끊어졌습니다.,[%s] has disconnected.,,,,,
 ARCHA71,진화 대상 드래곤,Dragon for Evolution,,,,,
+ARCHA72,드래곤 덱을 초기화 합니다.,Initialize the Dragon Deck.,,,,,
 bg_ARCHA_LIGHT,빛의 봉인지,Land of light,,,,,
 bg_ARCHA_LIGHTIntro,당신은 빛의 봉인지로 탐험을 떠났습니다.\n아르하의 옛 모습이 남아있는 곳입니다.,You went on an expedition to the land of light.\nThis is where the beautiful scenes of the old Archa are left.,,,,,
 bg_ARCHA_WIND,바람의 봉인지,Land of wind,,,,,
@@ -5991,7 +6003,9 @@ TOUR_HELP1,솔로전 진행\n동별 미만 참여 가능\n20~21레벨 드래곤�
 TOUR_HELP2,태그전 진행\n정령사용 가능\n티켓 1장(다이아 1개) 필요,Tag match\nSprit available\n1 ticket required,,,,,
 ARCHA_TOWER_0,동굴,Cave,,,,,
 ARCHA_TOWER_1,참가,Attend,,,,,
-ARCHA_TOWER_2,증명의 탑,Tower of Proof,,,,,
+ARCHA_TOWER_2_NORMAL,NORMAL,Tower of Proof,,,,,
+ARCHA_TOWER_2_HARD,HARD,Tower of Proof,,,,,
+ARCHA_TOWER_2_INFINITE,INFINITE,Tower of Proof,,,,,
 ARCHA_TOWER_3,%d층,%d - Floor,,,,,
 ARCHA_TOWER_4,드래곤이 부족합니다.,Not enough dragon.,,,,,
 ARCHA_TOWER_5,증명의 탑에 참가하는 드래곤은 다른 곳에서 사용할 수 없습니다.\n \n확정하시겠습니까?,Dragons participating in the Tower of Proof can not be used elsewhere.\n\nAre you sure?,,,,,
@@ -6011,6 +6025,11 @@ ARCHA_TOWER_18,"4. 성공, 혹은 실패할 경우 초기화가 이루어지기 
 ARCHA_TOWER_19,"5. 초기화는 매주 수요일 낮 12시에 이루어지며 드래곤 귀속 해제, 층수 초기화, 전용 아이템 소멸이 이루어집니다.","5. Initialization takes place at noon every Wednesday, and the dragons are defaulted, the floors are initialized, and the exclusive items are destroyed.",,,,,
 ARCHA_TOWER_20,6. 일정 골드를 소모해 원하는 시점에서 강제 초기화가 가능합니다.,6. Tamers can reset it after spending gold.,,,,,
 ARCHA_TOWER_21,"7. 증명의 탑에 드래곤을 등록하게 되면 이후 성공, 실패, 초기화 전까지 아르하에서 전용 아이템이 드랍되지 않습니다.","7. Adding a Dragon to your roster means you won't be able to get exclusive items from Archa until you succeed, fail, and initialize.",,,,,
+ARCHA_TOWER_MODE_SELECT,"증명의 탑 난이도를 선택해 주세요.","Please select the top difficulty level of proof.",,,,,
+ARCHA_TOWER_HARD_MODE_OPEN,"축하합니다.\n\n증명의 탑 하드모드가 오픈되었습니다.\n\n보다 어려운 증명의탑 하드모드에 도전 해보세요.","Congratulations.\n\nHard mode is open.\n\nTry a harder hard mode.",,,,,
+ARCHA_TOWER_INFINITE_MODE_OPEN,"축하합니다.\n\n증명의 탑 무한모드가 오픈되었습니다.\n\n보다 어려운 증명의탑 무한모드에 도전 해보세요.","Congratulations.\n\nInfinite mode is open.\n\nTry a harder hard mode.",,,,,
+ARCHA_TOWER_INFINITE_MODE_EXPLAIN,<yellow>    도움말</yellow>\n\n1.무한모드는 증명의 탑 하드모드 클리어 이후 진입이 가능합니다.\n\n2.증명의 탑 무한 모드 랭킹은 \n   매주 수요일 정오(12시) 초기화 됩니다.\n\n3.무한모드 랭킹 점수는 층 수와 적에게 가한 피해(%)를 점수화하여 \n   랭킹이 기록됩니다.\n\n4.동일 점수일 경우 \n   먼저 달성한 테이머님이 높은 순위를 기록합니다.,<yellow>    HELP</yellow>\n \n1.The Infinite Mode can be accessed after  \n   clearing the Tower of Proof Hard Mode. \n\n2.The rankings for the Infinite Mode in the Tower of \n   Proof are reset every Wednesday at noon (12:00 PM). \n\n3.The ranking score in Infinite Mode is determined \n   by the number of floors and the damage (%) dealt to the enemies. \n\n4.In the case of the same score and the Tamer \n   who achieved it first will be ranked higher.,,,,,
+ARCHA_TOWER_INFINITE_TICKET,무한모드 입장권을 구매하시겠습니까?,Do you want to buy ticket?,,,,,
 ARCHA_QUEST_1,다크베인을 무찌르고 아르하의 기운을 수집하자.,Defeat Dark vein and collect the force of Archa.,,,,,
 ARCHA_QUEST_2,수집 작업이 완료됐는지 확인하자,Check collecting is done,,,,,
 ARCHA_QUEST_3,아르하로 이동하자,Go to Archa,,,,,
@@ -6370,17 +6389,17 @@ SPIRIT_TICKET_3,정령 최고급 뽑기권,Spirit Best Quality Ticket,,,,,
 SPIRIT_TICKET_4,정령 5성 확정권,Spirit 5 STAR Ticket,,,,,
 SPIRIT_TICKET_5,정령 6성 확정권,Spirit 6 STAR Ticket,,,,,
 SPIRIT_TICKET_6,정령 10+1 뽑기권,Spirit 10+1 Ticket,,,,,
-SPIRIT_TICKET_CON,10+1 뽑기,10+1 Draw,,,,,
+SPIRIT_TICKET_CON,10+1 뽑기,10+1 DRAW,,,,,
 SPIRIT_PULL_STORE,보유하고 있는 재화가 부족합니다.\n상점으로 이동하여 구매하시겠습니까?,Not enough money.\nDo you want to buy?,,,,,
 SPIRIT_PULL_SHORTAGE,정령 저장 갯수가 부족합니다.\n다이아를 사용하여 확장하시겠습니까?\n[확장수: %d 다이아 %d],Not enough space.\nDo you want to expand?\n[%d slots per %d diamonds],,,,,
 SPIRIT_PULL_CONFIRM,뽑기를 시도하시겠습니까?,Do you want to draw?,,,,,
 SPIRIT_PULL_TICKETCONFIRM,뽑기권을 사용하시겠습니까?,Do you want to use ticket to draw?,,,,,
 SPIRIT_PULL_RETRY,다시 뽑기,Retry,,,,,
-SPIRIT_TAB_PULL,정령 뽑기,Draw,,,,,
+SPIRIT_TAB_PULL,정령 뽑기,DRAW,,,,,
 SPIRIT_PULL_ONCE,1회 뽑기,Draw,,,,,
 SPIRIT_PULL_TEN,10회 뽑기,Draw 10,,,,,
-SPIRIT_TAB_LAB,정령 관리,Lab,,,,,
-SPIRIT_TAB_BOOK,정령 도감,Book,,,,,
+SPIRIT_TAB_LAB,정령 관리,LAB,,,,,
+SPIRIT_TAB_BOOK,정령 도감,BOOK,,,,,
 SPIRIT_MAX_LEVEL,정령이 최고레벨에 도달하여\n성장할 수 없습니다.,This spirit cannot grow further.,,,,,
 SPIRIT_MAX_REINFORCE,정령이 최대 강화 레벨에 도달하여\n성장할 수 없습니다.,This spirit cannot grow further.,,,,,
 SPIRIT_USE_WITH_DRAGON_NULL,해당정령은 귀속된 드래곤이 소멸한 상태입니다. 재료로 사용하시겠습니까?,There are no dragons equipped with spirits. Do you want to use it as a material?,,,,,
@@ -6446,9 +6465,11 @@ GUILD_TICKET_0,일반 1회 뽑기,Normal Draw,,,,,
 GUILD_TICKET_1,일반 뽑기권,Normal Ticket,,,,,
 GUILD_TICKET_2,10+1 뽑기권,10+1 Ticket,,,,,
 GUILD_TICKET_3,최고급 뽑기권,Premium Ticket,,,,,
-GUILD_TICKET_4,5성 뽑기권,5 Star Ticket,,,,,
-GUILD_TICKET_5,6성 뽑기권,6 Star Ticket,,,,,
-GUILD_TICKET_6,일반 10+1 뽑기,Normal 10+1 Draw,,,,,
+GUILD_TICKET_4,최고급 10+1 뽑기권,Premium 10+1 Ticket,,,,,
+GUILD_TICKET_4_enter,최고급\n10+1 뽑기권,Premium\n10+1 Ticket,,,,,
+GUILD_TICKET_5,5성 뽑기권,5 Star Ticket,,,,,
+GUILD_TICKET_6,6성 뽑기권,6 Star Ticket,,,,,
+GUILD_TICKET_CON,일반 10+1 뽑기,Normal 10+1 Draw,,,,,
 GUILD_DRAGON_SKILL_NAME_1,흡혈,Vampire,,,,,
 GUILD_DRAGON_SKILL_NAME_2,회피 반격,Counterattack,,,,,
 GUILD_DRAGON_SKILL_NAME_3,방어 확률 증가,Block Rate Increase,,,,,
@@ -6459,18 +6480,19 @@ GUILD_DRAGON_SKILL_NAME_7,크리 데미지 증가,Critical Damage Increase,,,,,
 GUILD_DRAGON_SKILL_NAME_8,폭발,Explosion,,,,,
 GUILD_DRAGON_SKILL_NAME_9,추가 방어력,Extra Defense,,,,,
 GUILD_DRAGON_SKILL_NAME_10,방확 방어력 증가,Block Increase,,,,,
-GUILD_DRAGON_SKILL_INFO_1,크리티컬 공격시 HP를 소량 흡수합니다.,Absorb HP when critical attack activated,,,,,
-GUILD_DRAGON_SKILL_INFO_2,적의 공격을 회피 후 일정확률로 반격합니다.,Can strike back when evade enemy's attack,,,,,
-GUILD_DRAGON_SKILL_INFO_3,적의 공격을 방어할 확률이 높아집니다.,Increase the chance to block enemy's attack,,,,,
-GUILD_DRAGON_SKILL_INFO_4,HP가 50% 이하가 되면 분노하여 공격력이 상승합니다.,Attack increased when HP decrease lower than 50%,,,,,
-GUILD_DRAGON_SKILL_INFO_5,공격시 때때로 적의 방어를 관통하는 공격을 합니다.,Can penetrate enemy's defence when attacking,,,,,
+GUILD_DRAGON_SKILL_INFO_1,크리티컬 공격시 HP를 소량 흡수합니다.,Absorb HP \nwhen critical attack activated,,,,,
+GUILD_DRAGON_SKILL_INFO_2,적의 공격을 회피 후 일정확률로 반격합니다.,Can strike back \nwhen evade enemy's attack,,,,,
+GUILD_DRAGON_SKILL_INFO_3,적의 공격을 방어할 확률이 높아집니다.,Increase the chance \nto block enemy's attack,,,,,
+GUILD_DRAGON_SKILL_INFO_4,HP가 50% 이하가 되면 분노하여 공격력이 상승합니다.,Attack increased \nwhen HP decrease lower than 50%,,,,,
+GUILD_DRAGON_SKILL_INFO_5,공격시 때때로 적의 방어를 관통하는 공격을 합니다.,Can penetrate enemy's defence \nwhen attacking,,,,,
 GUILD_DRAGON_SKILL_INFO_6,기본 공격력이 상승합니다.,Increase Attack,,,,,
 GUILD_DRAGON_SKILL_INFO_7,크리티컬 공격시 데미지가 상승합니다,Increase Critical damage,,,,,
-GUILD_DRAGON_SKILL_INFO_8,크리티컬 공격시 일정 확률로 폭발이 발생합니다.,Can explode the enemy when critical attack activated,,,,,
+GUILD_DRAGON_SKILL_INFO_8,크리티컬 공격시 일정 확률로 폭발이 발생합니다.,Can explode the enemy \nwhen critical attack activated,,,,,
 GUILD_DRAGON_SKILL_INFO_9,기본 방어력이 상승합니다.,Increase Defence,,,,,
-GUILD_DRAGON_SKILL_INFO_10,방어 성공시 데미지를 추가로 감소시킵니다.,Reduce the damage when success to defend,,,,,
+GUILD_DRAGON_SKILL_INFO_10,방어 성공시 데미지를 추가로 감소시킵니다.,Reduce the damage \nwhen success to defend,,,,,
 GUILDCAVE_DELETE,아이템을 삭제한 후에는 돌려받을 수 없습니다. \n삭제하시겠습니까?,Deleted items cannot be recovered.\nDo you want to delete it?,,,,,
 GUILDCAVE_OPEN_ITEM,%s을(를)\n길드 동굴에 등록하시겠습니까?,Do you want to register %s?,,,,,
+GUILDCAVE_OPEN_ITEM_GEM,%s을(를)\n길드 동굴에 등록하시겠습니까?,Do you want to register %s?,,,,,
 GUILDCAVE_LACK_BAG,길드 드래곤의 저장 공간이 부족합니다.\n루비를 사용하여 확장하시겠습니까?\n[%d칸 확장에 %d루비가 소모됩니다.],Not enough slot for the Guild dragon\nDo you want to expend bu using Ruby?\n[%d Ruby required to expand %d slot],,,,,
 GUILDCAVE_LACK_FULL,길드 드래곤의 저장공간을 더 이상 늘릴 수 없습니다.,Can not expand more slot.,,,,,
 GUILDCAVE_LACK_LIST,루비를 사용하여 리스트를 확장하시겠습니까?\n[%d칸 확장에 %d루비가 소모됩니다.],Do you want to expend by using Ruby?\n[%d Ruby required to expand %d slot],,,,,
@@ -6912,8 +6934,8 @@ HOTYONGSOON_SUB_TITLE_2,*얼음조각은 '탐험'을 통해 획득할 수 있습
 HOTYONGSOON_TALK_0,하... 정말 더워 얼음좀 구해주지 않을래?,It's too hot... Would you collect the ice and give it to me?,,,,,
 HOTYONGSOON_TALK_1,아직.. 아직도 더워 얼음이 더 필요해!,Not yet. I need more ice!,,,,,
 HOTYONGSOON_TALK_2,더위가 조금 가신거 같아 그래도 얼음을 좀더 구해줄래? ,"I think the heat's gone a little bit, but can you get me some more ice?",,,,,
-HOTYONGSOON_TALK_3,네비아의 알을 가져가려구? 조금만 더 노력해봐,Do you want Nebia? Get me some more ice,,,,,
-HOTYONGSOON_TALK_4,와 정말 얼음을 많이 모아왔구나 ! 네비아의 알을 가져갈수있겠어!,Wow! You gave me a lot of ice! Take this.,,,,,
+HOTYONGSOON_TALK_3,초림의 알을 가져가려구? 조금만 더 노력해봐,Do you want Chorim? Get me some more ice,,,,,
+HOTYONGSOON_TALK_4,와 정말 얼음을 많이 모아왔구나 ! 초림의 알을 가져갈수있겠어!,Wow! You gave me a lot of ice! Take this.,,,,,
 HOTYONGSOON_ICEPIECE,얼음 조각,Ice Piece,,,,,
 COLLECTION_STAT_0,체력,Hp,,,,,
 COLLECTION_STAT_1,공격력,Attack,,,,,
@@ -6969,6 +6991,8 @@ THANKSGIVING_OPENPOCKET_NAME,LV. %d\n복주머니,LV. %d\nSack,,,,,
 THANKSGIVING_BINGO_EXCHANGE_TITLE,4종류의 상자를 1개씩 사용하여\n아래의 상자로 교환 하시겠습니까?,Do you want to exchange 1 box per\neach kind to designated Number Box?,,,,,
 THANKSGIVING_POCKET_WARNING,Lv.8 복주머니부터 개봉에 실패하면 누적된 보상이 사라집니다.,"If tamers fail to open a lucky bag higher than Lv.8, all items will disappear.",,,,,
 THANKSGIVING_POCKET_WARNING_2,Lv.8 복주머니 이상 개봉 실패 시\n모든 누적보상을 잃어버립니다.\n개봉하시겠습니까?,"If you fail to open a lucky bag higher than Lv.8,\nall items will disappear.\nAre you sure?",,,,,
+THANKSGIVING_POCKET_WARNING_3,1레벨 복주머니 상태에서만 개봉할수 있습니다.,It can only be opened when in Level 1 lucky bag state.,,,,,
+THANKSGIVING_POCKET_WARNING_4,아직 뽑을수 없습니다. ,Can't pick it out yet.,,,,,
 ARCHA_RECON_RESTART,다시 보내기,Restart,,,,,
 GEM_COMBINE_WARN,*표시된 수량의 아이템이 소모됩니다.\n합성하시겠습니까?,*The displayed quantity of items will be used.\nAre you sure you want to upgrade?,,,,,
 GEM_COMBINE_OK,합성하기,Upgrade,,,,,
@@ -7141,7 +7165,7 @@ GUILDWAR_MAIN_TITLE,길드 대전,Guild Arena,,,,,
 GUILDWAR_TITLE,길드전,Guild War,,,,,
 CALC_WARN_1,주의사항 : 구매 횟수를 다시 한번 신중하게 확인해주시기 바랍니다.,Caution: Please check the quantity of the item you are going to buy.,,,,,
 CALC_WARN_2,"상품 구매 주의사항을 모두 인지했으며, 구매에 동의하신다면 선택해주세요.","If you agree to purchase, please enter a number.",,,,,
-NEWCHILDREN_PERIOD,이벤트 기간: 5/1~5/7,Schedule: May 1st ~ May 7th (KST),,,,,
+NEWCHILDREN_PERIOD,이벤트 기간:,Schedule:,,,,,
 NEWCHILDREN_SUBTITLE_0,EVENT1. 빛의 축제 콜로세움 대전,Festival of Light Colosseum Match,,,,,
 NEWCHILDREN_MISSION_0,보물상자,Treasure box,,,,,
 NEWCHILDREN_MISSION_2,일일 로그인,Daily login,,,,,
@@ -7149,7 +7173,7 @@ NEWCHILDREN_MISSION_3,탐험,Adventure,,,,,
 NEWCHILDREN_MISSION_4,"콜로세움\n(1:1), (3:3)",Colosseum\n(Solo & Tag),,,,,
 NEWCHILDREN_MISSION_5,일반 토너먼트,General\nTournament,,,,,
 NEWCHILDREN_SUBTITLE_1,EVENT2. 빛의 축제 기념 선물상자 이벤트,Festival of Light Gift box Event,,,,,
-NEWCHILDREN_RATEINFO,확률정보,Rate Info,,,,,
+COMMON_RATEINFO,확률정보,Rate Info,,,,,
 NEWCHILDREN_PKG_WARN,※ 본 상품은 구입시 청약 철회가 불가능합니다.,※ Refund of this item is not available after the purchase.,,,,,
 NEWCHILDREN_MISSION_WARN,※ 획득하신 미션 포인트는 매일 0시에 초기화 됩니다.,※ Mission points you've earned would be reset after 0 AM (KST) daily.,,,,,
 NEWCHILDREN_BOX_0,선물 상자,Gift box,,,,,
@@ -7159,7 +7183,6 @@ NEWCHILDREN_BOX_WARN,* 상자열기는 5/15까지 가능합니다,※ You can op
 NEWCHILDREN_HELP_0,"[규칙]\n\n1.이벤트 기간 중 전투 시간[오후 19:00 ~ 오후 22:00] 동안 일반 토너먼트 점수를\n 기록합니다.\n2.전투시간 동안에는 입장비용이 무료입니다.\n3.점수는 일반 토너먼트 참가시 1점, 8강 승리시 1점, 4강 승리시 1점, 우승시 1점을\n 획득합니다. [우승자는 총 4점 획득]\n4.이벤트가 종료된 후 랭킹에 따라 참가자에게 보상을 지급합니다.","-Rule\n\n1.During the battle time (19:00-22:00 GMT+9), the tournament score is recorded.\n2.Admission fee is free\n3.The score is 1 point for participating, 1 points for advancing to the quarterfinals,\n 1 points for advancing to the semifinals, and 1 points for winning.\n4. When the event is over, the tamers will be awarded according to their ranking.",,,,,
 NEWCHILDREN_HELP_1,*순위가 같다면 먼저 달성한 테이머가 우선순위를 가집니다.\n*전투에 참가하지 않으면 보상을 받을 수 없으니 주의 바랍니다.\n*누적 점수에는 반영되지 않습니다.,"*If the points are the same, rewards will be paid on a first-come, first-served basis.\n*There is no reward for not participating in the battle.\n*Scores obtained during the event are not added to the cumulative score.",,,,,
 NEWCHILDREN_TOP_BOX_OPEN,%s님이 최고급 선물 상자에서 %s,%s %s from Best quality gift box.,,,,,
-NEWCHILDREN_PERIOD_2,이벤트 기간: 5/1~5/14,Schedule: May 1st ~ May 14th (KST),,,,,
 caveUnlockSkin_NEWCHILDREN,잠금 해제 조건 : 빛의 축제 이벤트 출석 달성자,Unlock Condition : Festival of Light attendance winner,,,,,
 GUILDWAR_BUFF_0,없음,None,,,,,
 GUILDWAR_BUFF_1,체력 %d%%,HP %d%%,,,,,
@@ -7183,6 +7206,7 @@ GUILD_WAR_MATERIAL_DISABLE,길드전에 배치된 드래곤은 재료로 사용�
 GUILDWAR_BATTLE_FAIL_OTHER_MSG,다른 길드원이 승리한 거점입니다. 새로고침 해주세요.,Already taken base.,,,,,
 GUILDWAR_BATTLE_FAIL_NODRAGON_MSG,설정한 드래곤이 없습니다.,No dragons have been set,,,,,
 GUILDWAR_BATTLE_FAIL_OVERCNT_MSG,모든 공격 기회를 사용하였습니다.,All chances were used.,,,,,
+GUILDWAR_BATTLE_FAIL_DEFENCE_MSG, 해당 거점은 방어에 성공하여 더 이상 공격할 수 없습니다.,The base has been successfully defended and can no longer be attacked.,,,,,
 GUILDWAR_BATTLE_FAIL_ERRDRAGON_MSG,드래곤 정보 오류,An error has occurred.,,,,,
 GUILDWAR_MEDAL,메달,Medal,,,,,
 GUILDWAR_MEDAL_OBTAIN,메달을 %d개 얻었습니다.,Obtained %d Medal.,,,,,
@@ -7196,40 +7220,93 @@ GUILDWAR_ATTACKCNT_MSG_4,초기화 횟수 제한 초과,Initialization limit exc
 GUILDWAR_ATTACKCNT_MSG_5,초기화 할 공격 횟수 없음,No attack chance to initialize,,,,,
 GUILDWAR_ATTACKCNT_MSG_6,공격 기회 횟수를 초기화 하시겠습니까?\n황금 다이아 %d개 소모\n남은 초기화 횟수: %d회,Do you want to initialize ATK count?\n Require %d Golden diamonds\n remaining count: %d,,,,,
 GUILDWAR_ERROR_MSG_0,방어 기록이 없습니다.,There is no record of any defence.,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+SKY_SPIRIT_RATE_0,일반 뽑기권,Normal Ticket,,,,,
+SKY_SPIRIT_RATE_1,고급 뽑기권,High Ticket,,,,,
+SKY_SPIRIT_RATE_2,최고급/10+1 뽑기권,Premium/10+1 Ticket,,,,,
+SKY_SPIRIT_RATE_3,5성 확률업 이벤트,5 Star Event,,,,,
+COMMON_ITEM,아이템,Item,,,,,
+COMMON_RATE,확률,Rate,,,,,
+COMMON_COUNT,개수,Cnt,,,,,
+
+COMMON_RATEINFO_EGG,의문의 알 확률,Rate Table,,,,,
+COMMON_RATEINFO_RAID,출현확률,Rate Table,,,,,
+COMMON_RATEINFO_PULL,일반뽑기확률,Rate Table,,,,,
+COMMON_RATEINFO_ENCHANT,장신구 인챈트 확률,Rate Table,,,,,
+COMMON_RATEINFO_REENCHANT,추가 인챈트 확률,Rate Table,,,,,
+COMMON_RATEINFO_ENCHANT_TITLE1,1.1 ~ 3.0%,,,,,,
+COMMON_RATEINFO_ENCHANT_TITLE2,2 ~ 10회차 : 최종결과 0.1 ~ 2.0%,,,,,,
+COMMON_TEMPLEITEM_ENCHANT,확률은 증가 가능한 능력치 내에서 동일 확률 당첨됩니다.,,,,,,
+COMMON_DICE_TITLE,주사위 확률,Rate Table,,,,,
+MULTI_FIGHT_DROP_RATE,캡드전 드랍율,Drop Rate,,,,,
+ARCHA_TOWER_POPUP_DESCRIPT,증명의 탑 난이도를 선택 해주세요,Please select the level of difficulty,,,,,
+ARCHA_TOWER_POPUP_DISOPEN_HARD,하드모드는 아르하 스토리 완료 후 증명의 탑 올 클리어 시 활성화 됩니다.,Hard mode is activated when you clear the top of the proof after completing the Archa Story.,,,,,
+ARCHA_TOWER_POPUP_DISOPEN_INFINITE,무한모드는 하드모드 클리어 시 활성화 됩니다.,Infinite mode is activated upon clearing hard mode.,,,,,
+FAILED_AUTO_REGIST,자동 등록할 정령이 없습니다.,Failed auto regist.,,,,,
+USE_CARD_EXCHANG_MSG,<red>%s</red>로 합성 하시겠습니까?,Upgrade <red>%s</red>?,,,,,
+GEM_PULL_CON,10+1 뽑기,10+1 DRAW,,,,,
+GEM_PULL_ONCE,1회 뽑기,DRAW,,,,,
+GEM_RESET_MSG,<red>슬롯 초기화</red><red>\n%s</red>을(를) 해제 하시겠습니까?,<red>Gem Slot Reset</red>\nDo you want to disable <red>%s</red>?,,,,,
+BATTLEPASS_EXP_PURCHASE,%s EXPx%d을 구매하시겠습니까?,Would you like to purchase \nthe %s EXPx%d?,,,,,
+BATTLEPASS_EXP_PURCHASE_ABLE,프리미엄 패스가 7일 이내에 남아있을때부터 구매할 수 있습니다.,Experience points purchases will be available \nwhen your Premium Pass has less than 7 days remaining.,,,,,
+BATTLEPASS_EXP_NOTPURCHASE,더 이상 구매할 수 없습니다.,Purchase is no longer available.,,,,,
+LABORATORY_MATCH_EXPLAIN,대전할 두개의 덱을 선택해주세요.,Please choose two decks to compete with.,,,,,
+LABORATORY_MATCH_DECK_VALID_FAILED,비어 있는 슬롯을 가진 덱은 선택할수 없습니다.,Can't select a deck with empty slots,,,,,
+GUILD_WEEK_JOIN_FULL,주간 가입 가능 인원을 초과하였습니다.,Weekly member join limit has been exceeded.,가입 가능 인원을 초과하였습니다.,가입 가능 인원을 초과하였습니다.,Nie ma już więcej miejsca dla nowych członków Gildii.,超過了可加入的人員.,가입 가능 인원을 초과하였습니다.
+AUTO_BATTLE_SCENARIO_ERROR,탐험 시나리오 진행 중에는 자동전투를 실행 할 수 없습니다.,Auto battle cannot be executed during exploration scenario.,,,,,
+AUTO_BATTLE_DRAGON_ERROR,드래곤 세팅이 부족하여 자동전투를 실행 할 수 없습니다.,Auto battle cannot be executed due to insufficient dragon settings.,,,,,
+AUTO_HUNT_SETTING_FAIL,자동 사냥 세팅에 실패했습니다\n다시 시도하여주시기 바랍니다.,Auto hunt setting failed\nPlease try again.,自动狩猎设置失败\n请重试。,,,,
+NETWORK_ERROR_TITLE,통신 실패,Connection Failed,连接失败,,,,
+NETWORK_ERROR_MSG,네트워크 통신에 실패했습니다.,Network connection failed.,网络连接失败。,,,,
+PACKAGE_LOAD_FAIL,패키지 내용물을 불러오는데 실패 했습니다.\n고객센터에 문의해 주세요.,Failed to load package contents.\nPlease contact customer service.,无法加载礼包内容。\n请联系客服。,,,,
+NO_SPIRIT_TO_RELEASE,해제할 정령이 없습니다.,No spirit to release.,没有可解除的精灵。,,,,
+SPIRIT_RELEASE_COMPLETE,%s의 정령 귀속 해제 완료.,Spirit binding of %s has been released.,%s的精灵绑定已解除。,,,,
+EXIT_CONFIRM,나가시겠습니까?,Would you like to exit?,是否要退出？,,,,
+CONQUEST_RESET_CONFIRM,정복 후 재 진행시에는 1층부터 진행됩니다.\n해당 층을 정복 하시겠습니까?,After conquest, you will start from floor 1.\nDo you want to conquer this floor?,征服后重新进行时将从1层开始。\n是否要征服该层？,,,,
+TICKET_NOT_ENOUGH,티켓이 부족합니다.,Not enough tickets.,门票不足。,,,,
+DIAMOND_PAYMENT_ERROR,다이아 결제 오류,Diamond purchase error,钻石支付错误,,,,
+SELECT_DRAGON_FIRST,드래곤을 먼저 선택해주세요.\n드래곤 카드를 눌러주세요.,Please select a dragon first.\nTap the dragon card.,请先选择龙。\n点击龙卡。,,,,
+SAVE_SUCCESS_AND_RETURN,저장 성공!\n이전 화면으로 돌아갑니다!,Save successful!\nReturning to previous screen!,保存成功！\n返回上一页面！,,,,
+USE_ITEM_CONFIRM_WITH_NAME,<lightbrown>%s</lightbrown> 아이템을 사용하시겠습니까?\n<red>%s</red>,Would you like to use <lightbrown>%s</lightbrown>?\n<red>%s</red>,是否要使用<lightbrown>%s</lightbrown>道具？\n<red>%s</red>,,,,
+BUY_KEY_WITH_POINT,포인트를 사용하여 황금 열쇠를 구입 하시겠습니까?,Would you like to purchase Golden Key with points?,是否要使用点数购买黄金钥匙？,,,,
+BUY_KEY_CONFIRM,황금 열쇠 %d개를 구입 하시겠습니까?,Would you like to purchase %d Golden Keys?,是否要购买%d个黄金钥匙？,,,,
+KEY_EXCHANGE_SUCCESS,포인트를 황금 열쇠로 교환했습니다.,Points exchanged for Golden Key.,点数已兑换成黄金钥匙。,,,,
+NOT_ENOUGH_POINTS,포인트가 부족하여 구매할 수 없습니다.,Not enough points to make purchase.,点数不足，无法购买。,,,,
+PACKAGE_PURCHASE_TIME_EXPIRED,패키지 구매 가능 기간이 아닙니다.,Package is not available for purchase at this time.,目前不在礼包可购买期间。,,,,
+PAYMENT_SUCCESS_MAIL_NOTICE,결제에 성공했습니다. 아이템은 우편으로 지급됩니다.,Purchase successful. Items will be sent to your mail.,支付成功。物品将通过邮件发送。,,,,
+NOT_EVENT_PERIOD,이벤트 기간이 아닙니다.,Not during event period.,不在活动期间。,,,,
+NO_EVENT_PARTICIPATION,이벤트를 참여하지 않았습니다.,You have not participated in the event.,您尚未参与活动。,,,,
+GUILD_LEADER_ONLY,길드장만 이용할 수 있습니다,Only the guild leader can use this.,只有公会会长可以使用。,,,,
+MAX_LEVEL_REACHED,더이상 레벨업 할수 없습니다.,Maximum level reached.,已达到最高等级。,,,,
+SAME_GUILD_NAME,현재 이름과 같은 길드 이름입니다.,Guild name is the same as current name.,公会名与当前名称相同。,,,,
+ENTER_NICKNAME,닉네임을 입력해 주세요.,Please enter a nickname.,请输入昵称。,,,,
+NAME_CHANGE_NETWORK_ERROR,네트워크 오류로 인해 정상적으로\n이름이 변경되지 않았습니다.,Name change failed due to\nnetwork error.,由于网络错误\n名称更改失败。,,,,
+GUILD_NAME_CHANGED,길드이름이 변경되었습니다.,Guild name has been changed.,公会名称已更改。,,,,
+NO_GUILD_INFO,길드정보가 없습니다.,No guild information available.,没有公会信息。,,,,
+NO_PERMISSION,권한이 없습니다.,You don't have permission.,您没有权限。,,,,
+GUILD_ICON_LEVEL_REQUIRED,아이콘 변경은 길드레벨 %d부터 이용가능합니다.,Guild icon can be changed from guild level %d.,公会图标更改需要公会等级达到%d级。,,,,
+CHANGE_GUILD_ICON,길드 아이콘 변경,Change Guild Icon,更改公会图标,,,,
+SAME_GUILD_ICON,현재 아이콘과 같습니다.,Current icon selected.,当前图标相同。,,,,
+ICON_CHANGE_COST,아이콘 변경시 루비 100개를 소모합니다.,Changing icon costs 100 rubies.,更改图标需消耗100红宝石。,,,,
+GUILD_ICON_CHANGE_NETWORK_ERROR,네트워크 오류로 인해 정상적으로\n아이콘이 변경되지 않았습니다.,Icon change failed due to\nnetwork error.,由于网络错误\n图标更改失败。,,,,
+GUILD_ICON_CHANGED,길드 아이콘이 변경되었습니다.,Guild icon has been changed.,公会图标已更改。,,,,
+GUILD_RAID_LEVEL_REQUIRED,레이드는 길드레벨 5부터 이용가능합니다.,Guild raid is available from guild level 5.,公会副本需要公会等级达到5级。,,,,
+GUILD_RAID_INFO_LOAD_FAILED,레이드 정보를 불러오는것에 실패하였습니다.,Failed to load raid information.,加载副本信息失败。,,,,
+CLEAR_GAME_STORAGE,드래곤빌리지 앱의 저장공간에 있는 데이터를 지워 주세요.,Please clear the data in Dragon Village app's storage.,请清除龙之村落应用的存储数据。,,,,
+SIGNUP_ERROR,가입 오류,Sign up error,注册错误,,,,
+ABNORMAL_ACCESS_LOGOUT,비정상적인 접근이 감지되어 로그아웃되었습니다.,Abnormal access detected and logged out.,检测到异常访问，已登出。,,,,
+SEND_INFO_FAILED,필요한 정보를 보내는데 실패했습니다.,Failed to send required information.,发送所需信息失败。,,,,
+ILLEGAL_PROGRAM_DETECTED,불법 프로그램이 감지되었습니다. 게임을 종료합니다.,Illegal program detected. Game will be terminated.,检测到非法程序。游戏将被终止。,,,,
+ITEM_NUMBER_ERROR,아이템 번호 오류\n아이템 번호: %d가 존재하지 않습니다,Item number error\nItem No: %d doesn't exist,物品编号错误\n物品编号：%d不存在,,,,
+KEY_PURCHASE_UNAVAILABLE,현재 키 구매를 이용할 수 없습니다.,Key purchase is currently unavailable.,目前无法购买钥匙。,,,,
+CHALLENGE_FAILED,도전에 실패하였습니다.,Challenge failed.,挑战失败。,,,,
+LOCKED_SPIRIT_ENHANCE_ERROR,잠긴 정령은 강화 재료로 사용할 수 없습니다.,Locked spirits cannot be used as enhancement materials.,已锁定的精灵不能用作强化材料。,,,,
+MEMBERSHIP_REGISTRATION_COMPLETE,멤버십 등록이 완료되었습니다,Membership registration completed,会员注册已完成,,,,
+ORNAMENT_INVENTORY_FULL,장신구 소지 최대치에 도달했습니다. 장신구 가방을 비워주세요.,Ornament inventory is full. Please clear your ornament bag.,装饰品背包已满。请清理装饰品背包。,,,,
+LOGIN_FAILED,로그인 실패,Login failed,登录失败,,,,
+ANNIVERSARY_POCKET_WARNING_1,아직 뽑을수 없습니다. ,Can't pick it out yet.,,,,,
+ANNIVERSARY_POCKET_WARNING_2,1레벨 복주머니 상태에서만 개봉할수 있습니다.,It can only be opened when in Level 1 lucky bag state.,,,,,
+RAID_ALL_USE_MEDICINE,부상 상태의 모든 드래곤에게 <red>치료제</red>를 사용하시겠습니까?\n(<red>치료제</red>가 부족하면 일괄 치료를 진행할수 없습니다.),Use <red>Medicine</red> to heal all injured dragons?\n(Insufficient <red>Medicine</red> will prevent batch healing),,,,,
+RAID_NOT_ENOUGH_MEDICINE,<red>치료제</red>가 부족합니다.,Not enough <red>Medicine</red>.,,,,,
+RAID_MEDICINE_SUCCESS,<red>치료제</red>를 %d개 사용하여 치료를 완료했습니다.\n보유 중인 치료제: %d개,Completed healing using %d <red>Medicine</red>(s).\nAvailable <red>Medicine</red>: %d,,,,,
 ,,,,,,,
 UNLOCK,,,,,,,

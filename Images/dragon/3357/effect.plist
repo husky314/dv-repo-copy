@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{400,240}</string>
+                <string>{200,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{400,240}</string>
+                <string>{200,120}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{400,240}}</string>
+                <string>{{1,1},{200,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{400,240}</string>
+                <string>{200,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{400,240}</string>
+                <string>{200,120}</string>
                 <key>textureRect</key>
-                <string>{{403,1},{400,240}}</string>
+                <string>{{203,1},{200,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +46,9 @@
             <key>realTextureFileName</key>
             <string>effect.pvr.ccz</string>
             <key>size</key>
-            <string>{804,242}</string>
+            <string>{404,122}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:3594466ef89c87f0c0bb41f4b5ecd6a2:f4dec6293cba0fecd1f16c86585cbff7:e0fdcd92bbdb8ab6858982d39ba3f2d9$</string>
+            <string>$TexturePacker:SmartUpdate:2c7be8c9e0c47b1069bf7dbce8476b71:b9c51c85b7f5d5ea1a8e1de27c6aaa03:e0fdcd92bbdb8ab6858982d39ba3f2d9$</string>
             <key>textureFileName</key>
             <string>effect.pvr.ccz</string>
         </dict>
