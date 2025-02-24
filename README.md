@@ -1,5 +1,5 @@
 # dv-repo
-a public repository for distribution of Dragon Village 1 assets.
+a public repository for distribution of Dragon Village 1 assets. for other Dragon Village repositories, see my user profile.
 <br>
 <div>
 i do <i>not</i> own these assets. they are copyrighted property of highbrow, and are <i>not</i> for commercial use. i initially was motivated to retrieve these assets due to the widespread issue of the community being unable to access basic clear images of Dragon Village 1 characters. in addition, the encyclopedia on dragonvillage.net has been left without updates for years. this, along my worsening health and being a single point of failure for many major Dragon Village community resources, has led me to the decision of setting up separate public repositories for Dragon Village assets that are otherwise difficult to obtain.
